@@ -1,0 +1,321 @@
+exit_id,employee_id,reason,exit_type,Exit_Date
+EXT00001,EMP00113,Termination,Involuntary,2025-05-14
+EXT00002,EMP00506,"Higher Studies",Voluntary,2023-11-04
+EXT00003,EMP00211,Relocation,Involuntary,2026-03-08
+EXT00004,EMP01045,"Health Issues",Involuntary,2025-07-03
+EXT00005,EMP00251,"Health Issues",Voluntary,2024-05-15
+EXT00006,EMP00749,"Higher Studies",Voluntary,2025-08-13
+EXT00007,EMP00392,"Better Opportunity",Involuntary,2023-09-14
+EXT00008,EMP00092,Termination,Voluntary,2026-03-08
+EXT00009,EMP00165,"Health Issues",Involuntary,2024-06-21
+EXT00010,EMP01131,"Better Opportunity",Voluntary,2026-02-13
+EXT00011,EMP00127,"Better Opportunity",Involuntary,2023-09-27
+EXT00012,EMP00437,"Better Opportunity",Voluntary,2025-02-14
+EXT00013,EMP01208,Relocation,Voluntary,2024-08-31
+EXT00014,EMP00388,"Health Issues",Voluntary,2024-02-02
+EXT00015,EMP00522,"Personal Reasons",Involuntary,2026-04-11
+EXT00016,EMP00487,Relocation,Voluntary,2023-02-11
+EXT00017,EMP00832,Retirement,Voluntary,2024-01-12
+EXT00018,EMP01097,Retirement,Involuntary,2024-07-30
+EXT00019,EMP00889,"Better Opportunity",Involuntary,2023-07-11
+EXT00020,EMP00599,"Personal Reasons",Involuntary,2025-07-19
+EXT00021,EMP01076,Termination,Involuntary,2025-05-03
+EXT00022,EMP00407,Relocation,Voluntary,2026-03-02
+EXT00023,EMP00054,Termination,Involuntary,2023-10-19
+EXT00024,EMP00093,"Personal Reasons",Involuntary,2026-07-30
+EXT00025,EMP00385,Relocation,Involuntary,2025-05-20
+EXT00026,EMP00805,"Better Opportunity",Voluntary,2025-12-16
+EXT00027,EMP00115,Termination,Voluntary,2023-12-28
+EXT00028,EMP00494,"Health Issues",Involuntary,2025-06-10
+EXT00029,EMP00198,"Personal Reasons",Voluntary,2026-03-17
+EXT00030,EMP00088,"Personal Reasons",Voluntary,2024-10-19
+EXT00031,EMP00187,Relocation,Involuntary,2024-09-07
+EXT00032,EMP01090,"Better Opportunity",Voluntary,2025-07-10
+EXT00033,EMP01038,"Higher Studies",Involuntary,2025-09-08
+EXT00034,EMP00525,"Personal Reasons",Involuntary,2024-08-30
+EXT00035,EMP00914,"Health Issues",Voluntary,2025-05-10
+EXT00036,EMP00759,Relocation,Voluntary,2025-06-04
+EXT00037,EMP00334,"Better Opportunity",Voluntary,2026-05-02
+EXT00038,EMP00125,"Better Opportunity",Voluntary,2024-06-24
+EXT00039,EMP00493,"Better Opportunity",Voluntary,2024-12-21
+EXT00040,EMP00535,Termination,Voluntary,2024-10-08
+EXT00041,EMP00335,"Personal Reasons",Voluntary,2026-05-23
+EXT00042,EMP00769,Retirement,Involuntary,2025-01-11
+EXT00043,EMP00891,"Better Opportunity",Voluntary,2024-06-24
+EXT00044,EMP00899,"Health Issues",Voluntary,2026-04-30
+EXT00045,EMP00776,Termination,Voluntary,2026-02-04
+EXT00046,EMP00481,"Higher Studies",Involuntary,2024-04-09
+EXT00047,EMP00838,Retirement,Voluntary,2024-08-24
+EXT00048,EMP00529,"Better Opportunity",Voluntary,2024-07-24
+EXT00049,EMP00421,Termination,Involuntary,2023-11-23
+EXT00050,EMP00358,"Better Opportunity",Voluntary,2024-04-22
+EXT00051,EMP00482,"Better Opportunity",Involuntary,2024-07-16
+EXT00052,EMP00327,"Higher Studies",Involuntary,2023-08-07
+EXT00053,EMP00444,"Better Opportunity",Voluntary,2024-10-10
+EXT00054,EMP00538,Retirement,Involuntary,2024-06-16
+EXT00055,EMP00953,"Better Opportunity",Involuntary,2025-07-03
+EXT00056,EMP00501,"Higher Studies",Voluntary,2024-10-05
+EXT00057,EMP00404,"Health Issues",Involuntary,2025-07-15
+EXT00058,EMP01072,"Personal Reasons",Voluntary,2024-09-18
+EXT00059,EMP00688,"Personal Reasons",Voluntary,2026-03-12
+EXT00060,EMP00580,Retirement,Voluntary,2023-09-14
+EXT00061,EMP00533,"Health Issues",Voluntary,2025-02-16
+EXT00062,EMP00309,"Higher Studies",Involuntary,2024-10-26
+EXT00063,EMP00053,Retirement,Involuntary,2026-05-01
+EXT00064,EMP00408,Termination,Voluntary,2025-06-27
+EXT00065,EMP00604,Termination,Involuntary,2023-08-22
+EXT00066,EMP00952,"Personal Reasons",Voluntary,2026-02-11
+EXT00067,EMP00592,"Personal Reasons",Voluntary,2025-04-04
+EXT00068,EMP00798,Relocation,Voluntary,2023-12-12
+EXT00069,EMP00985,"Personal Reasons",Voluntary,2024-09-23
+EXT00070,EMP00990,Relocation,Involuntary,2024-07-24
+EXT00071,EMP00265,Termination,Voluntary,2024-06-15
+EXT00072,EMP01148,"Better Opportunity",Voluntary,2023-08-25
+EXT00073,EMP00586,Retirement,Involuntary,2024-03-03
+EXT00074,EMP00639,"Personal Reasons",Involuntary,2026-07-15
+EXT00075,EMP00292,"Personal Reasons",Involuntary,2024-08-14
+EXT00076,EMP00096,"Higher Studies",Voluntary,2024-12-15
+EXT00077,EMP00169,"Better Opportunity",Voluntary,2026-08-01
+EXT00078,EMP00412,"Higher Studies",Voluntary,2023-10-17
+EXT00079,EMP00455,"Health Issues",Voluntary,2026-04-16
+EXT00080,EMP01044,"Personal Reasons",Involuntary,2024-05-07
+EXT00081,EMP00558,Retirement,Involuntary,2025-12-02
+EXT00082,EMP00719,Retirement,Voluntary,2024-03-28
+EXT00083,EMP00120,Termination,Voluntary,2025-03-21
+EXT00084,EMP00429,"Health Issues",Voluntary,2025-02-03
+EXT00085,EMP00979,"Health Issues",Voluntary,2023-11-21
+EXT00086,EMP01206,Termination,Voluntary,2025-06-26
+EXT00087,EMP00064,Retirement,Involuntary,2024-11-20
+EXT00088,EMP00877,"Higher Studies",Voluntary,2023-09-11
+EXT00089,EMP00402,Retirement,Voluntary,2024-05-16
+EXT00090,EMP00886,"Better Opportunity",Voluntary,2026-05-27
+EXT00091,EMP00925,Relocation,Involuntary,2023-12-30
+EXT00092,EMP01080,"Higher Studies",Involuntary,2025-02-24
+EXT00093,EMP00278,Termination,Involuntary,2024-02-03
+EXT00094,EMP00376,"Better Opportunity",Voluntary,2025-08-06
+EXT00095,EMP00649,"Personal Reasons",Voluntary,2025-10-15
+EXT00096,EMP01140,Termination,Involuntary,2025-07-21
+EXT00097,EMP00724,"Higher Studies",Voluntary,2024-02-22
+EXT00098,EMP00574,"Health Issues",Voluntary,2024-07-27
+EXT00099,EMP00779,"Higher Studies",Voluntary,2024-09-23
+EXT00100,EMP00676,Retirement,Voluntary,2025-05-06
+EXT00101,EMP00778,"Personal Reasons",Involuntary,2025-06-04
+EXT00102,EMP00079,"Health Issues",Involuntary,2026-07-15
+EXT00103,EMP00856,"Higher Studies",Voluntary,2024-04-12
+EXT00104,EMP00430,"Better Opportunity",Involuntary,2025-11-21
+EXT00105,EMP00581,"Health Issues",Voluntary,2026-02-03
+EXT00106,EMP00423,"Health Issues",Involuntary,2026-06-13
+EXT00107,EMP00881,"Better Opportunity",Voluntary,2025-02-13
+EXT00108,EMP00141,"Health Issues",Involuntary,2026-05-26
+EXT00109,EMP00963,"Personal Reasons",Voluntary,2026-01-24
+EXT00110,EMP00332,Termination,Involuntary,2025-05-29
+EXT00111,EMP00072,"Health Issues",Voluntary,2024-06-07
+EXT00112,EMP01183,Relocation,Voluntary,2025-07-12
+EXT00113,EMP00243,"Better Opportunity",Involuntary,2023-08-25
+EXT00114,EMP00971,Termination,Voluntary,2026-06-13
+EXT00115,EMP00576,"Better Opportunity",Involuntary,2026-02-24
+EXT00116,EMP00095,Termination,Voluntary,2025-07-11
+EXT00117,EMP00254,"Better Opportunity",Voluntary,2023-03-09
+EXT00118,EMP01068,"Higher Studies",Voluntary,2023-09-06
+EXT00119,EMP00143,Retirement,Voluntary,2026-02-19
+EXT00120,EMP00689,Termination,Voluntary,2024-04-23
+EXT00121,EMP00091,Termination,Voluntary,2025-06-15
+EXT00122,EMP00286,Relocation,Voluntary,2024-06-07
+EXT00123,EMP00564,"Better Opportunity",Voluntary,2024-12-07
+EXT00124,EMP00003,Retirement,Involuntary,2025-11-28
+EXT00125,EMP00994,"Personal Reasons",Voluntary,2025-02-20
+EXT00126,EMP00835,"Better Opportunity",Voluntary,2024-02-28
+EXT00127,EMP00010,Retirement,Voluntary,2024-09-03
+EXT00128,EMP00291,"Health Issues",Involuntary,2024-08-13
+EXT00129,EMP00341,"Higher Studies",Involuntary,2025-07-31
+EXT00130,EMP00565,"Health Issues",Voluntary,2024-12-26
+EXT00131,EMP00109,"Better Opportunity",Voluntary,2024-03-22
+EXT00132,EMP00861,Relocation,Involuntary,2024-10-27
+EXT00133,EMP00674,"Personal Reasons",Voluntary,2025-04-08
+EXT00134,EMP00208,"Better Opportunity",Voluntary,2025-03-14
+EXT00135,EMP00695,"Higher Studies",Voluntary,2025-05-24
+EXT00136,EMP00620,"Better Opportunity",voluntary,2025-10-30
+EXT00137,EMP00295,"Personal Reasons",Involuntary,2025-01-12
+EXT00138,EMP00440,"Higher Studies",Voluntary,2024-06-27
+EXT00139,EMP00463,"Health Issues",Involuntary,2025-06-01
+EXT00140,EMP00630,"Better Opportunity",Involuntary,2024-08-01
+EXT00141,EMP00426,"Health Issues",Voluntary,2025-05-23
+EXT00142,EMP00544,Termination,Involuntary,2025-10-14
+EXT00143,EMP00316,"Better Opportunity",Voluntary,2025-09-03
+EXT00144,EMP01043,Retirement,voluntary,2025-03-04
+EXT00145,EMP00559,Termination,Involuntary,2024-02-06
+EXT00146,EMP00831,Termination,Voluntary,2026-03-22
+EXT00147,EMP00258,Termination,Involuntary,2026-06-03
+EXT00148,EMP00609,"Better Opportunity",Voluntary,2025-01-21
+EXT00149,EMP00304,"Personal Reasons",Involuntary,2025-01-24
+EXT00150,EMP00133,Termination,Voluntary,2025-04-25
+EXT00151,EMP01120,Retirement,Voluntary,2025-03-18
+EXT00152,EMP00757,"Health Issues",Voluntary,2024-11-22
+EXT00153,EMP00812,"Personal Reasons",Involuntary,2023-09-01
+EXT00154,EMP00191,"Higher Studies",Voluntary,2025-02-23
+EXT00155,EMP00048,"Better Opportunity",Voluntary,2026-01-16
+EXT00156,EMP00828,Termination,Voluntary,2024-04-11
+EXT00157,EMP00415,"Personal Reasons",Voluntary,2025-09-01
+EXT00158,EMP00822,"Health Issues",Voluntary,2024-11-23
+EXT00159,EMP00526,Retirement,Voluntary,2023-08-22
+EXT00160,EMP00057,Termination,Voluntary,2024-02-24
+EXT00161,EMP00290,"Better Opportunity",Voluntary,2025-05-02
+EXT00162,EMP00849,Retirement,Voluntary,2023-12-19
+EXT00163,EMP00427,"Better Opportunity",Voluntary,2024-07-08
+EXT00164,EMP00477,Retirement,Involuntary,2026-05-24
+EXT00165,EMP00716,Relocation,Voluntary,2023-09-01
+EXT00166,EMP00873,"Higher Studies",Voluntary,2025-03-27
+EXT00167,EMP00629,"Personal Reasons",Voluntary,2026-07-24
+EXT00168,EMP00956,"Higher Studies",Involuntary,2025-03-29
+EXT00169,EMP00701,"Better Opportunity",Voluntary,2024-08-07
+EXT00170,EMP00553,"Better Opportunity",Involuntary,2024-11-27
+EXT00171,EMP00366,"Higher Studies",Involuntary,2024-12-19
+EXT00172,EMP00717,"Personal Reasons",Voluntary,2025-04-15
+EXT00173,EMP00323,"Better Opportunity",Involuntary,2025-08-03
+EXT00174,EMP00785,"Better Opportunity",Voluntary,2023-09-06
+EXT00175,EMP00898,"Better Opportunity",Voluntary,2026-07-06
+EXT00176,EMP01226,"Better Opportunity",Voluntary,2023-08-23
+EXT00177,EMP00260,Termination,Involuntary,2025-06-10
+EXT00178,EMP01064,Relocation,Involuntary,2024-09-15
+EXT00179,EMP00664,"Better Opportunity",Voluntary,2024-03-28
+EXT00180,EMP00443,"Better Opportunity",Involuntary,2024-06-10
+EXT00181,EMP00043,Retirement,Involuntary,2023-10-17
+EXT00182,EMP00021,Termination,Voluntary,2026-04-04
+EXT00183,EMP00706,"Health Issues",Voluntary,2026-01-29
+EXT00184,EMP00190,"Health Issues",Voluntary,2024-07-02
+EXT00185,EMP00476,"Better Opportunity",Voluntary,2024-08-24
+EXT00186,EMP00497,"Better Opportunity",Voluntary,2026-04-03
+EXT00187,EMP00841,"Health Issues",Voluntary,2024-02-18
+EXT00188,EMP00950,"Personal Reasons",Involuntary,2024-03-19
+EXT00189,EMP01175,Termination,Involuntary,2024-04-05
+EXT00190,EMP00678,Retirement,Voluntary,2026-09-05
+EXT00191,EMP00970,"Better Opportunity",Involuntary,2025-05-02
+EXT00192,EMP00148,"Better Opportunity",Voluntary,2024-09-05
+EXT00193,EMP00907,Relocation,Voluntary,2024-09-10
+EXT00194,EMP00246,"Higher Studies",Voluntary,2026-02-23
+EXT00195,EMP00524,Retirement,Voluntary,2025-08-06
+EXT00196,EMP01216,Retirement,Voluntary,2024-05-20
+EXT00197,EMP00771,Termination,Involuntary,2026-04-13
+EXT00198,EMP00012,"Better Opportunity",Voluntary,2025-04-01
+EXT00199,EMP01185,"Better Opportunity",Voluntary,2024-04-27
+EXT00200,EMP00348,"Better Opportunity",Voluntary,2026-06-17
+EXT00201,EMP01052,"Better Opportunity",Involuntary,2025-03-05
+EXT00202,EMP00532,Relocation,Voluntary,2023-08-31
+EXT00203,EMP01067,"Personal Reasons",Voluntary,2024-05-20
+EXT00204,EMP00399,"Personal Reasons",Voluntary,2025-07-11
+EXT00205,EMP01200,"Better Opportunity",Involuntary,2025-05-25
+EXT00206,EMP00132,"Health Issues",Involuntary,2025-05-19
+EXT00207,EMP00227,Termination,Involuntary,2024-05-30
+EXT00208,EMP00606,"Better Opportunity",Involuntary,2026-03-28
+EXT00209,EMP00984,"Better Opportunity",Involuntary,2024-08-02
+EXT00210,EMP00633,"Personal Reasons",Involuntary,2024-05-20
+EXT00211,EMP00330,Termination,Involuntary,2026-03-06
+EXT00212,EMP00568,"Higher Studies",voluntary,2025-11-25
+EXT00213,EMP00394,Retirement,Involuntary,2025-11-11
+EXT00214,EMP00727,"Better Opportunity",Involuntary,2025-05-07
+EXT00215,EMP00578,Termination,Involuntary,2024-11-25
+EXT00216,EMP01092,"Health Issues",Involuntary,2024-03-09
+EXT00217,EMP00214,"Better Opportunity",Voluntary,2024-03-23
+EXT00218,EMP00801,"Higher Studies",Voluntary,2025-03-13
+EXT00219,EMP00572,"Better Opportunity",Voluntary,2024-05-09
+EXT00220,EMP00504,"Better Opportunity",Involuntary,2025-10-09
+EXT00221,EMP00859,"Better Opportunity",Involuntary,2025-06-16
+EXT00222,EMP00732,Termination,Involuntary,2025-05-31
+EXT00223,EMP00107,"Better Opportunity",Involuntary,2024-03-15
+EXT00224,EMP00354,"Higher Studies",voluntary,2024-11-10
+EXT00225,EMP00591,Termination,Involuntary,2025-03-27
+EXT00226,EMP00428,Relocation,Voluntary,2024-07-07
+EXT00227,EMP01193,Retirement,Voluntary,2024-03-07
+EXT00228,EMP00069,"Higher Studies",Voluntary,2025-09-14
+EXT00229,EMP00158,Relocation,Voluntary,2026-05-31
+EXT00230,EMP01047,"Higher Studies",Voluntary,2025-10-11
+EXT00231,EMP00373,"Better Opportunity",Involuntary,2026-05-03
+EXT00232,EMP00441,"Better Opportunity",Involuntary,2025-10-31
+EXT00233,EMP00977,"Higher Studies",Involuntary,2025-07-29
+EXT00234,EMP01117,"Better Opportunity",Voluntary,2025-04-02
+EXT00235,EMP00261,"Better Opportunity",Involuntary,2026-02-08
+EXT00236,EMP00922,"Higher Studies",Voluntary,2024-01-19
+EXT00237,EMP00834,Termination,Involuntary,2024-10-21
+EXT00238,EMP01224,Termination,Involuntary,2025-12-10
+EXT00239,EMP00343,"Better Opportunity",Voluntary,2026-06-23
+EXT00240,EMP00683,Termination,Involuntary,2026-07-26
+EXT00241,EMP00923,"Health Issues",Involuntary,2023-10-02
+EXT00242,EMP00802,"Personal Reasons",Involuntary,2025-12-03
+EXT00243,EMP00189,"Better Opportunity",Voluntary,2025-05-01
+EXT00244,EMP00989,"Personal Reasons",Involuntary,2024-05-18
+EXT00245,EMP00036,Retirement,Involuntary,2026-02-01
+EXT00246,EMP00636,Retirement,Voluntary,2026-01-28
+EXT00247,EMP00906,"Better Opportunity",Involuntary,2025-01-06
+EXT00248,EMP00948,Relocation,Voluntary,2024-08-03
+EXT00249,EMP00715,Termination,Involuntary,2025-11-16
+EXT00250,EMP00935,"Health Issues",Involuntary,2026-06-17
+EXT00251,EMP00336,Retirement,Voluntary,2025-05-10
+EXT00252,EMP00520,"Better Opportunity",Involuntary,2024-01-07
+EXT00253,EMP00460,"Higher Studies",Voluntary,2026-07-11
+EXT00254,EMP00942,"Personal Reasons",Voluntary,2024-12-25
+EXT00255,EMP01000,"Better Opportunity",Involuntary,2025-07-26
+EXT00256,EMP00200,Retirement,Voluntary,2024-04-28
+EXT00257,EMP00845,Relocation,Voluntary,2024-04-23
+EXT00258,EMP01077,"Better Opportunity",Involuntary,2024-11-17
+EXT00259,EMP00144,"Better Opportunity",Voluntary,2024-05-14
+EXT00260,EMP00374,Relocation,Voluntary,2025-11-08
+EXT00261,EMP00386,Termination,Involuntary,2024-12-20
+EXT00262,EMP01123,"Health Issues",Voluntary,2025-02-23
+EXT00263,EMP01154,"Higher Studies",Voluntary,2025-06-07
+EXT00264,EMP01004,Termination,Involuntary,2023-12-07
+EXT00265,EMP00550,"Health Issues",Voluntary,2024-07-19
+EXT00266,EMP00097,"Better Opportunity",Involuntary,2024-11-01
+EXT00267,EMP00106,Termination,Involuntary,2025-09-18
+EXT00268,EMP00170,"Higher Studies",Voluntary,2026-03-04
+EXT00269,EMP00746,Termination,Involuntary,2023-11-06
+EXT00270,EMP01027,"Health Issues",Voluntary,2025-06-09
+EXT00271,EMP01141,Relocation,Voluntary,2024-12-12
+EXT00272,EMP00974,"Better Opportunity",Voluntary,2025-03-25
+EXT00273,EMP00161,"Better Opportunity",Involuntary,2024-04-12
+EXT00274,EMP00996,Relocation,Voluntary,2026-05-29
+EXT00275,EMP01033,"Better Opportunity",Voluntary,2025-11-14
+EXT00276,EMP00621,Relocation,Involuntary,2023-09-28
+EXT00277,EMP00962,"Health Issues",Involuntary,2025-11-18
+EXT00278,EMP01219,"Better Opportunity",Voluntary,2024-06-28
+EXT00279,EMP00186,Relocation,Involuntary,2026-04-11
+EXT00280,EMP00248,"Personal Reasons",Involuntary,2025-12-11
+EXT00281,EMP00556,"Health Issues",Voluntary,2025-12-10
+EXT00282,EMP01031,Retirement,Involuntary,2024-08-22
+EXT00283,EMP00692,"Higher Studies",Voluntary,2025-11-26
+EXT00284,EMP00090,"Higher Studies",Involuntary,2024-12-09
+EXT00285,EMP00729,Retirement,Voluntary,2025-02-17
+EXT00286,EMP00983,"Health Issues",voluntary,2025-05-04
+EXT00287,EMP00128,"Better Opportunity",Voluntary,2026-02-12
+EXT00288,EMP00123,Termination,Voluntary,2025-06-10
+EXT00289,EMP00007,Relocation,Voluntary,2024-11-21
+EXT00290,EMP01055,"Health Issues",Voluntary,2024-06-28
+EXT00291,EMP00013,"Personal Reasons",Voluntary,2024-04-16
+EXT00292,EMP00502,Termination,Involuntary,2023-08-23
+EXT00293,EMP00718,Retirement,Voluntary,2025-02-08
+EXT00294,EMP01212,Retirement,Involuntary,2023-05-10
+EXT00295,EMP00085,"Higher Studies",Involuntary,2025-12-12
+EXT00296,EMP01211,"Personal Reasons",Voluntary,2024-05-23
+EXT00297,EMP00878,Relocation,Involuntary,2024-07-16
+EXT00298,EMP01204,"Personal Reasons",Voluntary,2024-06-20
+EXT00299,EMP00116,"Personal Reasons",Voluntary,2024-08-11
+EXT00300,EMP00318,"Higher Studies",Voluntary,2025-06-29
+EXT00301,EMP00740,"Better Opportunity",Involuntary,2024-08-28
+EXT00302,EMP01011,Termination,Voluntary,2025-05-22
+EXT00303,EMP00542,Relocation,Involuntary,2026-02-05
+EXT00304,EMP00735,"Better Opportunity",Voluntary,2025-12-14
+EXT00305,EMP00155,"Better Opportunity",Voluntary,2023-11-10
+EXT00306,EMP00884,Relocation,Involuntary,2025-02-27
+EXT00307,EMP00566,"Higher Studies",Involuntary,2026-01-19
+EXT00308,EMP00774,"Health Issues",Involuntary,2024-01-11
+EXT00309,EMP01096,"Higher Studies",Involuntary,2024-02-07
+EXT00310,EMP00781,"Personal Reasons",Voluntary,2024-01-06
+EXT00311,EMP00194,"Higher Studies",Voluntary,2026-11-05
+EXT00312,EMP00919,"Health Issues",Voluntary,2026-05-30
+EXT00313,EMP00055,Termination,Voluntary,2025-01-07
+EXT00314,EMP00647,"Higher Studies",Voluntary,2023-12-18
+EXT00315,EMP00150,"Better Opportunity",voluntary,2026-02-05
+EXT00316,EMP00231,Termination,Involuntary,2026-01-28
+EXT00317,EMP01227,Relocation,Voluntary,2024-01-16
+EXT00318,EMP00284,"Better Opportunity",Voluntary,2024-09-20
+EXT00319,EMP00734,"Health Issues",Voluntary,2026-06-16
+EXT00320,EMP00555,"Higher Studies",Voluntary,2024-08-30

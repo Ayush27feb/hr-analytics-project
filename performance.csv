@@ -1,0 +1,2201 @@
+review_id,employee_id,rating,manager_name,feedback,Review_Date
+PRF000001,EMP00454,4,"Farhan Sharaf","Excellent Performer",2023-09-07
+PRF000002,EMP00097,3,"Omaja Kashyap","Needs Improvement",2024-08-11
+PRF000003,EMP00034,1,"Upma Pant","Below Average",2025-02-01
+PRF000004,EMP01077,3,NULL,Outstanding,2024-05-01
+PRF000005,EMP00504,3,"Ranveer Sood","Excellent Performer",2026-01-07
+PRF000006,EMP00898,2,"Farhan Sharaf","Meets Expectations",2024-02-19
+PRF000007,EMP00507,2,"Charles Bera","Meets Expectations",2025-09-27
+PRF000008,EMP01015,2,"Niharika Nagi","Meets Expectations",2023-10-17
+PRF000009,EMP00817,2,"Jagvi Parmar","Exceeds Expectations",2024-07-28
+PRF000010,EMP00289,5,"Dhruv Wagle",Outstanding,2025-03-02
+PRF000011,EMP00856,4,"Avni Chatterjee","Needs Improvement",2023-08-11
+PRF000012,EMP00206,1,"Azaan Grewal","Below Average",2024-03-15
+PRF000013,EMP00692,4,"Damini Mohanty",Outstanding,2025-05-01
+PRF000014,EMP00076,1,"Veda Sahota","Below Average",2024-09-29
+PRF000015,EMP00736,1,"Dipta Bhatti","Needs Improvement",2024-11-07
+PRF000016,EMP00907,1,"Niharika Nagi","Needs Improvement",2024-09-12
+PRF000017,EMP00730,2,"Avni Chatterjee","Meets Expectations",2025-12-03
+PRF000018,EMP00429,2,"Damini Mohanty","Excellent Performer",2023-09-17
+PRF000019,EMP00032,1,"Charles Bera","Below Average",2026-07-21
+PRF000020,EMP00873,5,"Pavani Magar","Excellent Performer",2024-09-09
+PRF000021,EMP00578,2,"Anthony Kanda","Exceeds Expectations",2024-03-24
+PRF000022,EMP01109,4,"Veda Sahota","Needs Improvement",2025-11-13
+PRF000023,EMP00003,2,"Chanakya Dada","Meets Expectations",2023-09-26
+PRF000024,EMP00841,2,"Indira Balakrishnan","Exceeds Expectations",2025-07-18
+PRF000025,EMP00615,2,"Farhan Sharaf","Exceeds Expectations",2024-03-24
+PRF000026,EMP00886,2,"Omaja Kashyap","Meets Expectations",2025-12-11
+PRF000027,EMP00283,4,"Niharika Nagi","Excellent Performer",2025-06-23
+PRF000028,EMP00908,3,"Udant Bala","Needs Improvement",2023-08-26
+PRF000029,EMP01049,2,"Nikita Dua","Meets Expectations",2024-06-09
+PRF000030,EMP01168,4,"Neelima Bhasin",Outstanding,2026-06-25
+PRF000031,EMP01072,1,"Saumya Srinivas","Below Average",2026-06-19
+PRF000032,EMP00343,2,"Xavier Gole","Needs Improvement",2025-06-21
+PRF000033,EMP00371,2,"Upma Pant","Meets Expectations",2023-09-18
+PRF000034,EMP00445,1,"Omaja Kashyap","Below Average",2023-11-15
+PRF000035,EMP00754,2,"Ekansh Samra","Exceeds Expectations",2026-03-21
+PRF000036,EMP00449,1,"Omaja Kashyap","Needs Improvement",2023-09-12
+PRF000037,EMP01132,1,"Ekansh Samra","Below Average",2024-05-11
+PRF000038,EMP00676,2,"Theodore Sha","Meets Expectations",2023-10-17
+PRF000039,EMP00405,2,"Charles Bera","Exceeds Expectations",2024-07-07
+PRF000040,EMP01185,1,"Osha Sachdev","Excellent Performer",2024-11-13
+PRF000041,EMP00254,2,"Anthony Kanda","Meets Expectations",2023-09-12
+PRF000042,EMP00206,1,"Shivani Varughese",Outstanding,2024-12-20
+PRF000043,EMP00798,3,"Jagvi Parmar",Outstanding,2026-06-05
+PRF000044,EMP00776,3,"Omaja Kashyap","Excellent Performer",2023-12-05
+PRF000045,EMP00503,2,"Dhruv Wagle","Exceeds Expectations",2026-02-03
+PRF000046,EMP00124,1,"Tanay Shetty",Outstanding,2024-05-11
+PRF000047,EMP00654,1,"Ojasvi Dasgupta","Below Average",2023-12-25
+PRF000048,EMP00134,3,"Ojasvi Dasgupta","Excellent Performer",2024-11-03
+PRF000049,EMP00651,2,"Harinakshi Varughese","Excellent Performer",2024-05-29
+PRF000050,EMP00044,2,"Osha Sachdev","Meets Expectations",2023-11-17
+PRF000051,EMP00746,1,"Charan Sen","Below Average",2025-05-22
+PRF000052,EMP00632,1,"Azaan Grewal","Below Average",2024-11-20
+PRF000053,EMP00748,3,"Charan Sen","Needs Improvement",2026-02-20
+PRF000054,EMP00154,3,"Faqid Prabhu","Excellent Performer",2025-05-19
+PRF000055,EMP01155,3,NULL,"Needs Improvement",2024-08-25
+PRF000056,EMP00619,5,"Osha Sachdev","Needs Improvement",2024-12-14
+PRF000057,EMP00661,2,"Pavani Magar","Meets Expectations",2026-01-05
+PRF000058,EMP00898,5,"Shivani Varughese","Excellent Performer",2025-12-03
+PRF000059,EMP00294,4,"Nikita Dua","Needs Improvement",2025-06-02
+PRF000060,EMP00499,4,"Charan Sen",Outstanding,2025-04-20
+PRF000061,EMP00297,4,"Vasudha Borde",Outstanding,2025-11-25
+PRF000062,EMP00383,2,"Omaja Kashyap","Exceeds Expectations",2026-04-21
+PRF000063,EMP00764,5,"Chanakya Dada",Outstanding,2025-03-23
+PRF000064,EMP00664,5,"Farhan Sharaf","Excellent Performer",2023-09-26
+PRF000065,EMP01013,4,"Damini Mohanty","Excellent Performer",2026-08-04
+PRF000066,EMP00191,4,"Ojasvi Dasgupta","Excellent Performer",2025-04-23
+PRF000067,EMP01207,4,"Gautam Sinha","Excellent Performer",2024-11-28
+PRF000068,EMP00428,3,"Dhriti Nagar",Outstanding,2026-02-13
+PRF000069,EMP00784,2,NULL,"Meets Expectations",2026-01-06
+PRF000070,EMP00668,2,"Anthony Kanda",Outstanding,2023-10-13
+PRF000071,EMP01220,1,"Falguni Halder","Below Average",2025-02-05
+PRF000072,EMP00656,2,"Azaan Grewal","Meets Expectations",2023-07-10
+PRF000073,EMP00555,2,"Harinakshi Varughese","Meets Expectations",2025-03-04
+PRF000074,EMP00680,3,"Charan Sen","Excellent Performer",2026-05-16
+PRF000075,EMP00721,4,"Avni Chatterjee",Outstanding,2025-01-14
+PRF000076,EMP00665,5,"Avni Chatterjee","Excellent Performer",2023-09-04
+PRF000077,EMP00493,1,"Gautam Sinha","Below Average",2024-09-08
+PRF000078,EMP01126,1,"Ojasvi Dasgupta","Below Average",2023-12-08
+PRF000079,EMP00133,1,"Damini Mohanty","Below Average",2024-03-19
+PRF000080,EMP00441,2,"Indira Balakrishnan",Outstanding,2024-10-21
+PRF000081,EMP00287,2,"Upma Pant","Exceeds Expectations",2025-12-31
+PRF000082,EMP01177,2,"Ojasvi Dasgupta","Exceeds Expectations",2024-05-04
+PRF000083,EMP00565,5,"Kavya Kadakia",Outstanding,2025-01-06
+PRF000084,EMP00223,2,NULL,"Exceeds Expectations",2023-09-17
+PRF000085,EMP00514,2,"Theodore Sha","Excellent Performer",2023-11-05
+PRF000086,EMP00374,2,"Veda Sahota","Meets Expectations",2026-03-25
+PRF000087,EMP01016,2,"Veda Sahota","Meets Expectations",2025-12-20
+PRF000088,EMP00988,1,"Theodore Sha","Excellent Performer",2024-07-09
+PRF000089,EMP00877,2,"Anthony Kanda",Outstanding,2026-02-20
+PRF000090,EMP00657,2,"Udant Bala","Meets Expectations",2025-04-25
+PRF000091,EMP00193,2,"Damini Mohanty","Exceeds Expectations",2025-01-17
+PRF000092,EMP00819,4,"Chanakya Dada",Outstanding,2024-02-03
+PRF000093,EMP00888,2,"Theodore Sha","Exceeds Expectations",2025-11-30
+PRF000094,EMP00196,2,"Nikita Dua",Outstanding,2024-02-08
+PRF000095,EMP00893,1,"Xavier Gole","Excellent Performer",2024-01-21
+PRF000096,EMP00360,2,"Pavani Magar","Exceeds Expectations",2024-07-07
+PRF000097,EMP00340,2,"Pavani Magar",Outstanding,2026-05-22
+PRF000098,EMP00356,4,"Falguni Halder",Outstanding,2025-01-13
+PRF000099,EMP00981,1,"Charles Bera","Excellent Performer",2025-05-15
+PRF000100,EMP01078,5,"Theodore Sha",Outstanding,2024-02-26
+PRF000101,EMP00566,3,"Saumya Srinivas","Needs Improvement",2025-10-11
+PRF000102,EMP00145,5,"Damini Mohanty",Outstanding,2026-05-17
+PRF000103,EMP00385,2,NULL,"Meets Expectations",2023-12-17
+PRF000104,EMP00950,2,NULL,"Exceeds Expectations",2024-11-20
+PRF000105,EMP00322,2,"Xavier Gole",Outstanding,2025-10-23
+PRF000106,EMP00214,5,"Niharika Nagi",Outstanding,2024-03-27
+PRF000107,EMP01047,1,"Harinakshi Varughese",Outstanding,2025-06-07
+PRF000108,EMP00507,2,"Falguni Halder","Meets Expectations",2024-09-11
+PRF000109,EMP01143,2,"Indira Balakrishnan","Exceeds Expectations",2025-01-13
+PRF000110,EMP00789,4,"Neelima Bhasin","Needs Improvement",2025-06-14
+PRF000111,EMP00688,5,"Kiaan Sani",Outstanding,2023-10-09
+PRF000112,EMP01187,2,"Upma Pant",Outstanding,2024-04-07
+PRF000113,EMP00264,2,"Neelima Bhasin","Needs Improvement",2024-07-20
+PRF000114,EMP00051,1,"Niharika Nagi","Below Average",2025-01-25
+PRF000115,EMP00537,5,"Veda Sahota","Needs Improvement",2026-03-21
+PRF000116,EMP00099,2,"Harinakshi Varughese","Excellent Performer",2025-07-25
+PRF000117,EMP00204,1,"Ojasvi Dasgupta",Outstanding,2024-05-19
+PRF000118,EMP00610,1,"Farhan Sharaf","Excellent Performer",2023-09-10
+PRF000119,EMP00931,2,"Kavya Kadakia","Excellent Performer",2024-12-02
+PRF000120,EMP00119,1,"Vincent Loyal","Below Average",2026-04-03
+PRF000121,EMP00563,2,"Udant Bala","Meets Expectations",2025-01-22
+PRF000122,EMP01195,3,"Theodore Sha","Needs Improvement",2026-03-01
+PRF000123,EMP01022,2,"Theodore Sha",Outstanding,2025-04-22
+PRF000124,EMP01087,5,"Shivani Varughese","Excellent Performer",2024-02-04
+PRF000125,EMP01120,3,"Osha Sachdev","Needs Improvement",2026-07-19
+PRF000126,EMP00842,3,"Anthony Kanda",Outstanding,2023-12-31
+PRF000127,EMP00134,5,"Pavani Magar","Needs Improvement",2025-06-18
+PRF000128,EMP01006,2,"Kavya Kadakia","Exceeds Expectations",2024-09-16
+PRF000129,EMP01045,4,"Dhruv Wagle","Needs Improvement",2024-03-18
+PRF000130,EMP00501,1,"Chanakya Dada","Below Average",2025-05-14
+PRF000131,EMP01023,4,"Avni Chatterjee","Excellent Performer",2025-05-14
+PRF000132,EMP00517,2,"Jagvi Parmar","Exceeds Expectations",2023-10-22
+PRF000133,EMP01170,5,"Ranveer Sood","Needs Improvement",2025-12-23
+PRF000134,EMP00370,2,"Damini Mohanty","Meets Expectations",2025-02-21
+PRF000135,EMP00836,2,"Udant Bala","Meets Expectations",2024-04-24
+PRF000136,EMP00514,2,"Pavani Magar","Meets Expectations",2025-04-18
+PRF000137,EMP01173,3,"Osha Sachdev","Needs Improvement",2025-12-19
+PRF000138,EMP00565,3,"Neelima Bhasin","Needs Improvement",2025-01-28
+PRF000139,EMP00325,2,"Farhan Sharaf","Meets Expectations",2025-10-03
+PRF000140,EMP00101,5,"Pavani Magar",Outstanding,2023-11-10
+PRF000141,EMP00806,1,"Chanakya Dada","Needs Improvement",2023-12-07
+PRF000142,EMP00145,2,NULL,"Meets Expectations",2024-08-06
+PRF000143,EMP00867,3,"Dipta Bhatti","Needs Improvement",2026-05-09
+PRF000144,EMP00300,2,"Saumya Srinivas","Excellent Performer",2023-09-04
+PRF000145,EMP00667,5,"Tanay Shetty","Excellent Performer",2024-10-21
+PRF000146,EMP00308,1,"Avni Chatterjee",Outstanding,2026-03-15
+PRF000147,EMP00532,1,"Tanay Shetty","Below Average",2025-08-17
+PRF000148,EMP00314,2,"Veda Sahota","Meets Expectations",2024-01-26
+PRF000149,EMP00601,2,"Azaan Grewal","Meets Expectations",2025-10-16
+PRF000150,EMP00937,5,"Kavya Kadakia","Excellent Performer",2024-10-16
+PRF000151,EMP00140,2,"Pavani Magar","Excellent Performer",2026-04-28
+PRF000152,EMP00849,1,"Gautam Sinha","Below Average",2025-12-26
+PRF000153,EMP01079,3,"Kiaan Sani","Needs Improvement",2024-12-10
+PRF000154,EMP00027,3,"Charan Sen","Needs Improvement",2025-03-03
+PRF000155,EMP00947,1,"Farhan Sharaf",Outstanding,2025-04-16
+PRF000156,EMP00880,2,"Arjun Prasad","Exceeds Expectations",2023-12-13
+PRF000157,EMP00619,1,"Omaja Kashyap","Excellent Performer",2026-01-06
+PRF000158,EMP00908,1,"Azaan Grewal","Excellent Performer",2025-04-16
+PRF000159,EMP00142,2,"Vincent Loyal","Meets Expectations",2024-09-02
+PRF000160,EMP00523,2,"Ranveer Sood","Exceeds Expectations",2023-12-21
+PRF000161,EMP00284,3,"Charan Sen","Needs Improvement",2023-09-26
+PRF000162,EMP01105,1,"Dipta Bhatti","Needs Improvement",2025-10-15
+PRF000163,EMP00949,2,"Omaja Kashyap","Needs Improvement",2026-06-03
+PRF000164,EMP01017,2,"Vincent Loyal","Meets Expectations",2023-08-21
+PRF000165,EMP00438,1,"Kiaan Sani",Outstanding,2026-04-19
+PRF000166,EMP01078,5,"Neelima Bhasin",Outstanding,2025-10-09
+PRF000167,EMP00029,2,"Dhriti Nagar","Exceeds Expectations",2024-12-08
+PRF000168,EMP00425,5,"Tanay Shetty",Outstanding,2025-11-11
+PRF000169,EMP00648,2,"Vincent Loyal","Meets Expectations",2025-05-04
+PRF000170,EMP00427,1,"Dhruv Wagle","Below Average",2026-04-09
+PRF000171,EMP01078,2,"Falguni Halder","Exceeds Expectations",2024-04-27
+PRF000172,EMP00601,2,"Damini Mohanty","Exceeds Expectations",2025-06-03
+PRF000173,EMP00784,2,"Gautam Sinha","Excellent Performer",2024-11-01
+PRF000174,EMP01009,5,"Veda Sahota","Excellent Performer",2025-03-22
+PRF000175,EMP00606,3,"Chanakya Dada","Excellent Performer",2024-08-10
+PRF000176,EMP00439,1,"Gautam Sinha","Below Average",2026-07-14
+PRF000177,EMP01196,2,"Harinakshi Varughese","Exceeds Expectations",2023-09-30
+PRF000178,EMP00550,1,"Omaja Kashyap","Excellent Performer",2023-10-25
+PRF000179,EMP00149,1,"Osha Sachdev","Below Average",2026-07-07
+PRF000180,EMP00252,1,"Vasudha Borde","Needs Improvement",2023-10-31
+PRF000181,EMP00186,5,"Osha Sachdev","Excellent Performer",2026-07-27
+PRF000182,EMP00656,1,"Farhan Sharaf","Below Average",2025-11-08
+PRF000183,EMP00792,3,"Arjun Prasad",Outstanding,2024-04-06
+PRF000184,EMP00481,2,"Ranveer Sood","Exceeds Expectations",2026-07-17
+PRF000185,EMP01117,2,"Niharika Nagi","Exceeds Expectations",2023-09-17
+PRF000186,EMP01013,2,"Faqid Prabhu","Exceeds Expectations",2025-03-14
+PRF000187,EMP01092,3,"Farhan Sharaf","Needs Improvement",2025-09-23
+PRF000188,EMP01055,1,"Kavya Kadakia","Below Average",2024-03-01
+PRF000189,EMP00449,2,"Vincent Loyal","Meets Expectations",2025-07-23
+PRF000190,EMP00199,1,"Niharika Nagi","Below Average",2023-12-31
+PRF000191,EMP00524,1,"Faqid Prabhu",Outstanding,2025-03-25
+PRF000192,EMP00611,3,"Ekansh Samra","Needs Improvement",2024-10-26
+PRF000193,EMP00994,1,"Pavani Magar","Excellent Performer",2024-09-24
+PRF000194,EMP00379,1,"Ranveer Sood","Below Average",2026-03-28
+PRF000195,EMP00754,2,"Dhriti Nagar","Needs Improvement",2024-09-27
+PRF000196,EMP00301,4,"Harinakshi Varughese","Needs Improvement",2024-02-05
+PRF000197,EMP00139,1,"Chanakya Dada","Below Average",2024-09-27
+PRF000198,EMP00250,1,"Ranveer Sood","Below Average",2024-12-23
+PRF000199,EMP01091,1,"Charan Sen",Outstanding,2026-07-17
+PRF000200,EMP01070,2,"Kiaan Sani","Meets Expectations",2024-04-02
+PRF000201,EMP01092,1,"Farhan Sharaf","Below Average",2025-03-18
+PRF000202,EMP00974,1,"Ranveer Sood","Below Average",2024-01-30
+PRF000203,EMP00365,4,"Anthony Kanda","Excellent Performer",2025-09-18
+PRF000204,EMP01046,2,"Harinakshi Varughese","Meets Expectations",2026-01-23
+PRF000205,EMP00821,3,"Udant Bala","Needs Improvement",2023-10-30
+PRF000206,EMP00235,2,"Kiaan Sani","Meets Expectations",2023-02-10
+PRF000207,EMP00044,2,"Kiaan Sani","Exceeds Expectations",2024-07-29
+PRF000208,EMP00058,2,"Udant Bala","Needs Improvement",2026-04-03
+PRF000209,EMP01199,3,"Anthony Kanda","Needs Improvement",2026-05-04
+PRF000210,EMP00667,2,"Ojasvi Dasgupta",Outstanding,2025-07-07
+PRF000211,EMP00238,5,"Veda Sahota","Excellent Performer",2026-01-01
+PRF000212,EMP01065,2,"Chavvi Devan","Excellent Performer",2023-10-15
+PRF000213,EMP00733,1,"Arjun Prasad",Outstanding,2023-11-17
+PRF000214,EMP00808,5,"Ranveer Sood","Needs Improvement",2024-03-06
+PRF000215,EMP00431,2,"Dhruv Wagle","Meets Expectations",2025-03-28
+PRF000216,EMP00904,5,"Chanakya Dada",Outstanding,2025-02-22
+PRF000217,EMP00174,3,"Azaan Grewal","Needs Improvement",2025-09-20
+PRF000218,EMP01065,2,"Udant Bala","Meets Expectations",2025-03-27
+PRF000219,EMP01026,2,"Indira Balakrishnan","Excellent Performer",2026-04-25
+PRF000220,EMP00864,3,"Ojasvi Dasgupta","Needs Improvement",2025-05-28
+PRF000221,EMP01043,4,"Dipta Bhatti","Needs Improvement",2025-07-15
+PRF000222,EMP00145,2,"Gautam Sinha",Outstanding,2025-08-20
+PRF000223,EMP00457,2,"Avni Chatterjee","Excellent Performer",2025-05-25
+PRF000224,EMP00453,4,NULL,"Needs Improvement",2024-05-19
+PRF000225,EMP00367,2,"Saumya Srinivas","Meets Expectations",2025-11-29
+PRF000226,EMP00667,3,"Gautam Sinha",Outstanding,2024-04-27
+PRF000227,EMP00603,1,"Dhriti Nagar","Needs Improvement",2026-04-29
+PRF000228,EMP00875,1,NULL,"Below Average",2024-02-13
+PRF000229,EMP00724,2,"Damini Mohanty","Excellent Performer",2026-01-22
+PRF000230,EMP01216,2,"Gautam Sinha","Meets Expectations",2024-02-07
+PRF000231,EMP00619,2,"Ranveer Sood","Meets Expectations",2026-07-22
+PRF000232,EMP00186,2,"Pavani Magar",Outstanding,2025-04-15
+PRF000233,EMP00858,2,"Vincent Loyal","Excellent Performer",2023-08-18
+PRF000234,EMP00829,1,"Shivani Varughese","Below Average",2024-08-07
+PRF000235,EMP00591,1,"Falguni Halder","Below Average",2024-12-02
+PRF000236,EMP00724,2,"Veda Sahota","Meets Expectations",2023-08-22
+PRF000237,EMP00013,2,"Chanakya Dada","Meets Expectations",2026-05-20
+PRF000238,EMP00836,3,"Chanakya Dada","Needs Improvement",2025-12-25
+PRF000239,EMP01135,2,"Tanay Shetty","Needs Improvement",2024-09-24
+PRF000240,EMP00732,2,"Falguni Halder",Outstanding,2025-04-09
+PRF000241,EMP00653,2,"Theodore Sha","Meets Expectations",2023-08-31
+PRF000242,EMP00911,1,"Dhruv Wagle",Outstanding,2023-11-21
+PRF000243,EMP00575,1,"Indira Balakrishnan","Below Average",2024-08-17
+PRF000244,EMP00614,1,"Gautam Sinha","Excellent Performer",2024-03-03
+PRF000245,EMP00902,1,"Indira Balakrishnan","Below Average",2023-08-25
+PRF000246,EMP00734,2,"Kavya Kadakia","Meets Expectations",2024-10-07
+PRF000247,EMP01098,5,"Azaan Grewal","Excellent Performer",2023-09-26
+PRF000248,EMP00769,3,"Theodore Sha","Needs Improvement",2025-03-19
+PRF000249,EMP00429,4,"Gautam Sinha","Needs Improvement",2023-09-20
+PRF000250,EMP00727,2,"Dhriti Nagar","Exceeds Expectations",2025-02-10
+PRF000251,EMP00935,5,"Dipta Bhatti","Needs Improvement",2023-10-31
+PRF000252,EMP00030,4,"Falguni Halder","Excellent Performer",2024-09-25
+PRF000253,EMP00852,3,"Osha Sachdev","Needs Improvement",2026-02-06
+PRF000254,EMP00038,1,"Ojasvi Dasgupta","Below Average",2026-02-21
+PRF000255,EMP01224,5,"Anthony Kanda",Outstanding,2026-03-07
+PRF000256,EMP00466,5,"Gautam Sinha",Outstanding,2023-08-16
+PRF000257,EMP01087,3,"Charan Sen","Needs Improvement",2024-12-27
+PRF000258,EMP01180,1,"Jagvi Parmar","Below Average",2025-01-06
+PRF000259,EMP00182,2,"Shivani Varughese","Exceeds Expectations",2025-06-20
+PRF000260,EMP00304,1,"Ekansh Samra","Below Average",2024-01-08
+PRF000261,EMP00662,1,"Charles Bera","Excellent Performer",2024-01-24
+PRF000262,EMP00962,2,"Chavvi Devan","Exceeds Expectations",2025-12-10
+PRF000263,EMP00785,2,"Farhan Sharaf","Excellent Performer",2025-03-24
+PRF000264,EMP00148,3,"Nikita Dua","Needs Improvement",2023-09-23
+PRF000265,EMP00690,3,"Neelima Bhasin","Needs Improvement",2025-01-18
+PRF000266,EMP00374,3,"Azaan Grewal","Needs Improvement",2025-03-27
+PRF000267,EMP00771,2,"Udant Bala","Exceeds Expectations",2025-11-03
+PRF000268,EMP00488,1,"Veda Sahota",Outstanding,2024-04-26
+PRF000269,EMP01011,2,"Tanay Shetty","Excellent Performer",2024-05-18
+PRF000270,EMP00063,5,"Anthony Kanda","Needs Improvement",2025-03-07
+PRF000271,EMP00033,2,NULL,"Exceeds Expectations",2024-02-23
+PRF000272,EMP00676,5,"Kiaan Sani","Excellent Performer",2023-09-07
+PRF000273,EMP00942,2,"Neelima Bhasin","Meets Expectations",2024-07-20
+PRF000274,EMP00778,3,"Saumya Srinivas","Needs Improvement",2025-10-23
+PRF000275,EMP00889,1,"Pavani Magar","Excellent Performer",2024-05-18
+PRF000276,EMP00344,2,"Harinakshi Varughese","Meets Expectations",2024-08-22
+PRF000277,EMP01018,5,"Kiaan Sani",Outstanding,2024-12-14
+PRF000278,EMP00726,3,"Dhriti Nagar","Needs Improvement",2025-11-29
+PRF000279,EMP01113,3,"Avni Chatterjee","Needs Improvement",2024-01-24
+PRF000280,EMP00879,3,"Theodore Sha","Needs Improvement",2025-11-14
+PRF000281,EMP00677,1,"Gautam Sinha","Below Average",2024-05-24
+PRF000282,EMP00578,5,"Veda Sahota","Excellent Performer",2024-08-16
+PRF000283,EMP00006,1,"Kiaan Sani","Below Average",2025-01-23
+PRF000284,EMP00940,2,"Charan Sen","Exceeds Expectations",2025-10-03
+PRF000285,EMP00411,2,"Shivani Varughese","Meets Expectations",2023-03-11
+PRF000286,EMP01168,1,"Xavier Gole","Needs Improvement",2025-03-06
+PRF000287,EMP00735,2,"Ojasvi Dasgupta","Exceeds Expectations",2023-12-09
+PRF000288,EMP00021,2,NULL,"Meets Expectations",2025-08-15
+PRF000289,EMP00342,2,"Shivani Varughese","Meets Expectations",2026-02-09
+PRF000290,EMP00726,2,"Saumya Srinivas","Meets Expectations",2024-12-08
+PRF000291,EMP00289,3,"Falguni Halder","Excellent Performer",2025-05-24
+PRF000292,EMP00917,3,"Faqid Prabhu","Needs Improvement",2024-05-04
+PRF000293,EMP00746,2,NULL,"Excellent Performer",2024-09-07
+PRF000294,EMP00081,1,"Neelima Bhasin","Excellent Performer",2024-01-29
+PRF000295,EMP00138,2,"Harinakshi Varughese","Exceeds Expectations",2026-05-30
+PRF000296,EMP00234,2,"Neelima Bhasin","Needs Improvement",2026-02-06
+PRF000297,EMP01058,1,"Ojasvi Dasgupta","Below Average",2025-07-11
+PRF000298,EMP00539,4,"Dhriti Nagar","Needs Improvement",2025-02-07
+PRF000299,EMP00360,2,"Ranveer Sood","Exceeds Expectations",2024-02-13
+PRF000300,EMP00127,2,"Veda Sahota","Meets Expectations",2026-02-06
+PRF000301,EMP00040,3,"Shivani Varughese","Needs Improvement",2024-11-05
+PRF000302,EMP01175,3,"Kavya Kadakia","Needs Improvement",2024-05-10
+PRF000303,EMP01167,5,"Charles Bera",Outstanding,2023-11-13
+PRF000304,EMP00570,3,"Udant Bala","Needs Improvement",2025-12-19
+PRF000305,EMP00737,4,"Charan Sen","Excellent Performer",2024-02-14
+PRF000306,EMP00863,2,NULL,"Needs Improvement",2024-11-11
+PRF000307,EMP00256,4,"Osha Sachdev","Excellent Performer",2026-04-13
+PRF000308,EMP01051,3,"Falguni Halder","Needs Improvement",2024-08-28
+PRF000309,EMP01166,1,"Jagvi Parmar",Outstanding,2023-08-07
+PRF000310,EMP00423,2,"Ranveer Sood","Exceeds Expectations",2023-10-27
+PRF000311,EMP00582,2,"Harinakshi Varughese","Exceeds Expectations",2025-03-24
+PRF000312,EMP00595,4,"Osha Sachdev",Outstanding,2025-07-30
+PRF000313,EMP00234,3,"Kavya Kadakia","Needs Improvement",2024-11-20
+PRF000314,EMP00420,5,NULL,"Excellent Performer",2023-08-28
+PRF000315,EMP00542,4,"Charan Sen","Excellent Performer",2024-02-28
+PRF000316,EMP00175,5,"Chanakya Dada","Needs Improvement",2024-01-05
+PRF000317,EMP00230,2,"Veda Sahota","Exceeds Expectations",2023-12-16
+PRF000318,EMP00450,4,"Chavvi Devan","Needs Improvement",2026-03-01
+PRF000319,EMP00199,1,"Kiaan Sani","Needs Improvement",2023-11-06
+PRF000320,EMP01202,1,"Harinakshi Varughese","Needs Improvement",2023-02-10
+PRF000321,EMP00983,3,NULL,"Excellent Performer",2024-11-17
+PRF000322,EMP00364,5,"Falguni Halder","Needs Improvement",2026-02-17
+PRF000323,EMP01005,5,"Udant Bala",Outstanding,2024-02-17
+PRF000324,EMP00627,1,"Anthony Kanda","Below Average",2024-12-24
+PRF000325,EMP01144,5,"Veda Sahota","Excellent Performer",2026-06-19
+PRF000326,EMP00414,3,"Indira Balakrishnan","Needs Improvement",2024-08-02
+PRF000327,EMP00748,2,"Arjun Prasad","Meets Expectations",2025-07-01
+PRF000328,EMP00761,1,"Tanay Shetty","Below Average",2024-01-12
+PRF000329,EMP00888,3,"Indira Balakrishnan","Needs Improvement",2025-02-07
+PRF000330,EMP01137,2,"Tanay Shetty","Exceeds Expectations",2025-05-09
+PRF000331,EMP00476,2,NULL,"Meets Expectations",2025-08-17
+PRF000332,EMP00115,2,"Chanakya Dada","Excellent Performer",2024-05-15
+PRF000333,EMP00114,1,"Damini Mohanty","Below Average",2024-08-13
+PRF000334,EMP00377,4,"Dhruv Wagle","Excellent Performer",2026-04-27
+PRF000335,EMP00600,1,"Dipta Bhatti","Excellent Performer",2023-09-10
+PRF000336,EMP00146,5,"Nikita Dua",Outstanding,2025-10-03
+PRF000337,EMP00491,2,"Indira Balakrishnan","Exceeds Expectations",2025-11-20
+PRF000338,EMP00438,2,"Shivani Varughese",Outstanding,2024-10-18
+PRF000339,EMP00230,1,"Avni Chatterjee","Below Average",2024-10-14
+PRF000340,EMP00671,4,"Falguni Halder",Outstanding,2024-07-26
+PRF000341,EMP01058,4,"Omaja Kashyap","Excellent Performer",2024-06-02
+PRF000342,EMP00033,4,"Nikita Dua",Outstanding,2025-07-01
+PRF000343,EMP01118,5,"Dhriti Nagar","Needs Improvement",2026-03-21
+PRF000344,EMP00638,2,"Neelima Bhasin","Needs Improvement",2023-10-21
+PRF000345,EMP00977,2,"Omaja Kashyap","Exceeds Expectations",2026-02-23
+PRF000346,EMP00354,3,"Chanakya Dada","Needs Improvement",2026-04-21
+PRF000347,EMP00726,2,"Dhruv Wagle","Needs Improvement",2025-05-21
+PRF000348,EMP00295,1,"Indira Balakrishnan","Below Average",2024-10-03
+PRF000349,EMP01163,1,"Shivani Varughese",Outstanding,2026-01-07
+PRF000350,EMP00948,1,"Vincent Loyal","Below Average",2024-02-16
+PRF000351,EMP00696,2,"Udant Bala",Outstanding,2024-05-05
+PRF000352,EMP00759,2,"Dhriti Nagar","Meets Expectations",2026-02-21
+PRF000353,EMP00736,1,NULL,"Needs Improvement",2023-11-03
+PRF000354,EMP01002,3,"Veda Sahota","Needs Improvement",2024-03-11
+PRF000355,EMP00973,4,"Azaan Grewal","Needs Improvement",2026-04-11
+PRF000356,EMP00866,2,"Arjun Prasad","Meets Expectations",2025-06-27
+PRF000357,EMP00191,1,"Ranveer Sood","Below Average",2024-12-15
+PRF000358,EMP00935,5,"Dipta Bhatti",Outstanding,2024-08-18
+PRF000359,EMP01195,1,"Kavya Kadakia",Outstanding,2025-01-20
+PRF000360,EMP00161,5,"Farhan Sharaf","Needs Improvement",2025-06-03
+PRF000361,EMP00750,2,"Ekansh Samra","Excellent Performer",2023-01-09
+PRF000362,EMP00329,2,"Damini Mohanty","Exceeds Expectations",2024-08-10
+PRF000363,EMP00815,4,"Charan Sen","Needs Improvement",2024-09-01
+PRF000364,EMP00958,3,"Charan Sen",Outstanding,2026-03-03
+PRF000365,EMP00567,1,NULL,"Below Average",2024-09-04
+PRF000366,EMP00052,4,"Kiaan Sani","Needs Improvement",2024-04-05
+PRF000367,EMP00309,2,"Nikita Dua","Meets Expectations",2025-05-25
+PRF000368,EMP01132,2,NULL,"Excellent Performer",2023-10-12
+PRF000369,EMP00646,1,"Gautam Sinha",Outstanding,2025-03-22
+PRF000370,EMP00097,2,"Falguni Halder","Exceeds Expectations",2026-06-29
+PRF000371,EMP00185,5,"Niharika Nagi",Outstanding,2023-08-06
+PRF000372,EMP00676,1,"Vasudha Borde","Excellent Performer",2023-09-04
+PRF000373,EMP00718,5,"Veda Sahota","Needs Improvement",2025-04-25
+PRF000374,EMP00282,3,"Omaja Kashyap","Excellent Performer",2024-08-03
+PRF000375,EMP01187,1,NULL,"Below Average",2024-02-25
+PRF000376,EMP00418,2,"Charles Bera","Needs Improvement",2023-10-17
+PRF000377,EMP00767,4,"Dhriti Nagar","Needs Improvement",2024-11-05
+PRF000378,EMP00648,2,"Omaja Kashyap","Exceeds Expectations",2026-09-02
+PRF000379,EMP00947,5,"Dhriti Nagar",Outstanding,2025-08-13
+PRF000380,EMP01217,2,"Neelima Bhasin",Outstanding,2024-05-01
+PRF000381,EMP01067,4,"Farhan Sharaf","Needs Improvement",2023-10-30
+PRF000382,EMP01021,3,"Ranveer Sood","Needs Improvement",2025-01-16
+PRF000383,EMP01164,1,"Damini Mohanty","Below Average",2023-11-28
+PRF000384,EMP00041,2,"Farhan Sharaf","Meets Expectations",2024-04-08
+PRF000385,EMP00839,2,"Osha Sachdev","Exceeds Expectations",2026-06-22
+PRF000386,EMP00240,2,"Falguni Halder",Outstanding,2025-03-17
+PRF000387,EMP00054,1,"Neelima Bhasin","Below Average",2024-07-05
+PRF000388,EMP00703,2,"Kiaan Sani",Outstanding,2024-12-22
+PRF000389,EMP00869,5,"Saumya Srinivas","Excellent Performer",2025-03-03
+PRF000390,EMP01194,1,"Xavier Gole","Excellent Performer",2024-09-13
+PRF000391,EMP00386,1,"Upma Pant","Below Average",2023-11-23
+PRF000392,EMP00427,4,"Anthony Kanda","Needs Improvement",2024-04-05
+PRF000393,EMP00010,2,"Tanay Shetty","Meets Expectations",2024-08-07
+PRF000394,EMP00334,2,NULL,"Meets Expectations",2025-02-21
+PRF000395,EMP00394,2,"Tanay Shetty",Outstanding,2026-01-28
+PRF000396,EMP00007,3,"Tanay Shetty","Needs Improvement",2024-01-31
+PRF000397,EMP00668,1,"Shivani Varughese","Below Average",2025-06-13
+PRF000398,EMP01198,1,"Omaja Kashyap","Below Average",2026-06-03
+PRF000399,EMP01161,2,"Omaja Kashyap","Meets Expectations",2025-03-20
+PRF000400,EMP01185,5,"Xavier Gole","Needs Improvement",2026-04-16
+PRF000401,EMP00701,2,"Kavya Kadakia","Exceeds Expectations",2025-10-29
+PRF000402,EMP00685,1,NULL,"Below Average",2025-01-26
+PRF000403,EMP00218,2,"Charan Sen","Meets Expectations",2026-01-02
+PRF000404,EMP00183,2,"Chanakya Dada","Exceeds Expectations",2025-01-04
+PRF000405,EMP00048,3,"Falguni Halder","Needs Improvement",2026-02-21
+PRF000406,EMP00852,5,"Veda Sahota",Outstanding,2024-05-10
+PRF000407,EMP00008,3,"Avni Chatterjee","Needs Improvement",2025-05-12
+PRF000408,EMP01023,2,"Vasudha Borde","Needs Improvement",2026-03-15
+PRF000409,EMP00398,2,"Anthony Kanda","Exceeds Expectations",2024-11-22
+PRF000410,EMP00381,2,"Azaan Grewal",Outstanding,2025-07-31
+PRF000411,EMP00751,2,"Charan Sen","Exceeds Expectations",2025-02-12
+PRF000412,EMP00114,5,"Azaan Grewal","Excellent Performer",2026-01-11
+PRF000413,EMP00281,5,"Theodore Sha",Outstanding,2024-11-10
+PRF000414,EMP00749,1,"Kiaan Sani","Below Average",2025-08-15
+PRF000415,EMP00019,5,"Harinakshi Varughese","Needs Improvement",2024-06-12
+PRF000416,EMP00587,5,"Ojasvi Dasgupta","Excellent Performer",2025-01-12
+PRF000417,EMP00324,2,"Damini Mohanty","Meets Expectations",2025-09-03
+PRF000418,EMP00256,2,"Nikita Dua","Meets Expectations",2024-01-22
+PRF000419,EMP00938,5,"Farhan Sharaf","Needs Improvement",2025-05-03
+PRF000420,EMP00163,2,"Gautam Sinha","Meets Expectations",2023-11-28
+PRF000421,EMP01070,3,"Azaan Grewal",Outstanding,2024-02-03
+PRF000422,EMP00656,2,"Chanakya Dada","Meets Expectations",2024-12-22
+PRF000423,EMP00764,2,"Kavya Kadakia","Meets Expectations",2026-06-29
+PRF000424,EMP00130,1,"Omaja Kashyap","Below Average",2026-06-03
+PRF000425,EMP00050,1,"Nikita Dua",Outstanding,2024-10-02
+PRF000426,EMP01103,1,"Nikita Dua","Below Average",2025-03-04
+PRF000427,EMP01109,1,"Shivani Varughese","Excellent Performer",2026-06-01
+PRF000428,EMP00981,1,"Upma Pant","Below Average",2024-08-11
+PRF000429,EMP00754,1,"Xavier Gole","Below Average",2026-05-30
+PRF000430,EMP00671,2,NULL,"Exceeds Expectations",2023-11-08
+PRF000431,EMP00759,3,"Charles Bera","Needs Improvement",2025-12-06
+PRF000432,EMP00445,2,"Farhan Sharaf","Exceeds Expectations",2024-07-05
+PRF000433,EMP00371,2,"Arjun Prasad","Meets Expectations",2026-06-15
+PRF000434,EMP01159,2,"Ekansh Samra","Excellent Performer",2025-02-24
+PRF000435,EMP00323,1,"Vincent Loyal","Below Average",2025-07-18
+PRF000436,EMP01010,1,"Niharika Nagi","Below Average",2026-06-01
+PRF000437,EMP00237,1,"Chanakya Dada","Below Average",2025-02-17
+PRF000438,EMP00706,2,"Saumya Srinivas","Meets Expectations",2023-12-31
+PRF000439,EMP00660,2,"Udant Bala","Meets Expectations",2026-02-24
+PRF000440,EMP00869,4,"Kiaan Sani","Needs Improvement",2025-09-10
+PRF000441,EMP00125,3,"Vincent Loyal","Needs Improvement",2024-09-23
+PRF000442,EMP01090,2,"Farhan Sharaf","Meets Expectations",2024-04-12
+PRF000443,EMP00671,3,"Indira Balakrishnan","Needs Improvement",2023-08-27
+PRF000444,EMP00707,1,"Kiaan Sani","Below Average",2026-07-05
+PRF000445,EMP00707,1,"Neelima Bhasin","Below Average",2025-10-01
+PRF000446,EMP00791,1,"Damini Mohanty","Below Average",2025-12-25
+PRF000447,EMP00977,5,"Arjun Prasad","Excellent Performer",2025-02-02
+PRF000448,EMP00775,4,"Upma Pant","Needs Improvement",2024-10-06
+PRF000449,EMP00793,4,"Ekansh Samra","Excellent Performer",2023-09-24
+PRF000450,EMP00820,1,"Neelima Bhasin","Needs Improvement",2023-12-29
+PRF000451,EMP00902,3,"Kiaan Sani","Needs Improvement",2025-01-29
+PRF000452,EMP00690,1,"Faqid Prabhu",Outstanding,2024-10-08
+PRF000453,EMP00428,2,"Kiaan Sani","Meets Expectations",2024-02-05
+PRF000454,EMP00221,1,"Theodore Sha",Outstanding,2023-09-02
+PRF000455,EMP01104,2,"Tanay Shetty","Exceeds Expectations",2025-04-29
+PRF000456,EMP00536,2,"Veda Sahota","Needs Improvement",2025-06-17
+PRF000457,EMP00622,1,"Falguni Halder","Below Average",2023-11-23
+PRF000458,EMP00585,5,"Shivani Varughese","Excellent Performer",2023-09-29
+PRF000459,EMP00087,3,"Harinakshi Varughese","Needs Improvement",2026-02-08
+PRF000460,EMP00654,4,"Nikita Dua","Needs Improvement",2024-03-25
+PRF000461,EMP00603,1,NULL,"Needs Improvement",2024-09-30
+PRF000462,EMP00337,2,"Dipta Bhatti","Exceeds Expectations",2025-04-30
+PRF000463,EMP00668,1,"Damini Mohanty","Below Average",2024-02-27
+PRF000464,EMP00749,3,"Chanakya Dada","Needs Improvement",2023-12-04
+PRF000465,EMP00234,4,"Udant Bala","Excellent Performer",2024-03-02
+PRF000466,EMP00728,4,"Farhan Sharaf","Excellent Performer",2023-12-13
+PRF000467,EMP00230,2,NULL,"Meets Expectations",2023-09-01
+PRF000468,EMP00103,2,"Niharika Nagi","Exceeds Expectations",2024-02-24
+PRF000469,EMP00311,2,"Theodore Sha","Meets Expectations",2025-05-23
+PRF000470,EMP00704,2,"Udant Bala","Exceeds Expectations",2025-01-31
+PRF000471,EMP00714,4,"Anthony Kanda","Needs Improvement",2025-02-27
+PRF000472,EMP00528,3,"Udant Bala","Needs Improvement",2025-06-16
+PRF000473,EMP00789,5,"Gautam Sinha",Outstanding,2024-09-14
+PRF000474,EMP01213,2,NULL,"Meets Expectations",2024-07-23
+PRF000475,EMP00241,3,"Harinakshi Varughese","Needs Improvement",2024-04-13
+PRF000476,EMP00832,1,"Neelima Bhasin","Needs Improvement",2024-07-23
+PRF000477,EMP00586,2,"Kavya Kadakia","Exceeds Expectations",2024-03-10
+PRF000478,EMP00925,3,"Indira Balakrishnan","Needs Improvement",2025-08-04
+PRF000479,EMP00843,2,"Dipta Bhatti","Meets Expectations",2023-08-25
+PRF000480,EMP00305,2,"Ojasvi Dasgupta","Excellent Performer",2024-06-01
+PRF000481,EMP01180,2,"Dhruv Wagle","Meets Expectations",2025-09-08
+PRF000482,EMP00212,2,"Dhriti Nagar","Needs Improvement",2025-03-10
+PRF000483,EMP00083,3,"Chavvi Devan","Needs Improvement",2025-04-30
+PRF000484,EMP00884,5,"Ekansh Samra","Needs Improvement",2025-06-09
+PRF000485,EMP00446,2,"Arjun Prasad","Exceeds Expectations",2025-02-09
+PRF000486,EMP00874,3,"Vasudha Borde","Needs Improvement",2026-05-17
+PRF000487,EMP00289,5,"Dhruv Wagle","Needs Improvement",2026-07-29
+PRF000488,EMP00198,5,"Charles Bera","Excellent Performer",2026-04-12
+PRF000489,EMP00741,3,"Gautam Sinha","Needs Improvement",2023-10-20
+PRF000490,EMP00671,5,NULL,Outstanding,2024-01-09
+PRF000491,EMP00648,2,"Indira Balakrishnan",Outstanding,2024-09-08
+PRF000492,EMP00032,2,"Kiaan Sani","Meets Expectations",2024-03-26
+PRF000493,EMP00110,1,"Vasudha Borde",Outstanding,2026-01-21
+PRF000494,EMP01189,3,"Pavani Magar","Excellent Performer",2026-06-12
+PRF000495,EMP00261,4,"Avni Chatterjee",Outstanding,2024-04-23
+PRF000496,EMP00538,2,"Ekansh Samra","Exceeds Expectations",2024-09-27
+PRF000497,EMP00803,1,"Dipta Bhatti","Below Average",2023-09-18
+PRF000498,EMP00224,4,"Ranveer Sood","Excellent Performer",2025-01-12
+PRF000499,EMP00515,3,"Neelima Bhasin","Needs Improvement",2024-07-10
+PRF000500,EMP00248,2,"Theodore Sha","Exceeds Expectations",2023-09-27
+PRF000501,EMP01083,2,"Dhriti Nagar","Needs Improvement",2024-12-11
+PRF000502,EMP00363,5,"Pavani Magar","Excellent Performer",2026-02-22
+PRF000503,EMP00167,1,"Dhriti Nagar","Below Average",2023-10-19
+PRF000504,EMP00707,1,NULL,"Excellent Performer",2024-02-16
+PRF000505,EMP01104,4,"Vasudha Borde",Outstanding,2026-07-23
+PRF000506,EMP00617,1,"Kiaan Sani","Excellent Performer",2024-12-11
+PRF000507,EMP00426,2,"Dhruv Wagle","Meets Expectations",2026-07-21
+PRF000508,EMP00401,2,"Gautam Sinha","Exceeds Expectations",2026-07-20
+PRF000509,EMP00588,5,"Harinakshi Varughese","Needs Improvement",2026-07-17
+PRF000510,EMP00092,5,"Ranveer Sood","Excellent Performer",2023-04-11
+PRF000511,EMP00771,3,"Damini Mohanty","Needs Improvement",2025-05-01
+PRF000512,EMP00826,1,"Upma Pant",Outstanding,2025-01-04
+PRF000513,EMP01142,2,"Damini Mohanty","Meets Expectations",2025-02-27
+PRF000514,EMP01088,2,"Chanakya Dada","Meets Expectations",2024-12-27
+PRF000515,EMP00836,3,"Osha Sachdev","Needs Improvement",2026-05-24
+PRF000516,EMP00757,2,"Chavvi Devan","Exceeds Expectations",2026-05-25
+PRF000517,EMP00834,2,"Omaja Kashyap","Meets Expectations",2025-01-29
+PRF000518,EMP00321,1,"Harinakshi Varughese","Below Average",2024-10-29
+PRF000519,EMP01193,3,"Xavier Gole","Needs Improvement",2024-02-09
+PRF000520,EMP00196,4,"Kiaan Sani",Outstanding,2026-05-17
+PRF000521,EMP00802,3,"Harinakshi Varughese",Outstanding,2024-01-25
+PRF000522,EMP00755,2,"Dipta Bhatti",Outstanding,2024-09-17
+PRF000523,EMP00371,2,"Chanakya Dada","Excellent Performer",2026-06-13
+PRF000524,EMP00218,2,"Gautam Sinha","Exceeds Expectations",2025-04-15
+PRF000525,EMP00690,2,"Charan Sen",Outstanding,2024-04-05
+PRF000526,EMP00349,1,"Ekansh Samra","Excellent Performer",2024-08-11
+PRF000527,EMP00406,3,"Upma Pant","Needs Improvement",2026-07-04
+PRF000528,EMP00182,2,"Dhruv Wagle","Exceeds Expectations",2024-07-02
+PRF000529,EMP00393,2,"Upma Pant","Meets Expectations",2025-11-06
+PRF000530,EMP00094,2,"Pavani Magar","Needs Improvement",2025-04-12
+PRF000531,EMP00170,1,"Charan Sen","Needs Improvement",2024-11-20
+PRF000532,EMP00808,2,"Upma Pant","Excellent Performer",2025-07-23
+PRF000533,EMP00511,1,"Damini Mohanty","Below Average",2024-04-11
+PRF000534,EMP00194,4,"Faqid Prabhu","Excellent Performer",2025-12-22
+PRF000535,EMP00920,2,"Anthony Kanda","Needs Improvement",2026-05-13
+PRF000536,EMP00798,1,"Saumya Srinivas","Below Average",2024-02-02
+PRF000537,EMP00649,5,"Nikita Dua","Needs Improvement",2026-06-05
+PRF000538,EMP00389,2,"Ojasvi Dasgupta","Meets Expectations",2024-08-07
+PRF000539,EMP00452,4,"Pavani Magar","Needs Improvement",2024-09-28
+PRF000540,EMP00889,1,NULL,"Below Average",2024-10-22
+PRF000541,EMP00007,2,"Vasudha Borde","Excellent Performer",2024-08-02
+PRF000542,EMP00697,3,NULL,"Excellent Performer",2024-01-01
+PRF000543,EMP00190,2,"Dhruv Wagle","Meets Expectations",2024-03-08
+PRF000544,EMP00672,5,"Nikita Dua","Needs Improvement",2023-10-19
+PRF000545,EMP00551,2,"Charles Bera","Exceeds Expectations",2024-04-23
+PRF000546,EMP01053,3,"Pavani Magar","Excellent Performer",2026-05-07
+PRF000547,EMP00729,4,NULL,Outstanding,2024-02-15
+PRF000548,EMP00605,3,"Farhan Sharaf","Needs Improvement",2024-07-04
+PRF000549,EMP00747,3,"Dhriti Nagar","Needs Improvement",2023-09-19
+PRF000550,EMP00394,5,"Theodore Sha","Needs Improvement",2024-09-08
+PRF000551,EMP00200,1,NULL,"Below Average",2026-05-20
+PRF000552,EMP00606,3,NULL,"Needs Improvement",2024-01-15
+PRF000553,EMP00457,3,"Upma Pant","Needs Improvement",2023-04-11
+PRF000554,EMP00194,3,"Damini Mohanty","Needs Improvement",2024-10-28
+PRF000555,EMP00073,2,"Chavvi Devan","Needs Improvement",2026-07-24
+PRF000556,EMP00163,2,"Harinakshi Varughese","Excellent Performer",2025-06-25
+PRF000557,EMP00905,2,"Udant Bala","Meets Expectations",2025-10-17
+PRF000558,EMP00895,2,"Udant Bala","Excellent Performer",2026-03-17
+PRF000559,EMP00218,1,"Gautam Sinha","Below Average",2025-01-06
+PRF000560,EMP00671,4,"Vasudha Borde","Excellent Performer",2024-01-12
+PRF000561,EMP00490,5,"Saumya Srinivas","Excellent Performer",2023-10-27
+PRF000562,EMP00276,2,NULL,"Meets Expectations",2025-12-19
+PRF000563,EMP00520,2,"Chavvi Devan","Excellent Performer",2026-05-21
+PRF000564,EMP00419,2,"Neelima Bhasin","Exceeds Expectations",2024-03-24
+PRF000565,EMP00241,4,"Xavier Gole","Needs Improvement",2024-01-02
+PRF000566,EMP01184,5,"Udant Bala","Excellent Performer",2023-12-07
+PRF000567,EMP00572,1,"Kavya Kadakia","Below Average",2023-11-16
+PRF000568,EMP00688,3,"Vincent Loyal","Needs Improvement",2025-09-15
+PRF000569,EMP00714,1,"Nikita Dua","Needs Improvement",2025-12-27
+PRF000570,EMP01137,5,"Dhriti Nagar",Outstanding,2025-09-03
+PRF000571,EMP01058,2,"Anthony Kanda","Meets Expectations",2026-08-01
+PRF000572,EMP01149,2,"Farhan Sharaf","Exceeds Expectations",2026-06-04
+PRF000573,EMP00044,2,"Gautam Sinha","Meets Expectations",2025-03-31
+PRF000574,EMP00619,2,"Omaja Kashyap","Meets Expectations",2023-10-24
+PRF000575,EMP00043,3,"Udant Bala","Needs Improvement",2023-08-23
+PRF000576,EMP00289,1,"Falguni Halder","Below Average",2025-08-06
+PRF000577,EMP00342,3,"Jagvi Parmar",Outstanding,2023-10-29
+PRF000578,EMP00080,4,"Chavvi Devan","Excellent Performer",2024-10-03
+PRF000579,EMP01221,1,"Udant Bala",Outstanding,2026-03-24
+PRF000580,EMP00491,1,"Ekansh Samra","Below Average",2025-05-27
+PRF000581,EMP01003,2,"Xavier Gole",Outstanding,2024-07-10
+PRF000582,EMP00250,2,"Charan Sen","Needs Improvement",2025-06-24
+PRF000583,EMP00671,2,"Ranveer Sood","Exceeds Expectations",2024-06-06
+PRF000584,EMP00466,4,"Niharika Nagi","Excellent Performer",2026-01-23
+PRF000585,EMP00905,3,"Anthony Kanda","Needs Improvement",2024-08-15
+PRF000586,EMP01152,1,"Nikita Dua","Below Average",2025-03-02
+PRF000587,EMP00691,4,"Kavya Kadakia","Excellent Performer",2025-03-05
+PRF000588,EMP00930,1,"Kiaan Sani","Excellent Performer",2026-05-03
+PRF000589,EMP01113,2,"Ranveer Sood","Exceeds Expectations",2024-08-04
+PRF000590,EMP00137,3,"Chanakya Dada","Needs Improvement",2026-07-16
+PRF000591,EMP00363,3,"Dhriti Nagar",Outstanding,2026-02-28
+PRF000592,EMP00242,2,"Niharika Nagi",Outstanding,2023-12-02
+PRF000593,EMP00044,3,"Ranveer Sood","Needs Improvement",2024-08-29
+PRF000594,EMP00687,1,"Faqid Prabhu","Below Average",2025-08-05
+PRF000595,EMP00488,2,"Theodore Sha","Exceeds Expectations",2025-08-06
+PRF000596,EMP00863,2,"Veda Sahota","Exceeds Expectations",2025-01-07
+PRF000597,EMP00575,2,"Xavier Gole","Meets Expectations",2024-07-01
+PRF000598,EMP00278,2,"Chavvi Devan","Excellent Performer",2026-03-02
+PRF000599,EMP00718,2,"Anthony Kanda",Outstanding,2026-07-06
+PRF000600,EMP00737,2,"Xavier Gole","Meets Expectations",2026-05-05
+PRF000601,EMP00102,5,"Charles Bera","Needs Improvement",2025-06-14
+PRF000602,EMP00868,1,"Gautam Sinha","Below Average",2025-11-20
+PRF000603,EMP00395,1,"Kavya Kadakia","Below Average",2025-07-23
+PRF000604,EMP00443,3,"Farhan Sharaf","Needs Improvement",2025-02-27
+PRF000605,EMP00513,3,"Damini Mohanty","Needs Improvement",2025-07-22
+PRF000606,EMP00792,2,"Indira Balakrishnan","Meets Expectations",2023-10-19
+PRF000607,EMP00499,1,"Theodore Sha","Below Average",2026-02-15
+PRF000608,EMP00369,1,NULL,"Below Average",2026-03-11
+PRF000609,EMP01025,2,"Nikita Dua","Exceeds Expectations",2026-05-13
+PRF000610,EMP01128,5,"Upma Pant","Excellent Performer",2024-08-24
+PRF000611,EMP00058,2,"Avni Chatterjee","Meets Expectations",2024-11-22
+PRF000612,EMP01154,2,"Upma Pant","Exceeds Expectations",2025-03-05
+PRF000613,EMP00590,4,"Saumya Srinivas",Outstanding,2025-03-07
+PRF000614,EMP00689,3,"Vincent Loyal","Needs Improvement",2024-11-30
+PRF000615,EMP00042,0,"Farhan Sharaf","Excellent Performer",2026-07-12
+PRF000616,EMP00729,2,"Vincent Loyal","Excellent Performer",2023-08-10
+PRF000617,EMP00798,2,"Kiaan Sani","Exceeds Expectations",2024-03-31
+PRF000618,EMP00170,1,"Azaan Grewal","Excellent Performer",2025-11-06
+PRF000619,EMP00860,1,"Ojasvi Dasgupta","Below Average",2025-04-01
+PRF000620,EMP00573,2,"Falguni Halder","Excellent Performer",2025-08-16
+PRF000621,EMP00240,1,"Kiaan Sani","Below Average",2026-06-12
+PRF000622,EMP00839,5,"Farhan Sharaf","Needs Improvement",2026-03-11
+PRF000623,EMP01156,1,"Ojasvi Dasgupta","Below Average",2024-06-04
+PRF000624,EMP00901,2,"Indira Balakrishnan","Meets Expectations",2024-10-19
+PRF000625,EMP00774,1,"Niharika Nagi","Below Average",2025-03-15
+PRF000626,EMP01124,2,"Tanay Shetty","Meets Expectations",2026-06-05
+PRF000627,EMP00302,2,"Azaan Grewal","Exceeds Expectations",2024-01-15
+PRF000628,EMP00404,2,NULL,"Exceeds Expectations",2026-07-14
+PRF000629,EMP00755,2,"Chavvi Devan","Exceeds Expectations",2025-09-23
+PRF000630,EMP01171,4,"Neelima Bhasin","Needs Improvement",2024-03-22
+PRF000631,EMP01145,2,"Chanakya Dada","Excellent Performer",2025-09-24
+PRF000632,EMP00112,4,"Chavvi Devan","Needs Improvement",2024-04-20
+PRF000633,EMP00191,2,"Jagvi Parmar",Outstanding,2025-10-25
+PRF000634,EMP01114,2,"Veda Sahota","Meets Expectations",2026-06-12
+PRF000635,EMP01026,1,"Chanakya Dada","Excellent Performer",2024-12-25
+PRF000636,EMP00094,1,"Azaan Grewal",Outstanding,2023-09-09
+PRF000637,EMP00137,1,"Osha Sachdev","Below Average",2024-08-09
+PRF000638,EMP00146,5,"Arjun Prasad","Excellent Performer",2024-02-12
+PRF000639,EMP00981,2,"Vincent Loyal","Meets Expectations",2023-08-06
+PRF000640,EMP00745,2,"Vincent Loyal","Exceeds Expectations",2023-10-08
+PRF000641,EMP00402,1,"Charles Bera","Below Average",2024-04-26
+PRF000642,EMP00444,1,"Falguni Halder","Below Average",2025-02-21
+PRF000643,EMP00974,2,"Omaja Kashyap","Meets Expectations",2023-11-06
+PRF000644,EMP00908,5,"Chavvi Devan","Excellent Performer",2025-12-03
+PRF000645,EMP00389,3,"Anthony Kanda","Needs Improvement",2026-03-23
+PRF000646,EMP01230,4,"Kavya Kadakia","Excellent Performer",2025-06-21
+PRF000647,EMP00962,2,"Charan Sen","Exceeds Expectations",2024-09-26
+PRF000648,EMP00874,2,"Damini Mohanty","Exceeds Expectations",2026-03-02
+PRF000649,EMP00616,2,"Xavier Gole","Meets Expectations",2024-01-30
+PRF000650,EMP00893,3,"Charan Sen","Excellent Performer",2026-04-03
+PRF000651,EMP00473,1,"Dipta Bhatti","Excellent Performer",2025-12-27
+PRF000652,EMP00415,5,"Tanay Shetty","Needs Improvement",2026-04-18
+PRF000653,EMP00882,5,"Farhan Sharaf","Needs Improvement",2024-01-29
+PRF000654,EMP00052,1,"Kavya Kadakia","Below Average",2024-11-03
+PRF000655,EMP01091,5,"Azaan Grewal","Excellent Performer",2025-07-27
+PRF000656,EMP01018,4,"Falguni Halder","Excellent Performer",2025-08-22
+PRF000657,EMP00093,1,"Nikita Dua","Below Average",2026-06-15
+PRF000658,EMP00424,1,"Theodore Sha","Needs Improvement",2025-09-16
+PRF000659,EMP00363,1,"Charan Sen","Below Average",2025-08-31
+PRF000660,EMP00219,2,"Udant Bala","Exceeds Expectations",2024-03-24
+PRF000661,EMP01040,3,"Nikita Dua","Needs Improvement",2024-04-11
+PRF000662,EMP00630,4,"Dipta Bhatti","Excellent Performer",2025-01-21
+PRF000663,EMP00186,2,"Falguni Halder","Exceeds Expectations",2025-04-02
+PRF000664,EMP00898,2,"Chanakya Dada","Meets Expectations",2024-10-10
+PRF000665,EMP00397,3,"Pavani Magar","Excellent Performer",2025-06-26
+PRF000666,EMP00271,2,"Upma Pant","Meets Expectations",2026-07-18
+PRF000667,EMP00794,1,"Falguni Halder","Below Average",2024-01-27
+PRF000668,EMP00611,5,"Ekansh Samra",Outstanding,2026-03-08
+PRF000669,EMP00029,1,"Kavya Kadakia","Below Average",2024-12-03
+PRF000670,EMP00103,2,"Omaja Kashyap","Meets Expectations",2025-04-29
+PRF000671,EMP00924,2,"Dipta Bhatti","Meets Expectations",2024-10-17
+PRF000672,EMP00520,3,"Tanay Shetty","Excellent Performer",2023-11-25
+PRF000673,EMP01128,2,"Osha Sachdev","Meets Expectations",2025-02-19
+PRF000674,EMP00250,2,"Gautam Sinha","Meets Expectations",2023-12-30
+PRF000675,EMP00559,3,"Arjun Prasad","Needs Improvement",2024-11-26
+PRF000676,EMP00799,2,"Kiaan Sani","Meets Expectations",2024-11-18
+PRF000677,EMP00770,2,"Kiaan Sani","Meets Expectations",2024-06-18
+PRF000678,EMP00413,2,"Udant Bala","Meets Expectations",2025-09-19
+PRF000679,EMP00554,1,"Nikita Dua","Below Average",2023-08-30
+PRF000680,EMP00521,1,"Anthony Kanda","Below Average",2024-12-07
+PRF000681,EMP00006,2,NULL,"Exceeds Expectations",2025-05-20
+PRF000682,EMP00852,4,NULL,"Excellent Performer",2025-03-16
+PRF000683,EMP00645,1,"Saumya Srinivas","Below Average",2024-04-29
+PRF000684,EMP00348,2,"Arjun Prasad","Meets Expectations",2024-09-16
+PRF000685,EMP00073,1,"Osha Sachdev","Below Average",2026-05-27
+PRF000686,EMP00855,1,"Udant Bala","Below Average",2024-10-19
+PRF000687,EMP00516,3,"Udant Bala",Outstanding,2024-06-04
+PRF000688,EMP00716,2,"Ranveer Sood","Meets Expectations",2024-10-29
+PRF000689,EMP00855,3,"Upma Pant","Needs Improvement",2023-08-13
+PRF000690,EMP01011,2,"Faqid Prabhu","Needs Improvement",2026-04-07
+PRF000691,EMP00238,2,"Ranveer Sood","Exceeds Expectations",2026-01-27
+PRF000692,EMP00367,3,"Pavani Magar","Excellent Performer",2023-08-20
+PRF000693,EMP00383,2,"Kavya Kadakia","Exceeds Expectations",2024-01-02
+PRF000694,EMP01130,5,"Gautam Sinha",Outstanding,2025-03-16
+PRF000695,EMP01215,2,"Farhan Sharaf","Exceeds Expectations",2024-04-14
+PRF000696,EMP00336,2,"Xavier Gole","Meets Expectations",2026-11-07
+PRF000697,EMP00182,2,"Chavvi Devan","Exceeds Expectations",2024-11-25
+PRF000698,EMP00176,1,"Xavier Gole","Needs Improvement",2025-03-11
+PRF000699,EMP00928,2,"Azaan Grewal","Excellent Performer",2024-05-24
+PRF000700,EMP01046,1,"Omaja Kashyap","Below Average",2025-12-05
+PRF000701,EMP00941,3,NULL,"Excellent Performer",2025-01-07
+PRF000702,EMP00548,3,"Jagvi Parmar","Needs Improvement",2024-12-08
+PRF000703,EMP00489,2,"Dhruv Wagle","Meets Expectations",2026-07-16
+PRF000704,EMP00438,2,"Saumya Srinivas","Meets Expectations",2026-05-14
+PRF000705,EMP00978,2,"Jagvi Parmar","Exceeds Expectations",2024-11-02
+PRF000706,EMP00382,2,"Shivani Varughese","Meets Expectations",2024-11-07
+PRF000707,EMP00696,2,"Jagvi Parmar","Excellent Performer",2025-12-21
+PRF000708,EMP00427,1,"Anthony Kanda","Below Average",2025-08-17
+PRF000709,EMP00543,2,"Nikita Dua","Needs Improvement",2024-12-02
+PRF000710,EMP00651,2,"Xavier Gole","Meets Expectations",2024-10-27
+PRF000711,EMP00571,1,"Faqid Prabhu","Below Average",2024-11-02
+PRF000712,EMP00524,1,"Ranveer Sood","Below Average",2023-12-20
+PRF000713,EMP00454,3,"Chavvi Devan",Outstanding,2026-06-04
+PRF000714,EMP00697,5,"Charles Bera","Excellent Performer",2024-01-10
+PRF000715,EMP00740,2,"Chavvi Devan","Meets Expectations",2025-02-07
+PRF000716,EMP00431,1,"Avni Chatterjee","Below Average",2024-05-19
+PRF000717,EMP00906,3,"Ekansh Samra","Needs Improvement",2023-11-22
+PRF000718,EMP01140,2,NULL,"Excellent Performer",2024-03-21
+PRF000719,EMP00517,1,"Chavvi Devan",Outstanding,2025-05-12
+PRF000720,EMP00708,2,"Tanay Shetty","Meets Expectations",2024-10-08
+PRF000721,EMP01210,2,"Farhan Sharaf","Meets Expectations",2025-09-30
+PRF000722,EMP01197,1,"Upma Pant","Below Average",2025-02-04
+PRF000723,EMP00514,3,"Saumya Srinivas","Excellent Performer",2026-03-17
+PRF000724,EMP00550,5,"Charles Bera","Excellent Performer",2023-09-16
+PRF000725,EMP00842,2,"Farhan Sharaf","Excellent Performer",2024-04-06
+PRF000726,EMP00269,1,"Chavvi Devan","Below Average",2026-04-16
+PRF000727,EMP00633,4,"Gautam Sinha",Outstanding,2024-08-31
+PRF000728,EMP00638,3,"Avni Chatterjee","Needs Improvement",2025-11-02
+PRF000729,EMP01002,2,"Pavani Magar","Exceeds Expectations",2025-07-25
+PRF000730,EMP00196,2,"Upma Pant","Exceeds Expectations",2026-04-04
+PRF000731,EMP00831,1,"Indira Balakrishnan","Needs Improvement",2025-02-03
+PRF000732,EMP00565,1,"Gautam Sinha","Below Average",2024-01-21
+PRF000733,EMP00741,3,"Vincent Loyal","Needs Improvement",2024-10-13
+PRF000734,EMP00891,3,"Anthony Kanda","Needs Improvement",2025-09-24
+PRF000735,EMP00315,1,"Anthony Kanda","Below Average",2026-07-19
+PRF000736,EMP00642,2,"Chavvi Devan","Meets Expectations",2024-09-30
+PRF000737,EMP00403,3,"Dhriti Nagar","Needs Improvement",2024-08-25
+PRF000738,EMP00374,3,"Dhriti Nagar","Needs Improvement",2025-08-31
+PRF000739,EMP00440,5,"Indira Balakrishnan","Excellent Performer",2024-08-19
+PRF000740,EMP00109,3,"Jagvi Parmar","Excellent Performer",2024-03-16
+PRF000741,EMP00628,1,"Chavvi Devan","Below Average",2025-10-18
+PRF000742,EMP00531,3,"Ojasvi Dasgupta","Needs Improvement",2024-08-14
+PRF000743,EMP00467,5,"Harinakshi Varughese",Outstanding,2025-09-25
+PRF000744,EMP00344,4,"Anthony Kanda","Excellent Performer",2025-07-25
+PRF000745,EMP00252,1,"Chavvi Devan","Below Average",2025-07-28
+PRF000746,EMP00619,2,NULL,"Meets Expectations",2025-04-24
+PRF000747,EMP01142,2,"Xavier Gole","Meets Expectations",2023-10-10
+PRF000748,EMP01154,1,"Jagvi Parmar","Excellent Performer",2023-09-28
+PRF000749,EMP01199,2,"Ojasvi Dasgupta","Meets Expectations",2024-06-25
+PRF000750,EMP00995,2,"Ojasvi Dasgupta","Exceeds Expectations",2024-05-13
+PRF000751,EMP00724,3,"Indira Balakrishnan",Outstanding,2025-12-29
+PRF000752,EMP00805,2,"Kavya Kadakia","Exceeds Expectations",2024-11-22
+PRF000753,EMP00791,1,"Shivani Varughese","Needs Improvement",2025-01-18
+PRF000754,EMP01160,2,"Damini Mohanty","Exceeds Expectations",2024-01-10
+PRF000755,EMP00923,1,"Ekansh Samra","Below Average",2024-04-07
+PRF000756,EMP00091,2,"Shivani Varughese","Meets Expectations",2025-11-01
+PRF000757,EMP01031,2,"Ranveer Sood",Outstanding,2025-01-05
+PRF000758,EMP00301,1,NULL,"Excellent Performer",2025-05-23
+PRF000759,EMP01021,3,"Anthony Kanda","Needs Improvement",2025-09-08
+PRF000760,EMP00322,2,"Vincent Loyal","Meets Expectations",2026-05-31
+PRF000761,EMP00086,5,"Indira Balakrishnan",Outstanding,2023-10-30
+PRF000762,EMP00244,2,"Falguni Halder","Needs Improvement",2025-04-20
+PRF000763,EMP00279,2,"Osha Sachdev","Exceeds Expectations",2024-05-14
+PRF000764,EMP00689,3,"Chanakya Dada","Needs Improvement",2024-08-29
+PRF000765,EMP00674,4,"Jagvi Parmar",Outstanding,2026-07-18
+PRF000766,EMP00726,1,"Osha Sachdev","Excellent Performer",2026-07-05
+PRF000767,EMP01112,2,"Xavier Gole","Meets Expectations",2025-04-20
+PRF000768,EMP00219,2,"Damini Mohanty",Outstanding,2024-06-16
+PRF000769,EMP00150,2,"Charan Sen","Exceeds Expectations",2025-06-01
+PRF000770,EMP00702,1,"Osha Sachdev","Below Average",2026-02-22
+PRF000771,EMP00157,4,"Veda Sahota","Excellent Performer",2023-11-23
+PRF000772,EMP00392,3,"Ekansh Samra","Needs Improvement",2024-04-18
+PRF000773,EMP00605,2,"Vasudha Borde","Exceeds Expectations",2023-11-20
+PRF000774,EMP00951,3,"Shivani Varughese",Outstanding,2026-06-01
+PRF000775,EMP00014,2,"Falguni Halder","Meets Expectations",2025-06-10
+PRF000776,EMP00967,1,"Ekansh Samra","Below Average",2023-12-03
+PRF000777,EMP01042,5,"Ojasvi Dasgupta","Needs Improvement",2024-08-29
+PRF000778,EMP00825,2,"Udant Bala","Excellent Performer",2025-01-02
+PRF000779,EMP00418,4,"Charles Bera",Outstanding,2026-03-24
+PRF000780,EMP00412,4,"Falguni Halder","Needs Improvement",2024-04-29
+PRF000781,EMP00971,1,"Damini Mohanty","Below Average",2023-12-08
+PRF000782,EMP00130,2,"Arjun Prasad","Meets Expectations",2024-05-15
+PRF000783,EMP00439,2,"Ranveer Sood","Meets Expectations",2025-10-25
+PRF000784,EMP00026,2,"Azaan Grewal","Exceeds Expectations",2024-07-22
+PRF000785,EMP00653,1,NULL,"Below Average",2024-11-28
+PRF000786,EMP01135,2,"Vasudha Borde","Exceeds Expectations",2025-12-16
+PRF000787,EMP00843,2,"Udant Bala","Meets Expectations",2024-07-17
+PRF000788,EMP00221,2,"Pavani Magar","Meets Expectations",2025-08-19
+PRF000789,EMP00195,1,"Harinakshi Varughese","Below Average",2026-04-30
+PRF000790,EMP00257,3,"Omaja Kashyap",Outstanding,2024-07-08
+PRF000791,EMP01214,3,"Chavvi Devan","Needs Improvement",2026-01-11
+PRF000792,EMP00750,5,"Veda Sahota","Needs Improvement",2025-12-18
+PRF000793,EMP01065,3,"Xavier Gole",Outstanding,2025-01-12
+PRF000794,EMP01156,1,"Xavier Gole",Outstanding,2024-03-11
+PRF000795,EMP00941,4,"Ranveer Sood",Outstanding,2023-11-19
+PRF000796,EMP00226,2,"Omaja Kashyap","Meets Expectations",2025-11-01
+PRF000797,EMP00687,3,"Udant Bala","Needs Improvement",2026-09-02
+PRF000798,EMP00562,5,"Chavvi Devan",Outstanding,2023-08-28
+PRF000799,EMP01154,2,"Kiaan Sani","Needs Improvement",2024-04-22
+PRF000800,EMP00611,3,"Farhan Sharaf","Needs Improvement",2026-03-23
+PRF000801,EMP00608,1,"Avni Chatterjee","Below Average",2024-09-16
+PRF000802,EMP00788,2,"Charan Sen","Exceeds Expectations",2025-08-09
+PRF000803,EMP00237,3,"Upma Pant","Needs Improvement",2026-03-10
+PRF000804,EMP00279,1,"Pavani Magar","Below Average",2024-04-11
+PRF000805,EMP00136,3,"Dhriti Nagar","Needs Improvement",2025-06-23
+PRF000806,EMP00707,2,"Dhriti Nagar","Exceeds Expectations",2024-05-15
+PRF000807,EMP01128,3,"Vasudha Borde","Needs Improvement",2025-08-15
+PRF000808,EMP00507,5,"Xavier Gole",Outstanding,2025-09-29
+PRF000809,EMP00911,3,"Anthony Kanda","Needs Improvement",2024-07-11
+PRF000810,EMP00810,1,"Xavier Gole","Excellent Performer",2026-02-22
+PRF000811,EMP00867,2,NULL,"Exceeds Expectations",2025-01-10
+PRF000812,EMP00920,3,"Udant Bala","Excellent Performer",2024-01-05
+PRF000813,EMP00581,4,"Farhan Sharaf",Outstanding,2025-07-22
+PRF000814,EMP00283,5,"Damini Mohanty","Needs Improvement",2026-02-17
+PRF000815,EMP00073,2,"Saumya Srinivas","Meets Expectations",2024-09-21
+PRF000816,EMP00962,5,"Chavvi Devan","Excellent Performer",2024-10-28
+PRF000817,EMP00886,4,"Osha Sachdev","Needs Improvement",2026-04-27
+PRF000818,EMP00013,1,"Farhan Sharaf","Needs Improvement",2025-04-06
+PRF000819,EMP00654,4,"Vasudha Borde",Outstanding,2024-05-14
+PRF000820,EMP00628,5,"Udant Bala","Excellent Performer",2024-12-25
+PRF000821,EMP01186,2,"Chanakya Dada","Needs Improvement",2025-05-30
+PRF000822,EMP00686,2,"Vasudha Borde","Excellent Performer",2026-07-12
+PRF000823,EMP00461,1,NULL,"Excellent Performer",2023-09-09
+PRF000824,EMP00492,2,"Charan Sen","Exceeds Expectations",2025-03-10
+PRF000825,EMP00134,2,"Chanakya Dada","Meets Expectations",2026-05-22
+PRF000826,EMP00579,3,"Nikita Dua","Needs Improvement",2026-01-14
+PRF000827,EMP00413,3,"Osha Sachdev","Needs Improvement",2026-06-03
+PRF000828,EMP01122,3,"Dipta Bhatti","Needs Improvement",2024-11-07
+PRF000829,EMP00189,1,"Ojasvi Dasgupta","Below Average",2026-03-04
+PRF000830,EMP00732,1,"Omaja Kashyap","Excellent Performer",2026-02-06
+PRF000831,EMP00070,3,"Faqid Prabhu","Needs Improvement",2024-09-29
+PRF000832,EMP01215,2,"Omaja Kashyap","Exceeds Expectations",2026-05-09
+PRF000833,EMP01077,2,"Chanakya Dada","Exceeds Expectations",2024-02-07
+PRF000834,EMP01034,2,"Saumya Srinivas","Meets Expectations",2024-01-27
+PRF000835,EMP00565,1,"Jagvi Parmar","Needs Improvement",2024-03-08
+PRF000836,EMP00334,2,"Pavani Magar","Meets Expectations",2023-08-23
+PRF000837,EMP00338,2,"Gautam Sinha","Meets Expectations",2025-03-28
+PRF000838,EMP00888,2,"Charles Bera","Meets Expectations",2024-11-02
+PRF000839,EMP00495,5,"Upma Pant","Needs Improvement",2024-12-13
+PRF000840,EMP00767,5,"Tanay Shetty","Needs Improvement",2024-01-11
+PRF000841,EMP00781,2,"Niharika Nagi","Excellent Performer",2024-06-20
+PRF000842,EMP00068,2,"Avni Chatterjee","Meets Expectations",2025-09-09
+PRF000843,EMP01034,2,"Chanakya Dada","Meets Expectations",2025-08-05
+PRF000844,EMP00622,5,"Dhriti Nagar","Needs Improvement",2024-05-04
+PRF000845,EMP00006,5,"Veda Sahota","Needs Improvement",2023-12-25
+PRF000846,EMP00026,2,"Upma Pant","Meets Expectations",2025-10-07
+PRF000847,EMP00375,1,"Saumya Srinivas","Below Average",2025-06-04
+PRF000848,EMP00619,1,"Kiaan Sani","Below Average",2023-09-29
+PRF000849,EMP00020,3,"Harinakshi Varughese",Outstanding,2024-12-07
+PRF000850,EMP00450,2,"Vasudha Borde","Meets Expectations",2024-12-29
+PRF000851,EMP00282,2,"Veda Sahota","Exceeds Expectations",2026-07-14
+PRF000852,EMP00419,1,"Charles Bera",Outstanding,2026-06-15
+PRF000853,EMP00166,2,"Xavier Gole","Meets Expectations",2023-11-07
+PRF000854,EMP00882,2,"Neelima Bhasin","Meets Expectations",2024-12-02
+PRF000855,EMP00788,4,"Faqid Prabhu","Needs Improvement",2024-04-12
+PRF000856,EMP01062,2,"Saumya Srinivas","Exceeds Expectations",2026-05-13
+PRF000857,EMP00721,2,"Ranveer Sood",Outstanding,2026-01-13
+PRF000858,EMP00615,2,"Dhruv Wagle","Exceeds Expectations",2023-12-18
+PRF000859,EMP00773,2,"Indira Balakrishnan","Exceeds Expectations",2026-03-19
+PRF000860,EMP00752,2,"Pavani Magar","Meets Expectations",2025-10-20
+PRF000861,EMP00573,2,"Nikita Dua","Exceeds Expectations",2025-11-16
+PRF000862,EMP00485,2,"Omaja Kashyap","Exceeds Expectations",2025-11-25
+PRF000863,EMP00534,2,"Pavani Magar","Needs Improvement",2025-09-26
+PRF000864,EMP00659,1,"Harinakshi Varughese","Excellent Performer",2025-01-05
+PRF000865,EMP00874,3,"Dhriti Nagar","Needs Improvement",2024-06-30
+PRF000866,EMP00707,1,"Tanay Shetty",Outstanding,2025-06-04
+PRF000867,EMP00519,2,"Damini Mohanty","Exceeds Expectations",2024-11-04
+PRF000868,EMP01043,5,"Osha Sachdev","Excellent Performer",2026-05-08
+PRF000869,EMP00678,2,"Neelima Bhasin","Exceeds Expectations",2024-08-14
+PRF000870,EMP00249,2,"Gautam Sinha","Exceeds Expectations",2026-04-21
+PRF000871,EMP01044,5,"Ojasvi Dasgupta",Outstanding,2026-04-29
+PRF000872,EMP00692,1,"Harinakshi Varughese","Below Average",2025-08-12
+PRF000873,EMP00036,1,"Kavya Kadakia",Outstanding,2024-06-19
+PRF000874,EMP00863,2,"Chanakya Dada","Meets Expectations",2024-05-18
+PRF000875,EMP01198,2,"Tanay Shetty","Exceeds Expectations",2025-01-07
+PRF000876,EMP00459,2,"Omaja Kashyap","Meets Expectations",2024-11-23
+PRF000877,EMP00857,1,"Indira Balakrishnan","Excellent Performer",2025-01-20
+PRF000878,EMP00001,3,"Nikita Dua","Needs Improvement",2024-12-07
+PRF000879,EMP00445,2,"Charan Sen","Meets Expectations",2025-07-05
+PRF000880,EMP00731,0,"Dhriti Nagar","Excellent Performer",2024-01-31
+PRF000881,EMP00370,1,"Falguni Halder","Excellent Performer",2023-12-26
+PRF000882,EMP00943,2,"Omaja Kashyap","Meets Expectations",2024-06-13
+PRF000883,EMP00622,2,"Nikita Dua","Excellent Performer",2026-03-15
+PRF000884,EMP00088,2,"Charles Bera","Meets Expectations",2024-05-07
+PRF000885,EMP00087,1,"Veda Sahota","Below Average",2024-02-16
+PRF000886,EMP01021,2,"Nikita Dua","Exceeds Expectations",2023-09-02
+PRF000887,EMP00773,3,"Farhan Sharaf","Excellent Performer",2025-06-27
+PRF000888,EMP00772,1,"Ranveer Sood","Needs Improvement",2026-07-26
+PRF000889,EMP00193,1,"Osha Sachdev","Below Average",2024-03-18
+PRF000890,EMP00324,3,"Osha Sachdev","Needs Improvement",2025-08-11
+PRF000891,EMP00112,1,"Dhruv Wagle","Below Average",2025-03-08
+PRF000892,EMP00788,3,"Vincent Loyal","Needs Improvement",2024-10-10
+PRF000893,EMP00024,4,NULL,Outstanding,2024-08-13
+PRF000894,EMP00261,2,"Faqid Prabhu","Exceeds Expectations",2024-11-26
+PRF000895,EMP00840,2,"Xavier Gole","Exceeds Expectations",2026-01-02
+PRF000896,EMP01168,1,"Charan Sen","Below Average",2026-02-15
+PRF000897,EMP00200,2,"Farhan Sharaf","Meets Expectations",2023-09-14
+PRF000898,EMP00472,3,"Xavier Gole","Needs Improvement",2025-06-25
+PRF000899,EMP00692,2,NULL,Outstanding,2026-05-12
+PRF000900,EMP00796,5,"Vincent Loyal",Outstanding,2023-11-08
+PRF000901,EMP00282,2,"Tanay Shetty","Excellent Performer",2024-02-17
+PRF000902,EMP00574,1,NULL,Outstanding,2025-05-12
+PRF000903,EMP00722,2,"Harinakshi Varughese","Meets Expectations",2024-01-17
+PRF000904,EMP00523,2,"Osha Sachdev","Exceeds Expectations",2023-08-07
+PRF000905,EMP00117,3,"Dhruv Wagle","Needs Improvement",2026-08-03
+PRF000906,EMP00319,5,"Dipta Bhatti","Excellent Performer",2024-12-08
+PRF000907,EMP00137,5,"Xavier Gole","Needs Improvement",2025-06-24
+PRF000908,EMP01086,2,NULL,Outstanding,2023-09-29
+PRF000909,EMP00538,2,"Arjun Prasad","Meets Expectations",2026-12-04
+PRF000910,EMP00526,3,"Indira Balakrishnan","Needs Improvement",2024-01-30
+PRF000911,EMP00624,1,"Veda Sahota",Outstanding,2025-07-05
+PRF000912,EMP00669,1,"Kavya Kadakia",Outstanding,2023-10-19
+PRF000913,EMP00991,2,"Damini Mohanty",Outstanding,2024-02-18
+PRF000914,EMP01029,1,"Farhan Sharaf","Excellent Performer",2024-08-06
+PRF000915,EMP00781,3,"Shivani Varughese",Outstanding,2025-11-20
+PRF000916,EMP00641,2,"Harinakshi Varughese","Excellent Performer",2024-02-06
+PRF000917,EMP00865,2,"Upma Pant","Meets Expectations",2025-03-23
+PRF000918,EMP00404,5,"Avni Chatterjee","Excellent Performer",2023-11-19
+PRF000919,EMP00578,1,"Ekansh Samra","Below Average",2024-01-01
+PRF000920,EMP01021,1,"Shivani Varughese","Below Average",2024-11-08
+PRF000921,EMP01008,1,"Ojasvi Dasgupta","Below Average",2023-09-26
+PRF000922,EMP01068,1,"Farhan Sharaf",Outstanding,2023-05-10
+PRF000923,EMP00363,3,"Charan Sen","Needs Improvement",2025-01-22
+PRF000924,EMP00660,4,"Ranveer Sood","Needs Improvement",2026-04-18
+PRF000925,EMP01199,3,"Harinakshi Varughese","Needs Improvement",2024-01-03
+PRF000926,EMP00992,2,"Anthony Kanda","Meets Expectations",2024-05-06
+PRF000927,EMP00706,2,"Azaan Grewal","Exceeds Expectations",2026-02-18
+PRF000928,EMP00873,1,"Vasudha Borde","Below Average",2024-03-31
+PRF000929,EMP00783,4,"Upma Pant","Excellent Performer",2025-09-08
+PRF000930,EMP01017,3,"Veda Sahota","Needs Improvement",2023-10-20
+PRF000931,EMP00394,4,"Theodore Sha",Outstanding,2024-06-15
+PRF000932,EMP01019,1,"Azaan Grewal","Excellent Performer",2025-04-20
+PRF000933,EMP01179,1,"Ekansh Samra","Below Average",2024-05-18
+PRF000934,EMP00197,3,"Ranveer Sood","Needs Improvement",2025-01-02
+PRF000935,EMP00616,2,"Udant Bala","Excellent Performer",2023-08-13
+PRF000936,EMP00383,5,"Falguni Halder","Needs Improvement",2023-10-18
+PRF000937,EMP00304,5,NULL,Outstanding,2026-07-31
+PRF000938,EMP00860,2,"Chanakya Dada","Exceeds Expectations",2024-03-26
+PRF000939,EMP00822,5,"Neelima Bhasin","Excellent Performer",2024-03-02
+PRF000940,EMP00948,3,"Faqid Prabhu","Needs Improvement",2025-02-28
+PRF000941,EMP00179,1,"Tanay Shetty","Below Average",2024-07-12
+PRF000942,EMP00137,2,"Pavani Magar","Exceeds Expectations",2024-04-23
+PRF000943,EMP00622,2,"Shivani Varughese","Exceeds Expectations",2026-08-01
+PRF000944,EMP00763,1,"Gautam Sinha","Below Average",2024-10-14
+PRF000945,EMP00353,3,"Avni Chatterjee","Excellent Performer",2025-04-17
+PRF000946,EMP00600,2,"Falguni Halder","Meets Expectations",2023-12-12
+PRF000947,EMP00412,2,"Dhruv Wagle","Exceeds Expectations",2024-10-24
+PRF000948,EMP00667,2,"Charan Sen","Exceeds Expectations",2025-01-12
+PRF000949,EMP00849,2,"Faqid Prabhu","Excellent Performer",2024-07-28
+PRF000950,EMP00677,2,"Shivani Varughese","Needs Improvement",2023-10-07
+PRF000951,EMP00269,4,"Azaan Grewal","Needs Improvement",2024-08-08
+PRF000952,EMP00004,2,"Xavier Gole","Exceeds Expectations",2024-01-02
+PRF000953,EMP01183,1,"Vasudha Borde","Below Average",2023-10-06
+PRF000954,EMP00977,2,"Ekansh Samra","Exceeds Expectations",2026-02-03
+PRF000955,EMP00250,4,"Dhriti Nagar","Needs Improvement",2024-08-05
+PRF000956,EMP00739,2,"Charan Sen","Meets Expectations",2023-08-20
+PRF000957,EMP00060,1,"Nikita Dua","Below Average",2025-01-12
+PRF000958,EMP00106,5,"Azaan Grewal",Outstanding,2024-02-03
+PRF000959,EMP01058,3,"Indira Balakrishnan","Needs Improvement",2025-07-25
+PRF000960,EMP00659,2,"Jagvi Parmar","Exceeds Expectations",2025-01-18
+PRF000961,EMP01158,3,NULL,"Needs Improvement",2023-10-28
+PRF000962,EMP00434,2,"Harinakshi Varughese","Exceeds Expectations",2023-10-07
+PRF000963,EMP00873,2,"Chanakya Dada","Excellent Performer",2024-12-06
+PRF000964,EMP00414,1,"Udant Bala","Needs Improvement",2024-03-27
+PRF000965,EMP01136,1,NULL,"Below Average",2024-12-02
+PRF000966,EMP01187,3,"Pavani Magar","Needs Improvement",2025-03-09
+PRF000967,EMP00013,3,"Harinakshi Varughese","Needs Improvement",2024-10-10
+PRF000968,EMP00050,1,"Falguni Halder","Below Average",2024-12-26
+PRF000969,EMP01218,2,"Niharika Nagi","Meets Expectations",2023-08-07
+PRF000970,EMP00611,1,"Vincent Loyal","Below Average",2025-06-01
+PRF000971,EMP00809,1,"Dhruv Wagle",Outstanding,2024-07-18
+PRF000972,EMP00808,5,"Dhriti Nagar","Needs Improvement",2023-11-03
+PRF000973,EMP00042,5,NULL,Outstanding,2023-09-11
+PRF000974,EMP00485,2,"Charles Bera","Meets Expectations",2024-01-08
+PRF000975,EMP00750,5,"Nikita Dua",Outstanding,2025-10-12
+PRF000976,EMP00745,5,"Faqid Prabhu",Outstanding,2025-03-07
+PRF000977,EMP00297,2,"Vasudha Borde","Meets Expectations",2024-08-22
+PRF000978,EMP00619,3,"Pavani Magar","Needs Improvement",2026-07-06
+PRF000979,EMP00177,2,"Neelima Bhasin","Meets Expectations",2023-10-16
+PRF000980,EMP01074,2,"Omaja Kashyap","Meets Expectations",2025-12-05
+PRF000981,EMP00183,4,"Harinakshi Varughese","Excellent Performer",2024-11-18
+PRF000982,EMP00407,1,"Charles Bera","Needs Improvement",2026-05-10
+PRF000983,EMP00375,2,"Kiaan Sani","Exceeds Expectations",2025-01-21
+PRF000984,EMP00579,2,"Osha Sachdev",Outstanding,2024-04-08
+PRF000985,EMP00506,3,"Neelima Bhasin","Needs Improvement",2025-12-24
+PRF000986,EMP00984,2,"Vincent Loyal","Meets Expectations",2024-01-08
+PRF000987,EMP00965,3,"Dipta Bhatti","Excellent Performer",2025-04-26
+PRF000988,EMP00704,2,"Gautam Sinha","Meets Expectations",2024-07-06
+PRF000989,EMP00874,4,"Kavya Kadakia","Excellent Performer",2024-03-06
+PRF000990,EMP00325,1,NULL,"Below Average",2026-07-21
+PRF000991,EMP00845,4,NULL,Outstanding,2026-06-24
+PRF000992,EMP00581,1,"Charan Sen","Below Average",2026-02-19
+PRF000993,EMP00135,2,"Arjun Prasad","Meets Expectations",2025-06-17
+PRF000994,EMP00950,3,"Neelima Bhasin","Needs Improvement",2025-11-10
+PRF000995,EMP00585,3,"Omaja Kashyap",Outstanding,2026-06-07
+PRF000996,EMP01030,2,"Xavier Gole","Meets Expectations",2024-08-22
+PRF000997,EMP00125,2,"Vasudha Borde","Exceeds Expectations",2026-01-22
+PRF000998,EMP00384,1,"Pavani Magar","Below Average",2025-03-05
+PRF000999,EMP01027,1,"Avni Chatterjee","Below Average",2025-11-15
+PRF001000,EMP00427,1,"Pavani Magar","Below Average",2024-05-15
+PRF001001,EMP00580,2,"Omaja Kashyap","Meets Expectations",2023-12-01
+PRF001002,EMP00939,1,"Theodore Sha","Below Average",2025-02-01
+PRF001003,EMP00582,2,"Saumya Srinivas","Meets Expectations",2025-08-05
+PRF001004,EMP00256,2,"Kavya Kadakia",Outstanding,2026-04-03
+PRF001005,EMP00164,2,"Omaja Kashyap","Exceeds Expectations",2025-05-06
+PRF001006,EMP00947,2,"Saumya Srinivas","Meets Expectations",2024-03-23
+PRF001007,EMP00136,1,"Anthony Kanda","Excellent Performer",2026-02-12
+PRF001008,EMP00988,5,"Charles Bera","Needs Improvement",2024-02-13
+PRF001009,EMP00001,3,"Xavier Gole","Needs Improvement",2024-09-03
+PRF001010,EMP01104,2,"Charan Sen","Exceeds Expectations",2025-04-21
+PRF001011,EMP00704,1,"Upma Pant","Below Average",2026-03-04
+PRF001012,EMP00683,1,"Faqid Prabhu","Below Average",2025-04-12
+PRF001013,EMP00471,5,"Xavier Gole","Needs Improvement",2025-01-17
+PRF001014,EMP00214,3,NULL,"Needs Improvement",2024-07-21
+PRF001015,EMP00248,2,"Omaja Kashyap","Needs Improvement",2023-12-10
+PRF001016,EMP00986,1,"Theodore Sha","Below Average",2025-05-13
+PRF001017,EMP00964,4,"Saumya Srinivas",Outstanding,2025-08-19
+PRF001018,EMP00236,1,"Dhriti Nagar","Below Average",2024-12-21
+PRF001019,EMP00105,1,"Dhruv Wagle","Below Average",2024-10-10
+PRF001020,EMP00675,5,"Ranveer Sood","Excellent Performer",2026-01-21
+PRF001021,EMP01222,2,"Ojasvi Dasgupta","Excellent Performer",2025-09-21
+PRF001022,EMP00674,3,"Dhruv Wagle",Outstanding,2026-04-26
+PRF001023,EMP00407,1,"Vasudha Borde","Excellent Performer",2025-07-03
+PRF001024,EMP00540,4,"Kiaan Sani","Needs Improvement",2025-01-29
+PRF001025,EMP00258,1,"Omaja Kashyap",Outstanding,2024-10-30
+PRF001026,EMP01071,3,"Nikita Dua","Needs Improvement",2025-04-05
+PRF001027,EMP00265,1,"Chavvi Devan","Below Average",2026-05-15
+PRF001028,EMP01194,2,"Pavani Magar","Excellent Performer",2023-12-23
+PRF001029,EMP01011,4,"Avni Chatterjee","Excellent Performer",2024-07-17
+PRF001030,EMP01034,2,"Kiaan Sani","Exceeds Expectations",2024-06-23
+PRF001031,EMP00936,2,"Dipta Bhatti","Meets Expectations",2025-11-27
+PRF001032,EMP00375,3,"Arjun Prasad","Needs Improvement",2026-01-05
+PRF001033,EMP00161,3,"Upma Pant","Needs Improvement",2023-12-09
+PRF001034,EMP00568,2,"Azaan Grewal","Meets Expectations",2024-08-25
+PRF001035,EMP00047,1,"Harinakshi Varughese","Below Average",2025-08-30
+PRF001036,EMP00429,3,"Ekansh Samra",Outstanding,2023-10-19
+PRF001037,EMP00634,2,"Veda Sahota",Outstanding,2026-03-11
+PRF001038,EMP00640,1,"Nikita Dua","Excellent Performer",2025-02-17
+PRF001039,EMP00450,3,"Damini Mohanty","Needs Improvement",2025-05-19
+PRF001040,EMP00327,2,"Avni Chatterjee","Meets Expectations",2023-12-01
+PRF001041,EMP00907,1,NULL,"Below Average",2026-01-20
+PRF001042,EMP00342,2,"Niharika Nagi","Exceeds Expectations",2023-11-25
+PRF001043,EMP00431,3,NULL,"Needs Improvement",2025-08-27
+PRF001044,EMP00315,2,"Veda Sahota","Exceeds Expectations",2023-10-15
+PRF001045,EMP00401,3,"Dhriti Nagar","Needs Improvement",2025-06-03
+PRF001046,EMP00825,2,"Vincent Loyal","Needs Improvement",2023-12-26
+PRF001047,EMP00495,2,"Nikita Dua","Meets Expectations",2024-02-04
+PRF001048,EMP00127,4,"Ojasvi Dasgupta","Needs Improvement",2024-03-26
+PRF001049,EMP00397,2,"Dhriti Nagar","Meets Expectations",2023-09-04
+PRF001050,EMP01085,3,"Udant Bala",Outstanding,2023-10-22
+PRF001051,EMP00886,1,"Harinakshi Varughese",Outstanding,2023-11-03
+PRF001052,EMP01007,3,"Neelima Bhasin","Excellent Performer",2024-11-17
+PRF001053,EMP00399,2,"Farhan Sharaf","Exceeds Expectations",2024-04-06
+PRF001054,EMP01216,2,"Dhriti Nagar","Meets Expectations",2023-12-23
+PRF001055,EMP00123,2,NULL,"Excellent Performer",2026-01-31
+PRF001056,EMP00176,3,"Dhruv Wagle","Needs Improvement",2024-04-25
+PRF001057,EMP00203,3,"Azaan Grewal","Needs Improvement",2026-01-15
+PRF001058,EMP00028,2,"Kiaan Sani","Exceeds Expectations",2024-05-21
+PRF001059,EMP00892,2,"Theodore Sha","Exceeds Expectations",2025-07-21
+PRF001060,EMP00765,3,"Faqid Prabhu","Needs Improvement",2025-02-14
+PRF001061,EMP00800,1,NULL,"Below Average",2025-07-09
+PRF001062,EMP00615,1,"Pavani Magar","Below Average",2024-04-02
+PRF001063,EMP00305,2,"Shivani Varughese","Meets Expectations",2026-04-11
+PRF001064,EMP00678,2,"Theodore Sha","Meets Expectations",2025-07-16
+PRF001065,EMP01178,1,"Dhriti Nagar","Below Average",2024-10-04
+PRF001066,EMP00259,4,"Charles Bera","Excellent Performer",2024-11-21
+PRF001067,EMP00882,1,"Udant Bala","Below Average",2026-05-30
+PRF001068,EMP01171,1,"Harinakshi Varughese","Excellent Performer",2024-01-16
+PRF001069,EMP00473,1,"Niharika Nagi",Outstanding,2025-08-10
+PRF001070,EMP00054,1,"Damini Mohanty","Below Average",2023-09-26
+PRF001071,EMP00912,3,"Ojasvi Dasgupta","Excellent Performer",2026-04-29
+PRF001072,EMP01025,1,"Dhruv Wagle","Below Average",2026-09-02
+PRF001073,EMP00164,1,"Farhan Sharaf","Below Average",2023-10-07
+PRF001074,EMP00138,2,"Omaja Kashyap","Excellent Performer",2025-01-16
+PRF001075,EMP00967,2,"Veda Sahota","Meets Expectations",2025-08-27
+PRF001076,EMP00408,1,"Upma Pant","Excellent Performer",2024-07-26
+PRF001077,EMP00841,2,"Xavier Gole","Exceeds Expectations",2024-04-07
+PRF001078,EMP01152,3,"Kavya Kadakia","Needs Improvement",2026-06-11
+PRF001079,EMP00846,2,"Niharika Nagi","Exceeds Expectations",2025-05-12
+PRF001080,EMP00054,4,"Veda Sahota","Needs Improvement",2026-05-26
+PRF001081,EMP00846,1,"Chanakya Dada","Below Average",2023-12-28
+PRF001082,EMP00199,2,"Dhriti Nagar","Meets Expectations",2026-09-01
+PRF001083,EMP00980,1,"Chanakya Dada",Outstanding,2023-11-14
+PRF001084,EMP01129,2,"Osha Sachdev","Meets Expectations",2026-07-28
+PRF001085,EMP00002,2,"Gautam Sinha",Outstanding,2024-05-17
+PRF001086,EMP00655,3,"Tanay Shetty","Needs Improvement",2026-04-12
+PRF001087,EMP01195,3,"Ekansh Samra","Needs Improvement",2025-01-15
+PRF001088,EMP00929,1,"Kiaan Sani",Outstanding,2025-07-04
+PRF001089,EMP00758,1,"Dhriti Nagar",Outstanding,2025-07-23
+PRF001090,EMP00622,2,"Osha Sachdev","Exceeds Expectations",2025-12-29
+PRF001091,EMP00299,5,"Chavvi Devan","Needs Improvement",2026-06-24
+PRF001092,EMP00598,3,NULL,"Needs Improvement",2026-05-15
+PRF001093,EMP00819,1,"Pavani Magar","Below Average",2025-06-02
+PRF001094,EMP00095,1,"Harinakshi Varughese","Below Average",2023-09-08
+PRF001095,EMP00244,3,"Dipta Bhatti","Needs Improvement",2023-08-22
+PRF001096,EMP00016,2,"Indira Balakrishnan","Excellent Performer",2024-03-15
+PRF001097,EMP01023,2,"Vasudha Borde","Exceeds Expectations",2024-03-01
+PRF001098,EMP00403,2,"Upma Pant","Meets Expectations",2024-07-26
+PRF001099,EMP01216,2,"Niharika Nagi","Meets Expectations",2024-09-19
+PRF001100,EMP00130,1,"Charan Sen","Below Average",2025-08-28
+PRF001101,EMP00427,1,"Faqid Prabhu","Below Average",2025-07-03
+PRF001102,EMP00101,2,"Gautam Sinha","Exceeds Expectations",2024-02-29
+PRF001103,EMP00675,2,"Farhan Sharaf","Meets Expectations",2024-06-18
+PRF001104,EMP00301,2,"Azaan Grewal","Exceeds Expectations",2024-04-18
+PRF001105,EMP00493,2,"Azaan Grewal","Meets Expectations",2025-06-23
+PRF001106,EMP00991,2,NULL,"Exceeds Expectations",2026-05-29
+PRF001107,EMP00975,4,"Dhruv Wagle","Excellent Performer",2026-02-06
+PRF001108,EMP00776,2,"Niharika Nagi","Meets Expectations",2024-12-02
+PRF001109,EMP00331,5,"Nikita Dua",Outstanding,2025-01-30
+PRF001110,EMP00932,2,"Faqid Prabhu","Exceeds Expectations",2024-01-25
+PRF001111,EMP00636,2,"Avni Chatterjee","Exceeds Expectations",2023-10-04
+PRF001112,EMP00854,3,"Chanakya Dada",Outstanding,2025-07-27
+PRF001113,EMP00237,2,"Faqid Prabhu","Meets Expectations",2024-11-30
+PRF001114,EMP00539,2,"Harinakshi Varughese","Exceeds Expectations",2025-01-14
+PRF001115,EMP00914,3,"Jagvi Parmar","Needs Improvement",2024-05-17
+PRF001116,EMP01022,4,"Xavier Gole","Needs Improvement",2025-02-15
+PRF001117,EMP00694,2,"Veda Sahota","Exceeds Expectations",2026-07-19
+PRF001118,EMP00535,2,"Udant Bala","Needs Improvement",2023-12-01
+PRF001119,EMP01077,5,"Kiaan Sani",Outstanding,2026-01-25
+PRF001120,EMP01095,2,"Dhriti Nagar","Meets Expectations",2024-04-19
+PRF001121,EMP00097,2,"Charles Bera","Meets Expectations",2024-03-10
+PRF001122,EMP00929,5,"Shivani Varughese",Outstanding,2024-11-03
+PRF001123,EMP00143,1,"Niharika Nagi","Below Average",2024-11-19
+PRF001124,EMP00156,2,"Dipta Bhatti","Exceeds Expectations",2025-06-30
+PRF001125,EMP00815,2,"Charan Sen","Meets Expectations",2026-05-03
+PRF001126,EMP00671,3,NULL,Outstanding,2025-09-02
+PRF001127,EMP00748,1,"Ojasvi Dasgupta","Needs Improvement",2023-11-15
+PRF001128,EMP01076,2,"Veda Sahota","Needs Improvement",2025-07-01
+PRF001129,EMP00962,3,"Anthony Kanda","Needs Improvement",2025-08-16
+PRF001130,EMP00014,5,"Shivani Varughese",Outstanding,2024-11-14
+PRF001131,EMP00142,2,"Faqid Prabhu","Meets Expectations",2025-12-16
+PRF001132,EMP01170,3,"Falguni Halder","Needs Improvement",2024-01-04
+PRF001133,EMP00495,5,"Ojasvi Dasgupta","Excellent Performer",2025-05-05
+PRF001134,EMP00860,1,"Anthony Kanda","Needs Improvement",2024-07-05
+PRF001135,EMP00536,3,"Upma Pant","Needs Improvement",2025-04-16
+PRF001136,EMP00476,1,"Jagvi Parmar","Below Average",2025-07-19
+PRF001137,EMP00309,1,"Damini Mohanty","Below Average",2024-11-13
+PRF001138,EMP00666,2,"Azaan Grewal","Exceeds Expectations",2024-02-19
+PRF001139,EMP00830,1,NULL,"Below Average",2026-06-19
+PRF001140,EMP01094,2,"Niharika Nagi","Exceeds Expectations",2023-08-08
+PRF001141,EMP00956,2,NULL,"Meets Expectations",2026-06-03
+PRF001142,EMP00726,2,"Saumya Srinivas","Excellent Performer",2024-08-09
+PRF001143,EMP00149,1,"Falguni Halder","Below Average",2026-03-10
+PRF001144,EMP01110,1,"Farhan Sharaf","Below Average",2023-08-30
+PRF001145,EMP00816,5,"Upma Pant","Excellent Performer",2025-06-02
+PRF001146,EMP00756,3,"Udant Bala","Excellent Performer",2024-07-05
+PRF001147,EMP01134,2,"Charles Bera","Exceeds Expectations",2026-01-31
+PRF001148,EMP00614,2,"Vasudha Borde","Exceeds Expectations",2026-01-12
+PRF001149,EMP00345,4,"Udant Bala","Needs Improvement",2025-11-18
+PRF001150,EMP00020,5,"Upma Pant","Excellent Performer",2026-03-25
+PRF001151,EMP01007,4,"Vincent Loyal","Needs Improvement",2024-03-09
+PRF001152,EMP00091,5,"Tanay Shetty",Outstanding,2023-08-09
+PRF001153,EMP00661,1,"Damini Mohanty","Below Average",2025-02-04
+PRF001154,EMP00920,2,"Chavvi Devan","Exceeds Expectations",2025-05-07
+PRF001155,EMP00603,5,"Chanakya Dada",Outstanding,2025-12-30
+PRF001156,EMP00015,2,"Ekansh Samra","Exceeds Expectations",2025-02-24
+PRF001157,EMP00503,1,"Veda Sahota","Below Average",2025-12-21
+PRF001158,EMP00319,2,"Veda Sahota","Needs Improvement",2024-08-29
+PRF001159,EMP00487,2,"Shivani Varughese","Exceeds Expectations",2025-07-14
+PRF001160,EMP00177,4,"Gautam Sinha","Excellent Performer",2023-08-28
+PRF001161,EMP00482,5,"Xavier Gole","Excellent Performer",2026-02-13
+PRF001162,EMP01091,1,"Ranveer Sood","Below Average",2024-11-28
+PRF001163,EMP00865,1,"Azaan Grewal","Below Average",2026-07-16
+PRF001164,EMP00235,1,"Nikita Dua","Below Average",2024-03-11
+PRF001165,EMP00743,3,"Charan Sen","Needs Improvement",2026-04-23
+PRF001166,EMP01222,3,"Arjun Prasad","Needs Improvement",2025-10-21
+PRF001167,EMP00308,2,"Ekansh Samra","Meets Expectations",2024-02-08
+PRF001168,EMP00723,2,"Vasudha Borde","Exceeds Expectations",2025-05-10
+PRF001169,EMP00605,1,NULL,"Excellent Performer",2023-10-05
+PRF001170,EMP00065,3,NULL,"Excellent Performer",2025-03-11
+PRF001171,EMP01081,3,"Charles Bera",Outstanding,2025-05-25
+PRF001172,EMP00228,3,"Farhan Sharaf","Needs Improvement",2025-02-22
+PRF001173,EMP00911,2,"Avni Chatterjee","Meets Expectations",2025-03-05
+PRF001174,EMP00533,1,"Omaja Kashyap",Outstanding,2024-09-02
+PRF001175,EMP01120,4,"Damini Mohanty","Needs Improvement",2025-09-24
+PRF001176,EMP01222,2,"Gautam Sinha","Meets Expectations",2024-09-26
+PRF001177,EMP00942,2,"Osha Sachdev","Needs Improvement",2026-02-25
+PRF001178,EMP00527,2,"Ojasvi Dasgupta","Exceeds Expectations",2024-11-06
+PRF001179,EMP00887,2,NULL,"Exceeds Expectations",2025-02-27
+PRF001180,EMP00181,2,"Charles Bera","Exceeds Expectations",2024-09-20
+PRF001181,EMP01163,1,"Theodore Sha","Below Average",2026-07-20
+PRF001182,EMP00104,4,"Harinakshi Varughese",Outstanding,2024-01-15
+PRF001183,EMP00068,5,"Falguni Halder","Excellent Performer",2023-11-12
+PRF001184,EMP00284,3,"Chanakya Dada",Outstanding,2025-05-26
+PRF001185,EMP01034,4,"Osha Sachdev","Needs Improvement",2024-12-20
+PRF001186,EMP00027,4,"Ranveer Sood","Excellent Performer",2024-10-04
+PRF001187,EMP00445,4,"Shivani Varughese","Needs Improvement",2026-07-07
+PRF001188,EMP00303,5,NULL,"Needs Improvement",2025-11-24
+PRF001189,EMP00274,2,"Udant Bala","Meets Expectations",2025-06-05
+PRF001190,EMP00378,2,"Upma Pant","Meets Expectations",2025-03-08
+PRF001191,EMP00639,3,"Shivani Varughese","Needs Improvement",2025-10-05
+PRF001192,EMP01010,1,"Tanay Shetty","Below Average",2026-04-14
+PRF001193,EMP00291,2,"Omaja Kashyap","Exceeds Expectations",2024-01-21
+PRF001194,EMP00709,3,"Pavani Magar","Needs Improvement",2024-12-03
+PRF001195,EMP00920,3,"Osha Sachdev","Needs Improvement",2025-09-10
+PRF001196,EMP01175,3,"Pavani Magar","Needs Improvement",2025-05-22
+PRF001197,EMP00796,3,"Dhruv Wagle",Outstanding,2025-05-07
+PRF001198,EMP00140,2,"Nikita Dua","Meets Expectations",2025-06-01
+PRF001199,EMP00297,4,"Kiaan Sani","Excellent Performer",2025-07-24
+PRF001200,EMP01138,2,"Ojasvi Dasgupta","Meets Expectations",2024-10-17
+PRF001201,EMP00919,1,"Arjun Prasad","Below Average",2024-10-25
+PRF001202,EMP00033,1,"Dipta Bhatti","Below Average",2026-02-02
+PRF001203,EMP00539,2,"Chanakya Dada","Exceeds Expectations",2025-09-19
+PRF001204,EMP00444,2,"Falguni Halder","Exceeds Expectations",2024-01-22
+PRF001205,EMP00708,2,"Upma Pant","Meets Expectations",2024-10-05
+PRF001206,EMP00551,4,"Omaja Kashyap","Needs Improvement",2026-01-06
+PRF001207,EMP00513,1,"Niharika Nagi","Excellent Performer",2025-09-23
+PRF001208,EMP00202,2,"Kavya Kadakia","Excellent Performer",2026-02-05
+PRF001209,EMP00435,2,"Neelima Bhasin","Needs Improvement",2024-04-28
+PRF001210,EMP01092,4,"Charan Sen",Outstanding,2023-08-25
+PRF001211,EMP01103,4,"Nikita Dua",Outstanding,2024-10-05
+PRF001212,EMP00982,2,"Vasudha Borde","Meets Expectations",2023-08-22
+PRF001213,EMP00939,2,"Damini Mohanty","Meets Expectations",2024-05-07
+PRF001214,EMP00704,4,"Pavani Magar",Outstanding,2024-12-15
+PRF001215,EMP00312,1,"Falguni Halder","Excellent Performer",2025-06-13
+PRF001216,EMP00644,1,"Neelima Bhasin","Below Average",2024-01-07
+PRF001217,EMP00860,1,"Chavvi Devan","Below Average",2025-10-01
+PRF001218,EMP00672,4,"Charles Bera",Outstanding,2023-12-04
+PRF001219,EMP00461,4,"Harinakshi Varughese","Needs Improvement",2024-05-21
+PRF001220,EMP00699,3,"Charan Sen","Needs Improvement",2026-03-09
+PRF001221,EMP00317,5,"Vincent Loyal",Outstanding,2024-03-20
+PRF001222,EMP00255,4,"Ekansh Samra","Excellent Performer",2024-08-05
+PRF001223,EMP00394,3,"Charles Bera",Outstanding,2025-07-22
+PRF001224,EMP00501,1,"Niharika Nagi","Below Average",2023-11-21
+PRF001225,EMP00833,1,"Arjun Prasad","Below Average",2025-08-06
+PRF001226,EMP00727,1,"Neelima Bhasin","Below Average",2023-08-19
+PRF001227,EMP00249,2,"Saumya Srinivas","Excellent Performer",2024-05-17
+PRF001228,EMP00331,1,"Charan Sen","Below Average",2025-02-01
+PRF001229,EMP00612,3,NULL,Outstanding,2024-02-23
+PRF001230,EMP00401,2,"Dhruv Wagle","Meets Expectations",2023-10-01
+PRF001231,EMP00425,4,"Dhruv Wagle",Outstanding,2024-08-09
+PRF001232,EMP00851,3,NULL,"Excellent Performer",2024-05-27
+PRF001233,EMP00628,2,"Ekansh Samra","Meets Expectations",2024-03-04
+PRF001234,EMP00615,4,"Dhruv Wagle","Needs Improvement",2025-05-16
+PRF001235,EMP00797,2,"Damini Mohanty","Excellent Performer",2024-03-20
+PRF001236,EMP00972,5,"Niharika Nagi",Outstanding,2025-04-22
+PRF001237,EMP00551,2,"Indira Balakrishnan","Meets Expectations",2025-07-03
+PRF001238,EMP00809,1,NULL,"Excellent Performer",2026-04-25
+PRF001239,EMP01173,2,"Falguni Halder",Outstanding,2024-11-02
+PRF001240,EMP00632,2,"Pavani Magar","Meets Expectations",2023-08-12
+PRF001241,EMP00534,1,"Harinakshi Varughese","Below Average",2024-12-04
+PRF001242,EMP00159,1,"Dipta Bhatti","Below Average",2025-06-18
+PRF001243,EMP00383,3,"Saumya Srinivas","Needs Improvement",2025-05-12
+PRF001244,EMP00063,4,"Kavya Kadakia","Excellent Performer",2023-12-23
+PRF001245,EMP00412,2,"Osha Sachdev","Exceeds Expectations",2023-10-07
+PRF001246,EMP00273,2,"Jagvi Parmar","Meets Expectations",2026-09-07
+PRF001247,EMP00413,2,"Udant Bala","Needs Improvement",2024-10-31
+PRF001248,EMP00727,1,"Kiaan Sani","Below Average",2024-05-09
+PRF001249,EMP00754,1,NULL,Outstanding,2023-11-30
+PRF001250,EMP01117,1,"Vincent Loyal","Below Average",2024-01-01
+PRF001251,EMP00671,1,"Vasudha Borde","Below Average",2026-06-28
+PRF001252,EMP00981,2,"Vincent Loyal","Meets Expectations",2025-11-03
+PRF001253,EMP00952,2,"Gautam Sinha",Outstanding,2026-06-22
+PRF001254,EMP01198,2,"Kavya Kadakia","Exceeds Expectations",2025-08-19
+PRF001255,EMP00912,1,"Avni Chatterjee","Below Average",2024-03-16
+PRF001256,EMP00924,3,"Damini Mohanty","Excellent Performer",2026-11-02
+PRF001257,EMP00727,4,"Faqid Prabhu",Outstanding,2024-06-09
+PRF001258,EMP01041,5,"Falguni Halder","Excellent Performer",2023-08-14
+PRF001259,EMP00997,4,"Indira Balakrishnan","Excellent Performer",2023-08-06
+PRF001260,EMP00616,2,"Osha Sachdev","Exceeds Expectations",2025-05-14
+PRF001261,EMP00001,3,"Ojasvi Dasgupta","Excellent Performer",2024-11-22
+PRF001262,EMP00798,1,"Farhan Sharaf","Below Average",2025-09-15
+PRF001263,EMP00502,1,"Kavya Kadakia",Outstanding,2026-07-28
+PRF001264,EMP00161,1,"Falguni Halder","Needs Improvement",2024-02-19
+PRF001265,EMP01002,3,"Theodore Sha","Excellent Performer",2023-09-25
+PRF001266,EMP00970,1,"Charles Bera","Below Average",2026-03-13
+PRF001267,EMP01199,5,"Dhruv Wagle","Needs Improvement",2026-04-20
+PRF001268,EMP00966,4,"Ojasvi Dasgupta","Excellent Performer",2025-01-30
+PRF001269,EMP00646,2,"Gautam Sinha","Needs Improvement",2026-07-18
+PRF001270,EMP01085,5,"Kiaan Sani",Outstanding,2025-05-11
+PRF001271,EMP00753,3,NULL,"Needs Improvement",2024-10-11
+PRF001272,EMP00924,2,"Charles Bera","Meets Expectations",2024-06-21
+PRF001273,EMP00059,1,"Azaan Grewal","Below Average",2026-03-16
+PRF001274,EMP00545,5,"Vincent Loyal","Needs Improvement",2026-07-01
+PRF001275,EMP00078,2,"Shivani Varughese","Meets Expectations",2025-02-17
+PRF001276,EMP00980,0,"Faqid Prabhu",Outstanding,2025-07-11
+PRF001277,EMP01194,3,"Damini Mohanty","Needs Improvement",2023-09-18
+PRF001278,EMP00156,2,"Vasudha Borde","Meets Expectations",2023-09-17
+PRF001279,EMP00523,3,"Ranveer Sood","Needs Improvement",2025-03-08
+PRF001280,EMP00745,2,"Gautam Sinha","Exceeds Expectations",2024-05-30
+PRF001281,EMP01220,2,"Jagvi Parmar","Meets Expectations",2026-02-15
+PRF001282,EMP00104,5,"Vincent Loyal",Outstanding,2024-07-16
+PRF001283,EMP00017,4,"Ranveer Sood","Needs Improvement",2026-04-27
+PRF001284,EMP00112,5,NULL,Outstanding,2025-09-29
+PRF001285,EMP01081,3,"Kavya Kadakia","Excellent Performer",2025-01-04
+PRF001286,EMP00379,3,"Tanay Shetty","Needs Improvement",2023-11-06
+PRF001287,EMP00286,2,"Falguni Halder","Exceeds Expectations",2023-11-29
+PRF001288,EMP00866,1,"Ekansh Samra","Below Average",2026-04-14
+PRF001289,EMP00769,1,"Tanay Shetty","Below Average",2024-07-11
+PRF001290,EMP01201,1,"Kiaan Sani","Below Average",2023-10-07
+PRF001291,EMP00095,3,"Upma Pant","Excellent Performer",2026-05-14
+PRF001292,EMP00509,2,"Vincent Loyal","Exceeds Expectations",2024-02-02
+PRF001293,EMP01188,2,"Xavier Gole","Exceeds Expectations",2026-05-29
+PRF001294,EMP00980,2,"Kavya Kadakia","Exceeds Expectations",2026-01-31
+PRF001295,EMP00378,2,"Tanay Shetty","Exceeds Expectations",2023-09-02
+PRF001296,EMP00814,2,"Faqid Prabhu","Meets Expectations",2024-02-08
+PRF001297,EMP00292,3,"Tanay Shetty","Needs Improvement",2024-09-06
+PRF001298,EMP00658,2,"Theodore Sha",Outstanding,2025-10-22
+PRF001299,EMP00490,5,"Arjun Prasad",Outstanding,2026-06-25
+PRF001300,EMP00672,4,"Jagvi Parmar","Excellent Performer",2025-12-09
+PRF001301,EMP00176,4,"Shivani Varughese",Outstanding,2024-08-30
+PRF001302,EMP00985,1,"Vasudha Borde","Below Average",2026-04-03
+PRF001303,EMP01164,2,"Theodore Sha","Needs Improvement",2024-03-25
+PRF001304,EMP00582,2,"Dhriti Nagar","Needs Improvement",2026-02-24
+PRF001305,EMP00815,5,"Anthony Kanda","Excellent Performer",2024-08-11
+PRF001306,EMP01113,4,"Shivani Varughese",Outstanding,2023-11-26
+PRF001307,EMP00752,2,"Niharika Nagi","Meets Expectations",2025-04-28
+PRF001308,EMP01097,2,"Omaja Kashyap","Needs Improvement",2024-05-11
+PRF001309,EMP00479,4,"Upma Pant","Excellent Performer",2026-05-15
+PRF001310,EMP00072,4,NULL,"Excellent Performer",2025-06-28
+PRF001311,EMP01049,5,NULL,Outstanding,2023-11-28
+PRF001312,EMP00861,2,"Arjun Prasad","Exceeds Expectations",2024-10-19
+PRF001313,EMP00927,5,"Avni Chatterjee",Outstanding,2026-04-18
+PRF001314,EMP00383,2,"Charles Bera","Needs Improvement",2023-12-15
+PRF001315,EMP00828,2,"Falguni Halder","Meets Expectations",2026-07-05
+PRF001316,EMP00465,2,"Omaja Kashyap","Excellent Performer",2025-12-14
+PRF001317,EMP01058,3,"Upma Pant","Needs Improvement",2025-01-14
+PRF001318,EMP00370,2,"Vincent Loyal","Needs Improvement",2026-03-09
+PRF001319,EMP00594,3,"Udant Bala",Outstanding,2024-12-26
+PRF001320,EMP00376,2,"Azaan Grewal","Meets Expectations",2023-12-22
+PRF001321,EMP00973,2,"Dhruv Wagle","Meets Expectations",2026-03-25
+PRF001322,EMP00768,1,"Dipta Bhatti","Below Average",2025-05-15
+PRF001323,EMP01111,2,NULL,"Excellent Performer",2026-02-21
+PRF001324,EMP00256,5,"Kavya Kadakia","Needs Improvement",2024-03-20
+PRF001325,EMP00896,5,"Upma Pant","Needs Improvement",2023-10-24
+PRF001326,EMP00285,3,"Jagvi Parmar",Outstanding,2023-08-07
+PRF001327,EMP00076,1,"Neelima Bhasin","Below Average",2025-11-25
+PRF001328,EMP00769,1,"Arjun Prasad",Outstanding,2025-08-12
+PRF001329,EMP00400,2,"Kiaan Sani","Exceeds Expectations",2025-11-09
+PRF001330,EMP00300,1,"Vasudha Borde","Below Average",2024-04-22
+PRF001331,EMP00908,1,"Nikita Dua","Needs Improvement",2024-08-08
+PRF001332,EMP00699,5,"Ranveer Sood","Needs Improvement",2025-05-28
+PRF001333,EMP00788,1,"Shivani Varughese","Below Average",2026-06-07
+PRF001334,EMP00041,3,"Nikita Dua",Outstanding,2026-01-25
+PRF001335,EMP01061,2,"Udant Bala","Meets Expectations",2025-04-19
+PRF001336,EMP00814,1,"Charan Sen","Below Average",2024-08-28
+PRF001337,EMP00168,2,"Udant Bala","Exceeds Expectations",2025-03-19
+PRF001338,EMP00329,5,"Udant Bala",Outstanding,2025-05-16
+PRF001339,EMP00703,2,"Ekansh Samra","Needs Improvement",2024-03-18
+PRF001340,EMP00684,1,"Tanay Shetty","Below Average",2024-05-05
+PRF001341,EMP01217,4,"Charan Sen","Needs Improvement",2026-01-09
+PRF001342,EMP00056,5,"Ojasvi Dasgupta","Excellent Performer",2026-04-08
+PRF001343,EMP00929,2,"Chanakya Dada","Exceeds Expectations",2024-09-19
+PRF001344,EMP01060,2,"Veda Sahota",Outstanding,2025-06-04
+PRF001345,EMP00183,2,"Tanay Shetty","Exceeds Expectations",2024-10-21
+PRF001346,EMP00847,3,"Indira Balakrishnan","Needs Improvement",2024-12-25
+PRF001347,EMP01001,2,"Upma Pant","Meets Expectations",2024-03-14
+PRF001348,EMP00198,3,"Indira Balakrishnan","Needs Improvement",2025-08-28
+PRF001349,EMP00054,3,"Neelima Bhasin",Outstanding,2024-10-01
+PRF001350,EMP00586,3,"Omaja Kashyap","Excellent Performer",2026-02-26
+PRF001351,EMP00346,1,"Shivani Varughese","Below Average",2026-07-04
+PRF001352,EMP00501,3,"Dipta Bhatti","Needs Improvement",2026-02-14
+PRF001353,EMP01114,5,"Anthony Kanda","Excellent Performer",2023-11-28
+PRF001354,EMP00933,2,"Tanay Shetty","Meets Expectations",2023-10-29
+PRF001355,EMP00070,5,"Dhruv Wagle","Needs Improvement",2024-07-07
+PRF001356,EMP00140,2,"Damini Mohanty","Exceeds Expectations",2024-05-16
+PRF001357,EMP00432,1,"Neelima Bhasin","Needs Improvement",2023-09-13
+PRF001358,EMP00672,1,"Jagvi Parmar","Below Average",2024-11-23
+PRF001359,EMP01006,2,"Dhruv Wagle","Exceeds Expectations",2026-02-01
+PRF001360,EMP00720,4,"Ranveer Sood","Needs Improvement",2025-02-12
+PRF001361,EMP00147,2,"Tanay Shetty","Meets Expectations",2023-12-19
+PRF001362,EMP01092,2,"Xavier Gole","Meets Expectations",2023-11-07
+PRF001363,EMP00815,1,"Charan Sen","Excellent Performer",2024-12-25
+PRF001364,EMP00075,1,"Indira Balakrishnan","Excellent Performer",2025-05-18
+PRF001365,EMP01078,2,"Saumya Srinivas",Outstanding,2026-04-13
+PRF001366,EMP00585,3,"Charan Sen",Outstanding,2024-07-25
+PRF001367,EMP00679,2,"Charan Sen","Exceeds Expectations",2024-05-20
+PRF001368,EMP00018,5,"Pavani Magar","Needs Improvement",2024-11-22
+PRF001369,EMP00966,5,"Farhan Sharaf","Excellent Performer",2025-12-11
+PRF001370,EMP00599,3,"Arjun Prasad","Excellent Performer",2026-06-15
+PRF001371,EMP00939,1,"Ekansh Samra","Below Average",2025-09-16
+PRF001372,EMP00443,2,"Indira Balakrishnan","Meets Expectations",2025-07-02
+PRF001373,EMP00910,5,"Udant Bala",Outstanding,2026-05-25
+PRF001374,EMP00614,1,"Dipta Bhatti","Below Average",2024-07-08
+PRF001375,EMP00785,5,"Azaan Grewal",Outstanding,2024-03-01
+PRF001376,EMP00026,2,"Udant Bala","Needs Improvement",2024-06-07
+PRF001377,EMP00873,1,"Dipta Bhatti","Below Average",2024-02-05
+PRF001378,EMP00544,2,"Charan Sen","Needs Improvement",2024-09-15
+PRF001379,EMP00845,1,"Ekansh Samra","Below Average",2025-03-11
+PRF001380,EMP01097,1,"Dhriti Nagar","Needs Improvement",2025-01-03
+PRF001381,EMP00975,1,"Avni Chatterjee","Excellent Performer",2024-02-15
+PRF001382,EMP00391,5,"Charles Bera",Outstanding,2024-02-16
+PRF001383,EMP00464,2,"Gautam Sinha","Exceeds Expectations",2025-05-23
+PRF001384,EMP00145,3,"Udant Bala",Outstanding,2024-04-16
+PRF001385,EMP01135,2,"Dhruv Wagle","Meets Expectations",2026-04-02
+PRF001386,EMP00569,4,"Udant Bala","Needs Improvement",2024-03-24
+PRF001387,EMP00010,2,"Ranveer Sood","Exceeds Expectations",2025-03-16
+PRF001388,EMP00790,3,"Ojasvi Dasgupta","Excellent Performer",2025-10-07
+PRF001389,EMP00235,2,"Omaja Kashyap","Exceeds Expectations",2025-01-17
+PRF001390,EMP00031,4,"Charan Sen",Outstanding,2026-07-15
+PRF001391,EMP00772,4,"Kiaan Sani",Outstanding,2026-05-17
+PRF001392,EMP00466,5,"Niharika Nagi",Outstanding,2023-09-13
+PRF001393,EMP01005,2,"Ranveer Sood","Meets Expectations",2026-07-08
+PRF001394,EMP00589,2,"Upma Pant","Exceeds Expectations",2023-08-16
+PRF001395,EMP00173,1,"Avni Chatterjee","Needs Improvement",2024-05-25
+PRF001396,EMP00563,3,"Dhruv Wagle","Needs Improvement",2024-05-25
+PRF001397,EMP00681,4,"Dhriti Nagar",Outstanding,2024-06-19
+PRF001398,EMP00281,5,"Kiaan Sani","Excellent Performer",2024-08-12
+PRF001399,EMP00175,2,"Kavya Kadakia","Exceeds Expectations",2024-12-24
+PRF001400,EMP00843,4,"Ekansh Samra","Excellent Performer",2023-11-25
+PRF001401,EMP00830,2,NULL,"Exceeds Expectations",2026-06-15
+PRF001402,EMP00484,2,"Kavya Kadakia","Meets Expectations",2026-06-09
+PRF001403,EMP00353,3,"Vincent Loyal","Needs Improvement",2024-12-25
+PRF001404,EMP00473,2,"Kiaan Sani","Exceeds Expectations",2026-05-05
+PRF001405,EMP00789,1,"Omaja Kashyap","Below Average",2026-01-28
+PRF001406,EMP00670,5,"Charles Bera",Outstanding,2023-12-09
+PRF001407,EMP00914,3,"Udant Bala",Outstanding,2023-12-02
+PRF001408,EMP00589,1,"Chavvi Devan","Below Average",2025-10-23
+PRF001409,EMP00371,1,"Nikita Dua","Excellent Performer",2026-07-27
+PRF001410,EMP00475,5,NULL,"Excellent Performer",2024-08-27
+PRF001411,EMP00590,3,"Xavier Gole","Needs Improvement",2024-05-26
+PRF001412,EMP00350,2,"Anthony Kanda","Meets Expectations",2025-05-05
+PRF001413,EMP00515,2,"Theodore Sha","Meets Expectations",2024-08-24
+PRF001414,EMP00065,5,"Azaan Grewal",Outstanding,2025-02-20
+PRF001415,EMP00978,2,"Anthony Kanda","Meets Expectations",2025-10-08
+PRF001416,EMP00912,2,"Damini Mohanty","Meets Expectations",2024-12-23
+PRF001417,EMP00436,3,"Anthony Kanda","Needs Improvement",2025-05-24
+PRF001418,EMP00802,2,"Kiaan Sani","Exceeds Expectations",2025-10-22
+PRF001419,EMP00920,2,"Xavier Gole","Exceeds Expectations",2023-10-13
+PRF001420,EMP00245,2,"Gautam Sinha","Exceeds Expectations",2025-07-12
+PRF001421,EMP00452,4,"Osha Sachdev","Excellent Performer",2026-06-24
+PRF001422,EMP01096,1,"Jagvi Parmar","Below Average",2025-06-22
+PRF001423,EMP01106,2,"Nikita Dua","Meets Expectations",2023-08-12
+PRF001424,EMP01071,3,"Faqid Prabhu","Needs Improvement",2023-12-24
+PRF001425,EMP00758,3,"Tanay Shetty",Outstanding,2026-07-23
+PRF001426,EMP00912,3,"Avni Chatterjee",Outstanding,2025-11-06
+PRF001427,EMP00437,1,"Ojasvi Dasgupta","Below Average",2026-08-03
+PRF001428,EMP00577,5,"Veda Sahota",Outstanding,2026-07-03
+PRF001429,EMP01109,2,"Udant Bala","Meets Expectations",2024-12-05
+PRF001430,EMP00195,1,"Jagvi Parmar",Outstanding,2025-01-23
+PRF001431,EMP00180,2,"Ojasvi Dasgupta",Outstanding,2024-06-21
+PRF001432,EMP00811,2,NULL,"Needs Improvement",2025-10-28
+PRF001433,EMP01184,3,"Harinakshi Varughese","Excellent Performer",2025-03-06
+PRF001434,EMP00350,2,"Neelima Bhasin","Meets Expectations",2025-12-23
+PRF001435,EMP00380,2,"Omaja Kashyap","Needs Improvement",2025-05-10
+PRF001436,EMP00121,2,"Shivani Varughese","Meets Expectations",2025-10-29
+PRF001437,EMP01027,2,"Shivani Varughese","Meets Expectations",2024-07-25
+PRF001438,EMP00600,2,"Kavya Kadakia","Meets Expectations",2025-10-20
+PRF001439,EMP00642,3,"Damini Mohanty","Needs Improvement",2024-12-10
+PRF001440,EMP00394,2,"Harinakshi Varughese",Outstanding,2026-06-20
+PRF001441,EMP00227,4,"Charan Sen","Excellent Performer",2025-10-18
+PRF001442,EMP00421,3,"Udant Bala","Needs Improvement",2024-12-27
+PRF001443,EMP00620,2,"Chanakya Dada","Exceeds Expectations",2025-02-06
+PRF001444,EMP00473,2,"Kavya Kadakia","Exceeds Expectations",2025-07-22
+PRF001445,EMP00437,5,"Osha Sachdev","Needs Improvement",2023-10-21
+PRF001446,EMP00807,2,"Udant Bala","Exceeds Expectations",2024-04-04
+PRF001447,EMP01112,4,NULL,"Excellent Performer",2025-05-04
+PRF001448,EMP00013,3,"Faqid Prabhu","Needs Improvement",2026-03-18
+PRF001449,EMP00855,4,"Dhriti Nagar","Excellent Performer",2024-12-10
+PRF001450,EMP01002,2,"Upma Pant","Meets Expectations",2025-11-22
+PRF001451,EMP00941,5,"Damini Mohanty",Outstanding,2025-03-30
+PRF001452,EMP00599,4,"Xavier Gole","Excellent Performer",2023-09-16
+PRF001453,EMP00594,3,"Harinakshi Varughese","Needs Improvement",2024-01-19
+PRF001454,EMP00581,1,"Upma Pant",Outstanding,2023-12-15
+PRF001455,EMP00103,2,"Harinakshi Varughese","Exceeds Expectations",2025-10-03
+PRF001456,EMP00262,3,"Charles Bera","Needs Improvement",2023-08-09
+PRF001457,EMP01131,2,NULL,"Excellent Performer",2024-06-05
+PRF001458,EMP00519,2,"Charles Bera","Meets Expectations",2024-12-23
+PRF001459,EMP00147,1,"Osha Sachdev",Outstanding,2024-12-18
+PRF001460,EMP00375,4,"Falguni Halder","Excellent Performer",2024-06-01
+PRF001461,EMP00092,2,"Azaan Grewal","Exceeds Expectations",2025-01-05
+PRF001462,EMP00339,5,"Farhan Sharaf",Outstanding,2025-05-25
+PRF001463,EMP00003,1,"Damini Mohanty","Below Average",2025-05-13
+PRF001464,EMP00745,4,"Arjun Prasad",Outstanding,2026-01-28
+PRF001465,EMP01102,4,"Jagvi Parmar","Excellent Performer",2025-10-19
+PRF001466,EMP00065,2,"Ojasvi Dasgupta","Meets Expectations",2023-10-16
+PRF001467,EMP00775,2,"Damini Mohanty","Meets Expectations",2026-04-14
+PRF001468,EMP00197,4,"Omaja Kashyap",Outstanding,2025-07-11
+PRF001469,EMP00179,2,"Azaan Grewal","Meets Expectations",2023-10-10
+PRF001470,EMP00921,1,"Ojasvi Dasgupta","Below Average",2025-03-28
+PRF001471,EMP00139,3,"Harinakshi Varughese","Needs Improvement",2023-09-28
+PRF001472,EMP00879,3,NULL,"Needs Improvement",2024-04-02
+PRF001473,EMP00137,2,"Gautam Sinha","Meets Expectations",2026-07-21
+PRF001474,EMP00871,2,"Farhan Sharaf","Meets Expectations",2025-01-02
+PRF001475,EMP00355,4,"Xavier Gole","Excellent Performer",2026-03-10
+PRF001476,EMP00236,5,"Dhriti Nagar",Outstanding,2024-01-30
+PRF001477,EMP00476,2,"Niharika Nagi","Meets Expectations",2024-09-05
+PRF001478,EMP01057,1,"Niharika Nagi","Excellent Performer",2024-09-23
+PRF001479,EMP00896,4,"Faqid Prabhu","Excellent Performer",2026-06-24
+PRF001480,EMP00358,1,"Faqid Prabhu","Below Average",2024-12-20
+PRF001481,EMP00275,1,"Xavier Gole","Below Average",2026-07-29
+PRF001482,EMP00838,1,"Tanay Shetty","Below Average",2024-04-18
+PRF001483,EMP01198,1,"Dhriti Nagar","Needs Improvement",2023-08-26
+PRF001484,EMP00454,1,"Nikita Dua","Needs Improvement",2025-03-07
+PRF001485,EMP00929,3,"Dhriti Nagar","Needs Improvement",2024-09-15
+PRF001486,EMP00001,5,"Tanay Shetty",Outstanding,2024-07-05
+PRF001487,EMP00105,1,"Arjun Prasad","Needs Improvement",2025-03-07
+PRF001488,EMP00415,3,"Omaja Kashyap","Needs Improvement",2024-06-01
+PRF001489,EMP00293,5,"Dipta Bhatti",Outstanding,2024-01-29
+PRF001490,EMP00863,2,"Ekansh Samra","Exceeds Expectations",2023-09-18
+PRF001491,EMP00052,2,"Charan Sen","Meets Expectations",2024-07-10
+PRF001492,EMP00362,1,"Osha Sachdev","Below Average",2026-05-26
+PRF001493,EMP00575,1,"Osha Sachdev","Excellent Performer",2026-04-24
+PRF001494,EMP00864,1,"Ojasvi Dasgupta","Needs Improvement",2025-08-10
+PRF001495,EMP00597,2,"Falguni Halder","Exceeds Expectations",2025-09-17
+PRF001496,EMP00373,4,"Tanay Shetty",Outstanding,2025-01-14
+PRF001497,EMP00092,2,"Charan Sen","Meets Expectations",2025-12-08
+PRF001498,EMP00778,2,"Harinakshi Varughese","Meets Expectations",2024-09-18
+PRF001499,EMP00916,4,"Dhriti Nagar","Needs Improvement",2026-06-22
+PRF001500,EMP00643,2,"Chanakya Dada","Exceeds Expectations",2026-03-26
+PRF001501,EMP00090,2,"Anthony Kanda","Meets Expectations",2024-12-08
+PRF001502,EMP00353,3,"Jagvi Parmar",Outstanding,2026-04-13
+PRF001503,EMP00227,2,"Farhan Sharaf","Exceeds Expectations",2024-08-08
+PRF001504,EMP01086,2,"Udant Bala","Meets Expectations",2026-02-25
+PRF001505,EMP00236,3,"Harinakshi Varughese","Needs Improvement",2024-01-31
+PRF001506,EMP00326,3,"Ranveer Sood","Needs Improvement",2024-05-22
+PRF001507,EMP00899,2,"Saumya Srinivas","Needs Improvement",2023-11-21
+PRF001508,EMP00528,3,"Chanakya Dada","Needs Improvement",2025-02-01
+PRF001509,EMP01206,2,"Nikita Dua","Meets Expectations",2024-08-02
+PRF001510,EMP00633,4,"Kavya Kadakia","Excellent Performer",2024-09-11
+PRF001511,EMP00287,2,"Dhriti Nagar","Excellent Performer",2024-04-12
+PRF001512,EMP00255,2,"Jagvi Parmar","Excellent Performer",2026-01-14
+PRF001513,EMP00717,1,"Tanay Shetty","Below Average",2025-11-09
+PRF001514,EMP00875,2,"Dhruv Wagle","Meets Expectations",2024-09-27
+PRF001515,EMP00066,2,"Dipta Bhatti","Meets Expectations",2025-07-21
+PRF001516,EMP01155,4,"Ranveer Sood","Needs Improvement",2023-08-14
+PRF001517,EMP00948,2,"Kavya Kadakia","Meets Expectations",2025-03-24
+PRF001518,EMP01223,4,"Ranveer Sood","Excellent Performer",2025-04-16
+PRF001519,EMP00249,1,"Charan Sen","Below Average",2025-06-24
+PRF001520,EMP01041,2,"Ekansh Samra",Outstanding,2023-12-20
+PRF001521,EMP00761,2,"Gautam Sinha","Exceeds Expectations",2025-04-20
+PRF001522,EMP00043,2,"Neelima Bhasin","Exceeds Expectations",2025-11-20
+PRF001523,EMP00800,5,NULL,"Excellent Performer",2023-08-09
+PRF001524,EMP00821,1,"Chanakya Dada","Below Average",2025-10-15
+PRF001525,EMP00452,2,"Veda Sahota","Excellent Performer",2024-06-21
+PRF001526,EMP00574,2,"Vincent Loyal","Excellent Performer",2025-11-05
+PRF001527,EMP00828,1,"Avni Chatterjee","Below Average",2024-08-11
+PRF001528,EMP00714,5,"Dipta Bhatti",Outstanding,2024-09-16
+PRF001529,EMP00828,2,"Dhriti Nagar","Exceeds Expectations",2024-05-16
+PRF001530,EMP00839,1,"Dhruv Wagle",Outstanding,2024-10-11
+PRF001531,EMP00994,1,"Avni Chatterjee",Outstanding,2025-03-19
+PRF001532,EMP00975,2,"Omaja Kashyap","Meets Expectations",2025-11-04
+PRF001533,EMP01201,5,"Farhan Sharaf",Outstanding,2025-02-26
+PRF001534,EMP00903,3,"Azaan Grewal","Needs Improvement",2026-03-18
+PRF001535,EMP00614,3,NULL,"Needs Improvement",2025-08-14
+PRF001536,EMP00530,2,"Azaan Grewal","Meets Expectations",2024-04-11
+PRF001537,EMP01150,3,"Dhriti Nagar","Needs Improvement",2023-11-19
+PRF001538,EMP00084,5,"Kiaan Sani","Excellent Performer",2026-05-13
+PRF001539,EMP00809,1,"Ekansh Samra","Excellent Performer",2024-08-28
+PRF001540,EMP00540,2,"Damini Mohanty","Meets Expectations",2026-04-27
+PRF001541,EMP00864,3,"Vasudha Borde","Needs Improvement",2024-11-24
+PRF001542,EMP00721,2,"Nikita Dua","Meets Expectations",2026-03-20
+PRF001543,EMP00431,1,"Jagvi Parmar",Outstanding,2025-05-09
+PRF001544,EMP00513,2,NULL,"Exceeds Expectations",2026-05-19
+PRF001545,EMP01132,1,"Harinakshi Varughese","Below Average",2026-01-11
+PRF001546,EMP00169,2,NULL,"Exceeds Expectations",2025-01-11
+PRF001547,EMP01168,5,"Chavvi Devan",Outstanding,2023-12-20
+PRF001548,EMP00864,2,"Charles Bera","Meets Expectations",2025-11-26
+PRF001549,EMP00825,5,NULL,"Needs Improvement",2026-01-13
+PRF001550,EMP00195,3,"Farhan Sharaf","Excellent Performer",2026-03-03
+PRF001551,EMP00745,2,"Azaan Grewal","Exceeds Expectations",2026-07-25
+PRF001552,EMP00727,2,"Vincent Loyal","Exceeds Expectations",2025-08-18
+PRF001553,EMP00064,3,"Udant Bala","Excellent Performer",2025-08-01
+PRF001554,EMP00526,5,"Charles Bera","Needs Improvement",2023-11-10
+PRF001555,EMP00967,4,"Niharika Nagi","Excellent Performer",2024-12-06
+PRF001556,EMP00180,5,"Ojasvi Dasgupta","Excellent Performer",2026-02-28
+PRF001557,EMP00638,2,"Tanay Shetty","Meets Expectations",2025-10-15
+PRF001558,EMP00713,2,"Chavvi Devan","Meets Expectations",2024-02-13
+PRF001559,EMP00479,4,NULL,"Excellent Performer",2023-08-29
+PRF001560,EMP00895,2,"Ranveer Sood","Needs Improvement",2024-09-08
+PRF001561,EMP00381,4,"Vincent Loyal",Outstanding,2025-06-12
+PRF001562,EMP01133,5,"Osha Sachdev",Outstanding,2024-04-08
+PRF001563,EMP00187,2,"Tanay Shetty",Outstanding,2026-05-28
+PRF001564,EMP00589,1,"Shivani Varughese","Below Average",2024-05-31
+PRF001565,EMP00216,2,"Damini Mohanty","Meets Expectations",2026-02-21
+PRF001566,EMP00714,5,"Osha Sachdev","Needs Improvement",2024-08-04
+PRF001567,EMP00670,3,"Damini Mohanty","Excellent Performer",2025-01-25
+PRF001568,EMP00229,2,"Dhriti Nagar",Outstanding,2024-01-29
+PRF001569,EMP01170,4,"Upma Pant","Needs Improvement",2026-06-22
+PRF001570,EMP00093,1,"Damini Mohanty","Excellent Performer",2024-04-09
+PRF001571,EMP00520,2,"Shivani Varughese","Meets Expectations",2026-05-11
+PRF001572,EMP01180,5,"Charles Bera","Excellent Performer",2024-07-25
+PRF001573,EMP00459,2,"Ojasvi Dasgupta","Exceeds Expectations",2024-07-21
+PRF001574,EMP00165,2,"Chavvi Devan","Meets Expectations",2024-10-23
+PRF001575,EMP00770,2,"Vincent Loyal","Meets Expectations",2026-04-28
+PRF001576,EMP00777,2,"Vincent Loyal","Exceeds Expectations",2024-10-05
+PRF001577,EMP00364,2,NULL,"Exceeds Expectations",2026-01-14
+PRF001578,EMP01096,5,"Omaja Kashyap",Outstanding,2026-04-10
+PRF001579,EMP00458,3,"Azaan Grewal","Needs Improvement",2025-12-11
+PRF001580,EMP00642,3,"Veda Sahota","Excellent Performer",2024-11-23
+PRF001581,EMP00938,2,"Vincent Loyal",Outstanding,2024-01-02
+PRF001582,EMP00121,1,"Dhriti Nagar","Excellent Performer",2025-10-12
+PRF001583,EMP00544,1,"Upma Pant","Excellent Performer",2025-02-12
+PRF001584,EMP00522,1,"Dipta Bhatti","Excellent Performer",2025-07-29
+PRF001585,EMP00142,5,"Dhruv Wagle","Excellent Performer",2025-09-22
+PRF001586,EMP00737,2,NULL,"Meets Expectations",2026-03-05
+PRF001587,EMP00596,2,"Harinakshi Varughese","Meets Expectations",2026-08-04
+PRF001588,EMP00911,1,"Gautam Sinha","Needs Improvement",2024-09-25
+PRF001589,EMP00007,1,"Neelima Bhasin","Needs Improvement",2025-12-16
+PRF001590,EMP00354,4,"Osha Sachdev","Excellent Performer",2026-03-28
+PRF001591,EMP00773,2,"Ranveer Sood","Meets Expectations",2024-02-21
+PRF001592,EMP00741,2,NULL,"Exceeds Expectations",2026-06-09
+PRF001593,EMP00499,1,NULL,"Below Average",2026-06-10
+PRF001594,EMP00562,2,"Farhan Sharaf","Exceeds Expectations",2025-08-27
+PRF001595,EMP01128,3,"Theodore Sha","Excellent Performer",2023-08-24
+PRF001596,EMP01220,4,"Pavani Magar",Outstanding,2026-01-27
+PRF001597,EMP00622,4,"Chanakya Dada","Needs Improvement",2026-04-14
+PRF001598,EMP00430,2,"Kiaan Sani",Outstanding,2024-02-21
+PRF001599,EMP00443,3,NULL,"Excellent Performer",2025-02-09
+PRF001600,EMP00919,5,"Ranveer Sood","Excellent Performer",2026-01-29
+PRF001601,EMP00803,2,"Chavvi Devan","Exceeds Expectations",2026-06-16
+PRF001602,EMP00954,3,"Azaan Grewal","Excellent Performer",2025-06-30
+PRF001603,EMP00720,4,"Charan Sen","Needs Improvement",2023-08-27
+PRF001604,EMP00189,2,"Farhan Sharaf","Exceeds Expectations",2024-04-17
+PRF001605,EMP01124,3,NULL,"Excellent Performer",2026-04-01
+PRF001606,EMP00650,2,"Vasudha Borde","Exceeds Expectations",2024-12-22
+PRF001607,EMP00206,2,"Osha Sachdev","Meets Expectations",2024-03-24
+PRF001608,EMP00979,3,"Ranveer Sood","Needs Improvement",2023-11-23
+PRF001609,EMP00793,4,"Nikita Dua","Excellent Performer",2025-02-01
+PRF001610,EMP01134,2,"Ojasvi Dasgupta","Meets Expectations",2026-04-13
+PRF001611,EMP01064,1,"Harinakshi Varughese","Below Average",2026-01-29
+PRF001612,EMP00530,1,"Azaan Grewal","Below Average",2024-11-24
+PRF001613,EMP00170,3,"Pavani Magar","Needs Improvement",2025-07-31
+PRF001614,EMP00205,4,NULL,"Excellent Performer",2024-02-16
+PRF001615,EMP00663,5,"Charan Sen","Excellent Performer",2025-03-09
+PRF001616,EMP00562,3,"Ranveer Sood","Needs Improvement",2025-11-26
+PRF001617,EMP00858,2,"Avni Chatterjee","Meets Expectations",2023-09-05
+PRF001618,EMP01157,1,"Damini Mohanty","Needs Improvement",2024-03-04
+PRF001619,EMP00634,2,"Faqid Prabhu","Meets Expectations",2025-04-14
+PRF001620,EMP00612,2,"Charles Bera","Needs Improvement",2023-08-15
+PRF001621,EMP00594,5,"Saumya Srinivas","Needs Improvement",2025-05-05
+PRF001622,EMP01093,5,"Farhan Sharaf","Excellent Performer",2024-02-15
+PRF001623,EMP00930,2,"Pavani Magar","Exceeds Expectations",2025-03-12
+PRF001624,EMP00622,4,NULL,Outstanding,2024-11-03
+PRF001625,EMP00369,2,"Dhruv Wagle","Meets Expectations",2025-10-10
+PRF001626,EMP00085,1,"Saumya Srinivas","Below Average",2025-04-01
+PRF001627,EMP00928,2,"Ranveer Sood",Outstanding,2024-03-06
+PRF001628,EMP00009,1,"Saumya Srinivas","Needs Improvement",2025-03-24
+PRF001629,EMP00216,1,"Omaja Kashyap","Below Average",2026-05-18
+PRF001630,EMP00488,4,"Vincent Loyal",Outstanding,2023-10-05
+PRF001631,EMP00782,1,"Veda Sahota","Below Average",2026-01-24
+PRF001632,EMP00815,1,"Udant Bala","Needs Improvement",2025-08-15
+PRF001633,EMP00844,3,"Theodore Sha","Needs Improvement",2024-11-28
+PRF001634,EMP01094,3,"Pavani Magar","Excellent Performer",2023-11-12
+PRF001635,EMP00395,3,NULL,"Needs Improvement",2024-03-21
+PRF001636,EMP00799,2,"Chavvi Devan","Meets Expectations",2025-06-19
+PRF001637,EMP00160,1,"Upma Pant","Below Average",2026-07-21
+PRF001638,EMP00062,2,"Dipta Bhatti","Exceeds Expectations",2023-08-12
+PRF001639,EMP00409,3,"Anthony Kanda",Outstanding,2026-03-29
+PRF001640,EMP00477,2,NULL,"Exceeds Expectations",2025-09-16
+PRF001641,EMP01037,1,"Charan Sen","Needs Improvement",2023-09-17
+PRF001642,EMP00871,2,"Charan Sen",Outstanding,2023-12-18
+PRF001643,EMP00789,2,"Indira Balakrishnan","Exceeds Expectations",2025-10-12
+PRF001644,EMP01218,3,"Nikita Dua","Excellent Performer",2024-07-04
+PRF001645,EMP00216,1,"Arjun Prasad","Excellent Performer",2025-04-16
+PRF001646,EMP01219,3,"Dhruv Wagle","Needs Improvement",2023-12-10
+PRF001647,EMP00992,2,"Dhruv Wagle","Excellent Performer",2026-02-14
+PRF001648,EMP00427,2,NULL,"Excellent Performer",2026-07-14
+PRF001649,EMP00691,1,"Theodore Sha","Below Average",2024-06-04
+PRF001650,EMP00238,3,NULL,"Needs Improvement",2026-02-18
+PRF001651,EMP00630,5,"Pavani Magar",Outstanding,2025-03-01
+PRF001652,EMP00214,2,"Shivani Varughese","Exceeds Expectations",2026-07-13
+PRF001653,EMP00732,3,"Gautam Sinha","Needs Improvement",2025-05-04
+PRF001654,EMP00322,1,"Chavvi Devan","Excellent Performer",2025-03-02
+PRF001655,EMP01018,2,"Udant Bala","Meets Expectations",2025-12-19
+PRF001656,EMP00618,4,"Niharika Nagi","Needs Improvement",2023-12-24
+PRF001657,EMP00914,4,"Saumya Srinivas","Excellent Performer",2023-12-30
+PRF001658,EMP00404,3,"Shivani Varughese","Needs Improvement",2024-11-04
+PRF001659,EMP00635,3,"Nikita Dua","Needs Improvement",2024-05-02
+PRF001660,EMP00118,1,"Ranveer Sood",Outstanding,2025-09-02
+PRF001661,EMP00528,2,"Kiaan Sani","Exceeds Expectations",2024-05-10
+PRF001662,EMP00343,2,"Kiaan Sani","Exceeds Expectations",2025-02-16
+PRF001663,EMP01130,2,"Theodore Sha","Exceeds Expectations",2026-06-10
+PRF001664,EMP00777,3,"Nikita Dua",Outstanding,2025-03-31
+PRF001665,EMP01157,5,"Indira Balakrishnan",Outstanding,2025-04-24
+PRF001666,EMP00098,3,"Shivani Varughese","Excellent Performer",2025-05-22
+PRF001667,EMP00478,2,"Indira Balakrishnan","Exceeds Expectations",2024-01-06
+PRF001668,EMP00185,3,"Upma Pant","Needs Improvement",2023-11-01
+PRF001669,EMP00239,1,"Udant Bala","Below Average",2023-09-07
+PRF001670,EMP01125,2,"Charles Bera","Exceeds Expectations",2025-01-11
+PRF001671,EMP00862,1,"Saumya Srinivas","Needs Improvement",2025-10-16
+PRF001672,EMP01022,5,"Saumya Srinivas","Needs Improvement",2026-06-03
+PRF001673,EMP00797,5,"Osha Sachdev","Excellent Performer",2024-06-06
+PRF001674,EMP00417,1,"Vasudha Borde","Below Average",2023-12-02
+PRF001675,EMP00494,2,"Theodore Sha","Exceeds Expectations",2025-10-14
+PRF001676,EMP00360,5,"Falguni Halder","Needs Improvement",2024-11-08
+PRF001677,EMP00611,2,"Charles Bera",Outstanding,2024-03-19
+PRF001678,EMP00004,2,"Upma Pant","Exceeds Expectations",2026-06-26
+PRF001679,EMP00409,1,"Shivani Varughese","Below Average",2025-05-29
+PRF001680,EMP00499,2,"Pavani Magar","Exceeds Expectations",2025-05-03
+PRF001681,EMP00824,4,"Dipta Bhatti","Excellent Performer",2024-09-20
+PRF001682,EMP01039,4,"Damini Mohanty","Needs Improvement",2025-01-26
+PRF001683,EMP00750,2,NULL,"Meets Expectations",2026-06-01
+PRF001684,EMP00701,1,"Anthony Kanda","Below Average",2025-12-24
+PRF001685,EMP01093,2,NULL,"Exceeds Expectations",2023-11-15
+PRF001686,EMP00345,2,"Xavier Gole","Meets Expectations",2024-07-13
+PRF001687,EMP01206,1,"Indira Balakrishnan","Needs Improvement",2024-06-10
+PRF001688,EMP00796,4,"Damini Mohanty","Excellent Performer",2026-02-16
+PRF001689,EMP01088,4,"Upma Pant","Needs Improvement",2025-12-18
+PRF001690,EMP00521,2,"Farhan Sharaf","Exceeds Expectations",2023-12-19
+PRF001691,EMP00439,2,"Tanay Shetty","Exceeds Expectations",2025-06-10
+PRF001692,EMP00434,2,"Jagvi Parmar","Meets Expectations",2024-03-13
+PRF001693,EMP00865,3,"Saumya Srinivas","Needs Improvement",2024-12-03
+PRF001694,EMP00962,1,"Dhriti Nagar","Below Average",2024-03-08
+PRF001695,EMP00418,1,"Chavvi Devan","Below Average",2023-11-08
+PRF001696,EMP00902,2,NULL,"Exceeds Expectations",2023-12-02
+PRF001697,EMP01228,3,"Vasudha Borde","Needs Improvement",2024-04-05
+PRF001698,EMP00098,3,"Vasudha Borde",Outstanding,2023-09-21
+PRF001699,EMP01068,5,"Vasudha Borde","Needs Improvement",2023-12-25
+PRF001700,EMP00840,2,"Charan Sen","Exceeds Expectations",2025-08-12
+PRF001701,EMP01073,2,"Charles Bera","Exceeds Expectations",2024-07-26
+PRF001702,EMP00669,2,"Jagvi Parmar","Exceeds Expectations",2023-11-14
+PRF001703,EMP00974,0,"Niharika Nagi","Needs Improvement",2025-07-21
+PRF001704,EMP00359,1,"Faqid Prabhu","Below Average",2025-02-04
+PRF001705,EMP00946,3,"Kavya Kadakia","Excellent Performer",2023-11-14
+PRF001706,EMP00486,1,"Vasudha Borde","Below Average",2024-10-01
+PRF001707,EMP00657,1,"Azaan Grewal","Excellent Performer",2025-05-11
+PRF001708,EMP00791,2,NULL,"Exceeds Expectations",2024-07-29
+PRF001709,EMP00066,4,"Azaan Grewal",Outstanding,2024-01-31
+PRF001710,EMP00255,2,"Avni Chatterjee","Meets Expectations",2024-06-03
+PRF001711,EMP01145,2,"Chanakya Dada","Exceeds Expectations",2023-10-26
+PRF001712,EMP00870,2,"Dhriti Nagar","Exceeds Expectations",2024-04-01
+PRF001713,EMP01031,4,"Harinakshi Varughese",Outstanding,2026-08-02
+PRF001714,EMP01147,2,"Gautam Sinha","Exceeds Expectations",2024-03-23
+PRF001715,EMP00589,5,"Vasudha Borde","Excellent Performer",2024-08-02
+PRF001716,EMP00665,5,"Harinakshi Varughese","Needs Improvement",2025-09-17
+PRF001717,EMP01179,2,"Ranveer Sood","Meets Expectations",2023-10-22
+PRF001718,EMP01114,5,"Dhriti Nagar",Outstanding,2024-04-11
+PRF001719,EMP00572,2,"Charles Bera","Meets Expectations",2024-08-19
+PRF001720,EMP00904,2,"Omaja Kashyap","Exceeds Expectations",2024-11-30
+PRF001721,EMP00818,2,"Chanakya Dada","Meets Expectations",2025-05-24
+PRF001722,EMP00363,1,"Upma Pant","Below Average",2025-09-05
+PRF001723,EMP00519,2,"Harinakshi Varughese","Meets Expectations",2025-11-25
+PRF001724,EMP00399,1,"Falguni Halder","Below Average",2026-05-06
+PRF001725,EMP00378,4,"Upma Pant","Excellent Performer",2023-12-12
+PRF001726,EMP00973,2,"Vasudha Borde","Meets Expectations",2024-05-08
+PRF001727,EMP00710,2,"Ekansh Samra","Excellent Performer",2025-12-23
+PRF001728,EMP00575,1,NULL,"Below Average",2025-03-03
+PRF001729,EMP01195,4,"Vasudha Borde",Outstanding,2025-06-29
+PRF001730,EMP00759,3,"Harinakshi Varughese","Needs Improvement",2024-04-29
+PRF001731,EMP00862,2,"Chavvi Devan","Exceeds Expectations",2026-07-20
+PRF001732,EMP00395,4,"Upma Pant","Needs Improvement",2026-05-15
+PRF001733,EMP01113,2,"Chavvi Devan","Meets Expectations",2023-08-23
+PRF001734,EMP00847,5,"Gautam Sinha","Excellent Performer",2024-03-04
+PRF001735,EMP01007,4,"Falguni Halder","Excellent Performer",2024-01-31
+PRF001736,EMP00385,3,"Udant Bala","Needs Improvement",2025-07-29
+PRF001737,EMP00186,3,"Charles Bera","Needs Improvement",2025-05-26
+PRF001738,EMP00012,2,"Ekansh Samra","Excellent Performer",2025-08-08
+PRF001739,EMP00089,2,NULL,"Exceeds Expectations",2023-10-29
+PRF001740,EMP00059,5,"Charles Bera","Excellent Performer",2023-08-27
+PRF001741,EMP00290,3,"Charan Sen","Needs Improvement",2025-02-18
+PRF001742,EMP01074,1,"Falguni Halder","Below Average",2026-04-13
+PRF001743,EMP01225,2,"Kiaan Sani","Meets Expectations",2025-09-10
+PRF001744,EMP00564,3,"Udant Bala","Needs Improvement",2024-03-20
+PRF001745,EMP00435,2,"Kiaan Sani","Exceeds Expectations",2025-02-10
+PRF001746,EMP00460,1,"Anthony Kanda","Needs Improvement",2026-07-31
+PRF001747,EMP00960,2,"Ojasvi Dasgupta","Meets Expectations",2024-06-18
+PRF001748,EMP00808,2,NULL,"Needs Improvement",2025-04-22
+PRF001749,EMP00096,2,"Jagvi Parmar","Exceeds Expectations",2023-12-01
+PRF001750,EMP00143,2,"Charan Sen","Exceeds Expectations",2024-08-09
+PRF001751,EMP01082,1,"Charan Sen","Below Average",2024-11-17
+PRF001752,EMP01009,3,"Ekansh Samra",Outstanding,2025-10-03
+PRF001753,EMP00524,2,"Shivani Varughese","Meets Expectations",2026-03-25
+PRF001754,EMP00529,5,"Vincent Loyal","Excellent Performer",2025-12-05
+PRF001755,EMP00526,5,"Osha Sachdev",Outstanding,2024-05-17
+PRF001756,EMP00189,2,"Damini Mohanty","Meets Expectations",2024-09-22
+PRF001757,EMP00812,4,"Chanakya Dada",Outstanding,2024-03-22
+PRF001758,EMP00883,2,"Veda Sahota","Exceeds Expectations",2025-08-07
+PRF001759,EMP01115,2,"Gautam Sinha","Exceeds Expectations",2024-10-03
+PRF001760,EMP00802,2,"Farhan Sharaf","Excellent Performer",2024-07-25
+PRF001761,EMP00438,2,"Ekansh Samra","Exceeds Expectations",2024-07-19
+PRF001762,EMP00270,5,"Kavya Kadakia","Excellent Performer",2024-07-01
+PRF001763,EMP00330,4,"Xavier Gole","Needs Improvement",2023-08-24
+PRF001764,EMP00160,2,"Vincent Loyal","Meets Expectations",2026-04-30
+PRF001765,EMP00623,4,"Upma Pant","Needs Improvement",2025-11-08
+PRF001766,EMP00692,3,"Vincent Loyal","Needs Improvement",2025-01-15
+PRF001767,EMP00317,2,"Ranveer Sood","Exceeds Expectations",2024-03-03
+PRF001768,EMP00689,5,"Gautam Sinha","Excellent Performer",2023-09-22
+PRF001769,EMP01016,3,"Indira Balakrishnan","Needs Improvement",2023-11-14
+PRF001770,EMP00875,2,"Nikita Dua","Meets Expectations",2024-11-30
+PRF001771,EMP00400,4,"Vasudha Borde","Excellent Performer",2026-04-05
+PRF001772,EMP00566,3,"Gautam Sinha",Outstanding,2024-06-11
+PRF001773,EMP00451,1,"Vasudha Borde","Below Average",2025-02-27
+PRF001774,EMP00568,1,"Niharika Nagi","Excellent Performer",2024-02-08
+PRF001775,EMP00995,3,"Farhan Sharaf",Outstanding,2026-03-13
+PRF001776,EMP01103,2,"Xavier Gole","Exceeds Expectations",2023-12-17
+PRF001777,EMP00791,5,"Damini Mohanty",Outstanding,2023-11-09
+PRF001778,EMP00506,4,"Saumya Srinivas",Outstanding,2023-10-14
+PRF001779,EMP01202,2,"Faqid Prabhu","Excellent Performer",2025-08-29
+PRF001780,EMP00233,1,"Indira Balakrishnan","Below Average",2024-06-28
+PRF001781,EMP00602,5,"Osha Sachdev",Outstanding,2024-07-02
+PRF001782,EMP00256,2,"Tanay Shetty","Meets Expectations",2025-06-02
+PRF001783,EMP01027,2,"Ekansh Samra","Excellent Performer",2026-07-31
+PRF001784,EMP00674,3,"Charan Sen","Needs Improvement",2023-12-03
+PRF001785,EMP00899,3,"Chavvi Devan","Needs Improvement",2024-05-17
+PRF001786,EMP01210,1,"Vasudha Borde","Needs Improvement",2023-12-14
+PRF001787,EMP00940,1,"Avni Chatterjee","Below Average",2025-02-12
+PRF001788,EMP00276,2,"Niharika Nagi","Meets Expectations",2024-10-27
+PRF001789,EMP01205,5,"Kavya Kadakia","Needs Improvement",2025-01-25
+PRF001790,EMP00443,2,"Dhriti Nagar","Meets Expectations",2024-01-16
+PRF001791,EMP00746,2,"Theodore Sha","Exceeds Expectations",2024-09-13
+PRF001792,EMP00902,5,"Damini Mohanty",Outstanding,2023-10-02
+PRF001793,EMP01107,1,"Vincent Loyal","Below Average",2025-06-29
+PRF001794,EMP00542,1,"Xavier Gole","Below Average",2023-11-04
+PRF001795,EMP00572,5,"Damini Mohanty",Outstanding,2026-05-16
+PRF001796,EMP00330,4,"Indira Balakrishnan",Outstanding,2024-11-14
+PRF001797,EMP01021,2,"Theodore Sha","Exceeds Expectations",2025-07-17
+PRF001798,EMP00276,4,"Xavier Gole",Outstanding,2024-02-10
+PRF001799,EMP00310,2,"Chanakya Dada","Exceeds Expectations",2025-12-15
+PRF001800,EMP00056,1,"Udant Bala","Below Average",2025-06-04
+PRF001801,EMP00604,3,"Chavvi Devan",Outstanding,2025-09-19
+PRF001802,EMP00870,2,"Anthony Kanda","Exceeds Expectations",2025-07-21
+PRF001803,EMP00599,2,NULL,"Meets Expectations",2026-01-20
+PRF001804,EMP00108,2,"Tanay Shetty","Exceeds Expectations",2024-05-16
+PRF001805,EMP00515,2,NULL,"Needs Improvement",2024-06-29
+PRF001806,EMP00833,4,"Kavya Kadakia",Outstanding,2025-11-06
+PRF001807,EMP01229,1,"Avni Chatterjee","Below Average",2024-07-05
+PRF001808,EMP00668,4,"Chavvi Devan",Outstanding,2024-02-21
+PRF001809,EMP00159,2,"Udant Bala","Exceeds Expectations",2025-06-17
+PRF001810,EMP00080,2,"Tanay Shetty","Meets Expectations",2025-12-25
+PRF001811,EMP01143,1,"Niharika Nagi",Outstanding,2025-02-09
+PRF001812,EMP00443,2,"Kiaan Sani","Excellent Performer",2025-04-30
+PRF001813,EMP00550,2,"Anthony Kanda","Exceeds Expectations",2023-09-21
+PRF001814,EMP00119,1,"Chanakya Dada","Excellent Performer",2026-07-21
+PRF001815,EMP00308,2,"Falguni Halder",Outstanding,2023-11-23
+PRF001816,EMP00683,2,"Arjun Prasad","Exceeds Expectations",2023-12-25
+PRF001817,EMP00093,1,"Charles Bera",Outstanding,2024-11-14
+PRF001818,EMP00996,1,"Arjun Prasad",Outstanding,2024-09-02
+PRF001819,EMP00350,4,"Damini Mohanty","Needs Improvement",2025-08-11
+PRF001820,EMP00795,3,"Faqid Prabhu","Needs Improvement",2024-07-09
+PRF001821,EMP01025,2,"Xavier Gole","Meets Expectations",2026-01-10
+PRF001822,EMP01220,3,"Saumya Srinivas","Needs Improvement",2025-10-08
+PRF001823,EMP00305,1,"Falguni Halder","Below Average",2023-12-16
+PRF001824,EMP00221,2,"Niharika Nagi","Meets Expectations",2025-03-31
+PRF001825,EMP00232,3,"Ekansh Samra","Needs Improvement",2026-05-31
+PRF001826,EMP00477,1,"Omaja Kashyap","Below Average",2025-03-13
+PRF001827,EMP00944,1,"Vincent Loyal",Outstanding,2023-07-09
+PRF001828,EMP00905,4,"Charan Sen","Excellent Performer",2024-03-04
+PRF001829,EMP01201,3,"Dhruv Wagle","Needs Improvement",2026-07-23
+PRF001830,EMP00310,5,"Damini Mohanty","Needs Improvement",2025-03-30
+PRF001831,EMP00524,5,"Osha Sachdev","Needs Improvement",2024-03-28
+PRF001832,EMP00132,2,"Chavvi Devan","Meets Expectations",2023-09-24
+PRF001833,EMP00282,2,"Kiaan Sani","Meets Expectations",2024-06-02
+PRF001834,EMP00141,3,"Avni Chatterjee","Needs Improvement",2025-07-29
+PRF001835,EMP00996,2,"Indira Balakrishnan","Exceeds Expectations",2025-09-07
+PRF001836,EMP00689,1,"Falguni Halder","Below Average",2024-12-07
+PRF001837,EMP00248,1,"Nikita Dua","Below Average",2025-03-13
+PRF001838,EMP00497,1,"Ojasvi Dasgupta","Below Average",2023-10-24
+PRF001839,EMP00569,1,"Farhan Sharaf","Below Average",2024-06-28
+PRF001840,EMP00368,1,"Udant Bala","Below Average",2024-01-27
+PRF001841,EMP00625,5,NULL,"Excellent Performer",2025-11-07
+PRF001842,EMP00960,2,"Avni Chatterjee","Meets Expectations",2026-02-27
+PRF001843,EMP00056,2,"Vincent Loyal","Meets Expectations",2025-03-04
+PRF001844,EMP00092,3,"Damini Mohanty","Needs Improvement",2026-05-21
+PRF001845,EMP00485,1,"Kiaan Sani","Needs Improvement",2023-08-29
+PRF001846,EMP00528,3,"Dhruv Wagle","Excellent Performer",2024-12-06
+PRF001847,EMP00973,5,"Upma Pant",Outstanding,2024-06-29
+PRF001848,EMP00149,3,"Nikita Dua","Excellent Performer",2025-12-31
+PRF001849,EMP00351,5,"Faqid Prabhu","Needs Improvement",2024-01-08
+PRF001850,EMP00120,2,"Gautam Sinha","Meets Expectations",2023-10-25
+PRF001851,EMP00477,2,"Charan Sen","Meets Expectations",2026-07-24
+PRF001852,EMP00656,5,"Osha Sachdev","Needs Improvement",2024-01-02
+PRF001853,EMP00855,1,"Nikita Dua","Below Average",2026-01-30
+PRF001854,EMP00782,2,NULL,"Exceeds Expectations",2024-04-30
+PRF001855,EMP00784,4,"Gautam Sinha",Outstanding,2025-03-08
+PRF001856,EMP00757,1,"Omaja Kashyap","Below Average",2026-05-14
+PRF001857,EMP00199,4,"Tanay Shetty","Excellent Performer",2026-04-03
+PRF001858,EMP00798,2,"Chanakya Dada",Outstanding,2025-09-09
+PRF001859,EMP00306,4,"Veda Sahota","Excellent Performer",2026-06-30
+PRF001860,EMP01150,1,"Niharika Nagi","Below Average",2025-07-04
+PRF001861,EMP01126,2,"Ekansh Samra","Meets Expectations",2024-06-15
+PRF001862,EMP00325,2,"Jagvi Parmar","Needs Improvement",2024-02-13
+PRF001863,EMP01222,1,"Avni Chatterjee","Below Average",2026-05-23
+PRF001864,EMP00746,3,"Vincent Loyal","Excellent Performer",2025-10-12
+PRF001865,EMP00691,1,"Indira Balakrishnan","Below Average",2026-04-24
+PRF001866,EMP00152,3,"Upma Pant","Needs Improvement",2024-06-25
+PRF001867,EMP00612,2,"Anthony Kanda","Meets Expectations",2026-03-20
+PRF001868,EMP00543,2,"Faqid Prabhu","Exceeds Expectations",2023-08-17
+PRF001869,EMP00467,1,"Vincent Loyal","Below Average",2023-09-09
+PRF001870,EMP01087,2,"Neelima Bhasin","Needs Improvement",2024-09-14
+PRF001871,EMP01070,3,"Gautam Sinha",Outstanding,2024-03-19
+PRF001872,EMP01046,2,"Ojasvi Dasgupta","Excellent Performer",2023-12-09
+PRF001873,EMP00382,5,"Xavier Gole","Excellent Performer",2026-01-24
+PRF001874,EMP00005,1,"Upma Pant","Below Average",2024-01-25
+PRF001875,EMP00684,3,"Theodore Sha","Needs Improvement",2024-06-22
+PRF001876,EMP01096,3,"Kavya Kadakia","Needs Improvement",2024-08-05
+PRF001877,EMP00425,5,"Jagvi Parmar","Excellent Performer",2024-11-04
+PRF001878,EMP00952,3,"Farhan Sharaf","Needs Improvement",2023-09-23
+PRF001879,EMP00218,2,"Falguni Halder","Meets Expectations",2025-10-16
+PRF001880,EMP00357,1,"Shivani Varughese","Below Average",2024-07-28
+PRF001881,EMP01165,4,"Xavier Gole","Excellent Performer",2026-03-23
+PRF001882,EMP00538,3,"Upma Pant",Outstanding,2024-09-09
+PRF001883,EMP00967,5,"Ekansh Samra","Excellent Performer",2023-10-31
+PRF001884,EMP00223,3,"Kiaan Sani","Excellent Performer",2026-07-28
+PRF001885,EMP00361,2,"Neelima Bhasin","Exceeds Expectations",2026-07-16
+PRF001886,EMP00201,2,"Jagvi Parmar","Exceeds Expectations",2025-07-02
+PRF001887,EMP00061,3,"Charan Sen","Needs Improvement",2025-12-13
+PRF001888,EMP00168,4,"Damini Mohanty","Excellent Performer",2024-10-18
+PRF001889,EMP00282,1,"Osha Sachdev","Needs Improvement",2023-10-17
+PRF001890,EMP01217,2,"Dhruv Wagle","Exceeds Expectations",2023-11-30
+PRF001891,EMP01073,3,"Azaan Grewal","Needs Improvement",2026-03-03
+PRF001892,EMP00582,1,"Arjun Prasad","Below Average",2025-01-11
+PRF001893,EMP00232,5,"Chavvi Devan","Excellent Performer",2024-10-08
+PRF001894,EMP00793,5,"Ojasvi Dasgupta","Needs Improvement",2025-07-25
+PRF001895,EMP00026,2,"Dipta Bhatti","Needs Improvement",2026-07-01
+PRF001896,EMP00788,3,"Anthony Kanda",Outstanding,2024-09-25
+PRF001897,EMP01141,2,"Niharika Nagi","Exceeds Expectations",2025-09-08
+PRF001898,EMP00045,1,"Niharika Nagi",Outstanding,2023-12-08
+PRF001899,EMP00035,3,"Dhriti Nagar","Needs Improvement",2025-09-25
+PRF001900,EMP01076,2,"Kiaan Sani","Excellent Performer",2025-04-23
+PRF001901,EMP00957,2,"Dhruv Wagle",Outstanding,2025-12-23
+PRF001902,EMP00819,3,"Ojasvi Dasgupta",Outstanding,2025-08-15
+PRF001903,EMP00766,2,"Damini Mohanty","Exceeds Expectations",2024-07-30
+PRF001904,EMP00158,1,"Veda Sahota","Below Average",2026-06-12
+PRF001905,EMP00044,1,"Azaan Grewal","Below Average",2024-08-11
+PRF001906,EMP00958,4,"Tanay Shetty",Outstanding,2024-01-23
+PRF001907,EMP00538,5,"Ekansh Samra",Outstanding,2024-11-15
+PRF001908,EMP01202,2,"Kavya Kadakia","Meets Expectations",2023-08-06
+PRF001909,EMP00572,3,"Damini Mohanty","Excellent Performer",2026-06-14
+PRF001910,EMP01002,2,"Omaja Kashyap",Outstanding,2025-05-16
+PRF001911,EMP00884,2,"Upma Pant","Meets Expectations",2025-10-10
+PRF001912,EMP00650,1,"Ranveer Sood","Below Average",2026-02-09
+PRF001913,EMP00933,3,NULL,"Excellent Performer",2026-07-13
+PRF001914,EMP00857,2,"Vincent Loyal","Excellent Performer",2023-09-17
+PRF001915,EMP00932,5,"Jagvi Parmar","Needs Improvement",2026-04-05
+PRF001916,EMP01097,3,"Chanakya Dada","Excellent Performer",2024-03-14
+PRF001917,EMP00845,2,"Charles Bera",Outstanding,2023-12-04
+PRF001918,EMP00824,1,"Dipta Bhatti","Below Average",2026-04-19
+PRF001919,EMP00805,2,"Damini Mohanty","Meets Expectations",2023-11-30
+PRF001920,EMP00488,2,"Tanay Shetty","Meets Expectations",2026-05-17
+PRF001921,EMP00761,5,"Jagvi Parmar","Excellent Performer",2024-05-19
+PRF001922,EMP00671,2,"Pavani Magar","Meets Expectations",2025-07-11
+PRF001923,EMP00622,2,"Theodore Sha","Meets Expectations",2023-09-22
+PRF001924,EMP01206,2,"Dipta Bhatti","Meets Expectations",2024-02-06
+PRF001925,EMP00122,1,"Jagvi Parmar","Below Average",2024-05-04
+PRF001926,EMP00581,3,NULL,"Needs Improvement",2025-03-27
+PRF001927,EMP01053,1,"Charan Sen","Excellent Performer",2025-05-31
+PRF001928,EMP00862,2,"Dhriti Nagar","Meets Expectations",2026-07-19
+PRF001929,EMP00504,1,"Shivani Varughese","Excellent Performer",2026-03-29
+PRF001930,EMP00033,2,"Avni Chatterjee","Exceeds Expectations",2025-08-22
+PRF001931,EMP00686,1,"Nikita Dua","Below Average",2025-02-01
+PRF001932,EMP01208,3,"Dipta Bhatti",Outstanding,2024-01-10
+PRF001933,EMP00062,4,NULL,"Needs Improvement",2023-12-05
+PRF001934,EMP00896,4,"Veda Sahota",Outstanding,2025-10-20
+PRF001935,EMP00682,2,"Charan Sen","Exceeds Expectations",2023-12-18
+PRF001936,EMP00077,2,"Jagvi Parmar","Meets Expectations",2026-06-02
+PRF001937,EMP00237,4,"Vincent Loyal","Excellent Performer",2025-02-26
+PRF001938,EMP01005,1,"Vasudha Borde","Needs Improvement",2025-12-27
+PRF001939,EMP01164,1,"Udant Bala","Below Average",2026-07-12
+PRF001940,EMP00316,1,"Nikita Dua","Below Average",2024-10-13
+PRF001941,EMP00307,4,"Xavier Gole","Excellent Performer",2024-03-30
+PRF001942,EMP00940,2,"Charan Sen","Excellent Performer",2024-04-15
+PRF001943,EMP00365,1,"Theodore Sha",Outstanding,2024-04-28
+PRF001944,EMP00225,3,"Anthony Kanda","Excellent Performer",2025-01-19
+PRF001945,EMP01172,2,"Nikita Dua","Exceeds Expectations",2024-04-14
+PRF001946,EMP01150,1,"Udant Bala","Below Average",2026-05-23
+PRF001947,EMP00960,1,"Upma Pant","Below Average",2026-06-30
+PRF001948,EMP00328,2,"Tanay Shetty","Meets Expectations",2024-08-28
+PRF001949,EMP00180,5,"Dipta Bhatti","Needs Improvement",2026-06-13
+PRF001950,EMP00869,1,"Upma Pant","Needs Improvement",2024-05-20
+PRF001951,EMP00446,5,"Vincent Loyal","Needs Improvement",2026-05-14
+PRF001952,EMP00101,2,"Jagvi Parmar","Meets Expectations",2026-02-03
+PRF001953,EMP00658,2,"Ranveer Sood","Meets Expectations",2024-04-12
+PRF001954,EMP00048,1,NULL,"Below Average",2025-01-07
+PRF001955,EMP01108,2,NULL,"Meets Expectations",2026-04-13
+PRF001956,EMP00435,2,"Harinakshi Varughese","Exceeds Expectations",2025-12-11
+PRF001957,EMP01068,2,"Indira Balakrishnan","Exceeds Expectations",2025-02-18
+PRF001958,EMP00409,1,"Saumya Srinivas","Below Average",2026-02-01
+PRF001959,EMP00834,1,"Osha Sachdev","Needs Improvement",2024-05-03
+PRF001960,EMP00824,2,"Faqid Prabhu","Meets Expectations",2026-07-19
+PRF001961,EMP00625,5,"Saumya Srinivas",Outstanding,2025-11-26
+PRF001962,EMP00142,3,"Arjun Prasad","Needs Improvement",2024-02-13
+PRF001963,EMP00680,1,"Avni Chatterjee","Needs Improvement",2024-11-23
+PRF001964,EMP00503,2,"Harinakshi Varughese","Meets Expectations",2025-08-04
+PRF001965,EMP00637,1,"Arjun Prasad","Needs Improvement",2024-09-11
+PRF001966,EMP00766,5,"Dipta Bhatti",Outstanding,2025-03-27
+PRF001967,EMP00872,3,"Avni Chatterjee","Needs Improvement",2026-07-15
+PRF001968,EMP00599,1,"Jagvi Parmar","Excellent Performer",2024-08-03
+PRF001969,EMP00167,5,"Shivani Varughese",Outstanding,2025-04-10
+PRF001970,EMP00953,4,"Farhan Sharaf","Needs Improvement",2024-04-29
+PRF001971,EMP01159,4,"Harinakshi Varughese","Needs Improvement",2025-08-28
+PRF001972,EMP00178,4,"Arjun Prasad","Needs Improvement",2024-08-03
+PRF001973,EMP00750,2,"Niharika Nagi","Meets Expectations",2025-08-06
+PRF001974,EMP01173,1,"Vincent Loyal",Outstanding,2024-08-23
+PRF001975,EMP00548,4,"Arjun Prasad","Excellent Performer",2025-10-03
+PRF001976,EMP00146,2,"Dhruv Wagle","Excellent Performer",2024-01-27
+PRF001977,EMP00802,2,"Niharika Nagi","Excellent Performer",2023-12-11
+PRF001978,EMP01045,4,"Indira Balakrishnan",Outstanding,2026-01-07
+PRF001979,EMP00800,3,"Indira Balakrishnan","Needs Improvement",2026-07-20
+PRF001980,EMP01206,2,"Omaja Kashyap","Meets Expectations",2025-03-04
+PRF001981,EMP00734,5,"Theodore Sha",Outstanding,2023-11-07
+PRF001982,EMP00684,2,"Charles Bera","Meets Expectations",2025-10-13
+PRF001983,EMP00583,5,"Dhruv Wagle","Needs Improvement",2023-09-13
+PRF001984,EMP00135,1,"Dhriti Nagar","Needs Improvement",2024-06-24
+PRF001985,EMP01213,3,"Pavani Magar",Outstanding,2026-02-13
+PRF001986,EMP00855,2,"Dhruv Wagle","Exceeds Expectations",2025-01-25
+PRF001987,EMP00392,1,"Nikita Dua","Below Average",2023-09-24
+PRF001988,EMP00461,5,"Tanay Shetty","Needs Improvement",2024-01-11
+PRF001989,EMP00294,5,"Ojasvi Dasgupta","Excellent Performer",2026-06-30
+PRF001990,EMP00728,2,"Xavier Gole","Meets Expectations",2024-09-30
+PRF001991,EMP01003,3,"Veda Sahota","Needs Improvement",2024-08-29
+PRF001992,EMP00262,5,"Vincent Loyal","Needs Improvement",2025-08-26
+PRF001993,EMP00306,2,"Vincent Loyal","Exceeds Expectations",2025-11-09
+PRF001994,EMP01172,1,NULL,Outstanding,2025-08-10
+PRF001995,EMP00048,2,"Pavani Magar","Meets Expectations",2026-07-25
+PRF001996,EMP00646,2,"Pavani Magar","Exceeds Expectations",2024-07-12
+PRF001997,EMP01075,5,"Tanay Shetty",Outstanding,2024-08-27
+PRF001998,EMP00927,2,"Azaan Grewal","Meets Expectations",2025-04-03
+PRF001999,EMP00367,4,"Charles Bera",Outstanding,2026-02-04
+PRF002000,EMP00338,3,"Charles Bera","Needs Improvement",2025-12-15
+PRF002001,EMP00876,1,"Shivani Varughese","Below Average",2025-03-05
+PRF002002,EMP00071,2,"Charan Sen","Meets Expectations",2025-07-24
+PRF002003,EMP00820,3,"Udant Bala",Outstanding,2025-10-06
+PRF002004,EMP00174,2,"Udant Bala","Meets Expectations",2024-08-17
+PRF002005,EMP01040,3,"Chanakya Dada","Excellent Performer",2023-09-17
+PRF002006,EMP00749,2,"Avni Chatterjee","Exceeds Expectations",2026-05-22
+PRF002007,EMP01189,2,"Upma Pant","Meets Expectations",2025-09-15
+PRF002008,EMP01178,2,NULL,"Meets Expectations",2026-04-23
+PRF002009,EMP01143,1,NULL,"Below Average",2025-07-02
+PRF002010,EMP01220,1,"Dipta Bhatti","Needs Improvement",2023-09-19
+PRF002011,EMP00886,3,"Indira Balakrishnan","Excellent Performer",2024-08-08
+PRF002012,EMP01038,2,"Omaja Kashyap","Meets Expectations",2026-06-23
+PRF002013,EMP00402,2,"Dipta Bhatti","Meets Expectations",2025-03-04
+PRF002014,EMP00522,1,"Dhruv Wagle","Below Average",2025-11-14
+PRF002015,EMP00835,1,"Omaja Kashyap","Below Average",2025-02-16
+PRF002016,EMP00240,2,"Neelima Bhasin","Exceeds Expectations",2024-09-14
+PRF002017,EMP00814,2,"Dhruv Wagle","Exceeds Expectations",2026-02-20
+PRF002018,EMP00876,2,"Dhruv Wagle","Exceeds Expectations",2025-01-29
+PRF002019,EMP01213,5,"Shivani Varughese","Excellent Performer",2023-09-21
+PRF002020,EMP01126,1,"Kavya Kadakia","Below Average",2025-05-14
+PRF002021,EMP00957,3,"Charles Bera","Excellent Performer",2023-10-25
+PRF002022,EMP01225,2,"Arjun Prasad",Outstanding,2024-08-24
+PRF002023,EMP00392,2,"Jagvi Parmar","Exceeds Expectations",2025-08-27
+PRF002024,EMP00622,2,"Upma Pant","Meets Expectations",2025-07-24
+PRF002025,EMP00311,5,"Dipta Bhatti",Outstanding,2026-11-01
+PRF002026,EMP00222,4,"Vincent Loyal",Outstanding,2024-01-18
+PRF002027,EMP01032,2,"Veda Sahota","Exceeds Expectations",2026-07-30
+PRF002028,EMP00479,3,"Omaja Kashyap",Outstanding,2024-12-03
+PRF002029,EMP00353,4,"Tanay Shetty","Needs Improvement",2026-06-01
+PRF002030,EMP00934,2,"Jagvi Parmar","Exceeds Expectations",2023-11-03
+PRF002031,EMP00680,1,"Dipta Bhatti","Below Average",2025-12-28
+PRF002032,EMP00072,2,"Saumya Srinivas","Meets Expectations",2025-02-19
+PRF002033,EMP01019,3,"Neelima Bhasin","Excellent Performer",2025-11-14
+PRF002034,EMP00749,1,"Ekansh Samra","Excellent Performer",2026-06-16
+PRF002035,EMP00698,4,"Tanay Shetty",Outstanding,2025-08-03
+PRF002036,EMP01087,5,"Vasudha Borde","Excellent Performer",2024-10-09
+PRF002037,EMP01212,1,"Ekansh Samra",Outstanding,2025-05-18
+PRF002038,EMP00383,2,"Nikita Dua","Exceeds Expectations",2024-07-25
+PRF002039,EMP00965,2,"Niharika Nagi",Outstanding,2025-03-15
+PRF002040,EMP00690,2,"Gautam Sinha","Excellent Performer",2024-07-03
+PRF002041,EMP00288,3,"Osha Sachdev",Outstanding,2025-11-12
+PRF002042,EMP00832,5,"Saumya Srinivas","Excellent Performer",2024-01-27
+PRF002043,EMP00696,4,NULL,"Needs Improvement",2025-01-10
+PRF002044,EMP01212,2,NULL,"Exceeds Expectations",2025-12-10
+PRF002045,EMP00735,0,"Farhan Sharaf","Needs Improvement",2024-06-16
+PRF002046,EMP01125,3,"Ranveer Sood","Excellent Performer",2025-08-24
+PRF002047,EMP00774,1,"Charles Bera","Below Average",2026-03-25
+PRF002048,EMP00260,1,"Falguni Halder","Below Average",2024-02-09
+PRF002049,EMP00573,3,"Harinakshi Varughese","Excellent Performer",2025-08-15
+PRF002050,EMP00409,4,"Jagvi Parmar","Excellent Performer",2023-12-02
+PRF002051,EMP01207,1,"Gautam Sinha",Outstanding,2025-02-06
+PRF002052,EMP00236,2,"Indira Balakrishnan","Exceeds Expectations",2024-07-04
+PRF002053,EMP00407,1,"Kavya Kadakia","Below Average",2024-09-25
+PRF002054,EMP01177,3,"Dhruv Wagle","Needs Improvement",2024-03-29
+PRF002055,EMP01130,5,"Faqid Prabhu","Needs Improvement",2024-02-15
+PRF002056,EMP00255,2,"Ranveer Sood","Meets Expectations",2023-11-13
+PRF002057,EMP00605,4,"Vincent Loyal","Excellent Performer",2025-01-17
+PRF002058,EMP00490,2,"Ekansh Samra","Meets Expectations",2025-09-15
+PRF002059,EMP00013,1,"Chavvi Devan",Outstanding,2024-11-29
+PRF002060,EMP00099,3,"Veda Sahota","Needs Improvement",2025-01-19
+PRF002061,EMP01109,1,NULL,"Below Average",2025-06-15
+PRF002062,EMP00232,2,"Shivani Varughese","Meets Expectations",2024-03-13
+PRF002063,EMP01139,1,"Tanay Shetty","Below Average",2025-10-02
+PRF002064,EMP00210,2,"Azaan Grewal","Meets Expectations",2025-10-26
+PRF002065,EMP01086,1,NULL,"Below Average",2026-07-14
+PRF002066,EMP01020,1,"Dhriti Nagar","Below Average",2025-07-22
+PRF002067,EMP01175,5,"Faqid Prabhu","Excellent Performer",2024-08-18
+PRF002068,EMP00370,5,"Ranveer Sood","Needs Improvement",2023-09-10
+PRF002069,EMP00550,1,"Pavani Magar",Outstanding,2026-03-23
+PRF002070,EMP00588,3,"Udant Bala","Needs Improvement",2024-08-06
+PRF002071,EMP00249,5,"Avni Chatterjee",Outstanding,2024-11-14
+PRF002072,EMP00348,1,"Indira Balakrishnan",Outstanding,2024-05-18
+PRF002073,EMP01008,3,"Azaan Grewal","Needs Improvement",2026-05-05
+PRF002074,EMP00121,2,"Jagvi Parmar","Exceeds Expectations",2025-04-23
+PRF002075,EMP00264,5,"Avni Chatterjee","Excellent Performer",2023-08-08
+PRF002076,EMP00368,2,"Pavani Magar","Meets Expectations",2023-08-23
+PRF002077,EMP00917,1,"Vincent Loyal","Below Average",2025-01-10
+PRF002078,EMP01153,2,"Saumya Srinivas","Meets Expectations",2025-01-15
+PRF002079,EMP00511,2,"Arjun Prasad",Outstanding,2025-08-11
+PRF002080,EMP00668,3,"Ekansh Samra","Excellent Performer",2024-02-18
+PRF002081,EMP01105,3,"Veda Sahota","Needs Improvement",2025-07-05
+PRF002082,EMP00878,2,"Azaan Grewal","Meets Expectations",2026-02-01
+PRF002083,EMP00723,2,"Osha Sachdev","Exceeds Expectations",2024-09-05
+PRF002084,EMP00013,1,"Saumya Srinivas","Below Average",2025-12-24
+PRF002085,EMP00405,2,"Omaja Kashyap","Meets Expectations",2025-11-11
+PRF002086,EMP00468,4,"Charles Bera",Outstanding,2026-05-10
+PRF002087,EMP01035,5,"Upma Pant","Excellent Performer",2026-04-03
+PRF002088,EMP00498,2,"Vasudha Borde","Exceeds Expectations",2025-07-28
+PRF002089,EMP00429,5,"Falguni Halder",Outstanding,2025-07-12
+PRF002090,EMP01208,3,"Jagvi Parmar","Needs Improvement",2024-03-05
+PRF002091,EMP00393,2,"Kavya Kadakia","Exceeds Expectations",2026-05-07
+PRF002092,EMP01073,4,"Neelima Bhasin","Needs Improvement",2025-09-09
+PRF002093,EMP00935,2,"Pavani Magar",Outstanding,2025-06-04
+PRF002094,EMP00403,1,"Chavvi Devan","Below Average",2025-02-01
+PRF002095,EMP00044,2,"Ekansh Samra","Meets Expectations",2025-07-28
+PRF002096,EMP00371,3,"Veda Sahota","Needs Improvement",2023-08-27
+PRF002097,EMP00784,5,"Charles Bera",Outstanding,2024-03-02
+PRF002098,EMP00607,1,"Shivani Varughese","Below Average",2024-05-01
+PRF002099,EMP00499,3,NULL,"Needs Improvement",2025-11-12
+PRF002100,EMP00492,4,"Ekansh Samra","Excellent Performer",2026-04-15
+PRF002101,EMP00825,2,"Omaja Kashyap","Meets Expectations",2025-06-16
+PRF002102,EMP01219,3,"Vincent Loyal","Needs Improvement",2024-02-22
+PRF002103,EMP00764,2,"Kiaan Sani","Exceeds Expectations",2023-10-05
+PRF002104,EMP00032,1,"Harinakshi Varughese","Needs Improvement",2025-08-07
+PRF002105,EMP00471,2,"Ojasvi Dasgupta","Needs Improvement",2023-10-16
+PRF002106,EMP00715,2,"Udant Bala","Meets Expectations",2025-05-12
+PRF002107,EMP00715,1,"Anthony Kanda","Below Average",2025-03-07
+PRF002108,EMP01051,4,"Chanakya Dada","Needs Improvement",2025-02-24
+PRF002109,EMP00863,2,"Shivani Varughese","Meets Expectations",2025-07-18
+PRF002110,EMP01090,2,"Gautam Sinha","Needs Improvement",2025-02-01
+PRF002111,EMP00081,4,"Anthony Kanda",Outstanding,2024-12-25
+PRF002112,EMP00271,5,"Xavier Gole",Outstanding,2024-05-20
+PRF002113,EMP00056,2,"Tanay Shetty","Meets Expectations",2025-01-28
+PRF002114,EMP00591,2,"Ranveer Sood","Meets Expectations",2025-10-19
+PRF002115,EMP00840,1,"Gautam Sinha","Below Average",2024-09-16
+PRF002116,EMP01119,5,"Veda Sahota",Outstanding,2026-05-12
+PRF002117,EMP00449,1,NULL,Outstanding,2024-03-10
+PRF002118,EMP00097,1,NULL,"Needs Improvement",2023-08-14
+PRF002119,EMP00806,1,"Anthony Kanda","Needs Improvement",2023-10-12
+PRF002120,EMP00125,2,"Anthony Kanda","Exceeds Expectations",2024-04-09
+PRF002121,EMP00432,1,"Charan Sen","Needs Improvement",2025-10-20
+PRF002122,EMP00165,4,"Neelima Bhasin","Excellent Performer",2026-01-12
+PRF002123,EMP00108,1,"Kiaan Sani","Below Average",2023-11-17
+PRF002124,EMP00472,5,"Niharika Nagi","Needs Improvement",2025-06-13
+PRF002125,EMP00356,1,"Chanakya Dada",Outstanding,2023-09-22
+PRF002126,EMP00342,3,"Charles Bera","Needs Improvement",2026-02-28
+PRF002127,EMP00810,1,NULL,"Below Average",2025-09-13
+PRF002128,EMP01142,1,"Neelima Bhasin","Below Average",2025-02-28
+PRF002129,EMP00033,4,"Ekansh Samra","Needs Improvement",2024-12-09
+PRF002130,EMP00374,1,"Dhriti Nagar","Below Average",2026-04-04
+PRF002131,EMP00062,4,"Shivani Varughese",Outstanding,2025-11-27
+PRF002132,EMP00499,4,"Vasudha Borde","Excellent Performer",2025-07-07
+PRF002133,EMP00192,2,"Ojasvi Dasgupta","Needs Improvement",2025-07-09
+PRF002134,EMP00979,5,"Chanakya Dada","Excellent Performer",2025-09-07
+PRF002135,EMP00380,2,"Kavya Kadakia","Needs Improvement",2025-06-24
+PRF002136,EMP00893,2,"Kavya Kadakia",Outstanding,2026-04-08
+PRF002137,EMP00659,2,"Theodore Sha","Exceeds Expectations",2025-08-02
+PRF002138,EMP00129,2,"Tanay Shetty","Meets Expectations",2025-04-17
+PRF002139,EMP00091,2,"Tanay Shetty","Exceeds Expectations",2025-09-08
+PRF002140,EMP00816,3,"Charles Bera","Needs Improvement",2025-09-23
+PRF002141,EMP00079,1,"Tanay Shetty","Excellent Performer",2024-06-18
+PRF002142,EMP00900,5,"Upma Pant",Outstanding,2023-11-15
+PRF002143,EMP00944,2,"Gautam Sinha","Needs Improvement",2026-05-07
+PRF002144,EMP01222,4,"Upma Pant",Outstanding,2024-01-03
+PRF002145,EMP00464,3,"Charan Sen","Needs Improvement",2024-02-11
+PRF002146,EMP00716,2,"Indira Balakrishnan","Exceeds Expectations",2023-12-18
+PRF002147,EMP00356,5,"Dhruv Wagle",Outstanding,2026-08-01
+PRF002148,EMP00771,1,"Veda Sahota","Below Average",2025-04-29
+PRF002149,EMP00247,2,"Theodore Sha","Exceeds Expectations",2026-05-29
+PRF002150,EMP00550,2,"Chanakya Dada",Outstanding,2026-03-11
+PRF002151,EMP00880,3,"Ekansh Samra","Needs Improvement",2024-02-21
+PRF002152,EMP00559,3,"Harinakshi Varughese","Needs Improvement",2024-08-27
+PRF002153,EMP00547,1,"Azaan Grewal","Below Average",2025-10-19
+PRF002154,EMP00370,1,"Faqid Prabhu","Below Average",2025-09-02
+PRF002155,EMP00075,1,"Pavani Magar","Below Average",2024-07-16
+PRF002156,EMP00080,2,"Charles Bera","Meets Expectations",2026-06-01
+PRF002157,EMP00840,4,"Ranveer Sood","Needs Improvement",2025-08-01
+PRF002158,EMP00544,1,"Avni Chatterjee","Below Average",2026-04-05
+PRF002159,EMP00932,4,"Nikita Dua","Needs Improvement",2025-08-20
+PRF002160,EMP00090,2,"Avni Chatterjee","Exceeds Expectations",2025-08-20
+PRF002161,EMP00734,3,"Neelima Bhasin","Needs Improvement",2026-07-23
+PRF002162,EMP00376,2,"Upma Pant","Exceeds Expectations",2023-11-27
+PRF002163,EMP00877,1,"Avni Chatterjee","Below Average",2023-03-10
+PRF002164,EMP00944,3,"Veda Sahota","Needs Improvement",2025-10-24
+PRF002165,EMP00911,2,"Falguni Halder","Meets Expectations",2025-11-09
+PRF002166,EMP00947,1,"Gautam Sinha","Below Average",2026-04-28
+PRF002167,EMP00548,2,"Chanakya Dada","Exceeds Expectations",2025-03-14
+PRF002168,EMP00331,2,"Dhriti Nagar","Excellent Performer",2023-10-08
+PRF002169,EMP00292,2,"Tanay Shetty","Meets Expectations",2024-07-22
+PRF002170,EMP00894,3,"Farhan Sharaf","Needs Improvement",2025-10-25
+PRF002171,EMP00562,2,"Farhan Sharaf","Needs Improvement",2023-12-29
+PRF002172,EMP01086,3,"Theodore Sha","Needs Improvement",2023-11-20
+PRF002173,EMP00907,2,"Ranveer Sood","Meets Expectations",2026-07-27
+PRF002174,EMP01092,2,"Dhriti Nagar","Excellent Performer",2026-02-09
+PRF002175,EMP00792,1,NULL,Outstanding,2024-08-06
+PRF002176,EMP00357,3,"Farhan Sharaf","Excellent Performer",2023-08-18
+PRF002177,EMP00472,2,"Dhriti Nagar","Exceeds Expectations",2024-01-08
+PRF002178,EMP00316,2,"Vincent Loyal","Excellent Performer",2024-03-07
+PRF002179,EMP00843,4,NULL,"Needs Improvement",2025-07-29
+PRF002180,EMP00369,5,"Faqid Prabhu","Needs Improvement",2026-03-27
+PRF002181,EMP00549,2,"Theodore Sha","Excellent Performer",2024-01-18
+PRF002182,EMP00599,3,"Falguni Halder","Needs Improvement",2025-10-06
+PRF002183,EMP00373,1,"Vincent Loyal","Below Average",2026-06-24
+PRF002184,EMP00689,3,"Upma Pant",Outstanding,2024-05-30
+PRF002185,EMP00483,5,"Azaan Grewal","Needs Improvement",2023-12-19
+PRF002186,EMP00170,3,"Charan Sen","Needs Improvement",2023-08-22
+PRF002187,EMP00697,1,NULL,"Below Average",2026-01-17
+PRF002188,EMP01087,1,NULL,"Below Average",2025-07-31
+PRF002189,EMP00765,3,"Xavier Gole","Excellent Performer",2024-10-30
+PRF002190,EMP01147,1,"Saumya Srinivas","Excellent Performer",2025-05-09
+PRF002191,EMP00717,1,"Falguni Halder","Below Average",2025-08-26
+PRF002192,EMP00803,2,"Tanay Shetty","Meets Expectations",2024-11-12
+PRF002193,EMP00397,4,"Shivani Varughese","Needs Improvement",2025-08-05
+PRF002194,EMP00181,3,"Niharika Nagi","Needs Improvement",2025-03-11
+PRF002195,EMP00896,5,"Ranveer Sood",Outstanding,2026-07-25
+PRF002196,EMP00638,2,"Jagvi Parmar","Exceeds Expectations",2026-04-23
+PRF002197,EMP00241,5,"Charles Bera",Outstanding,2026-02-17
+PRF002198,EMP00261,1,"Xavier Gole","Below Average",2025-01-21
+PRF002199,EMP00677,2,"Tanay Shetty","Exceeds Expectations",2024-10-11
+PRF002200,EMP01188,2,"Veda Sahota","Meets Expectations",2025-11-23
