@@ -38,9 +38,6 @@ The Power BI dashboard is organized across 4 pages:
 - Salary & Performance Analysis – salary trends and performance ratings by department
 - Attendance & Attrition Analysis – attendance patterns and attrition breakdown
 
-Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
 
 🧮 SQL Analysis
 SQL was used to perform:
@@ -57,11 +54,14 @@ The complete SQL queries are available in:
 
 🔍 Key Insights
 
-[[ APNE DASHBOARD SE 3-4 ACTUAL FINDINGS YAHAN LIKHO — jaise: kaunsa department sabse zyada attrition dikhata hai, kaunsi designation ka average salary sabse zyada hai, overall attendance rate kitna hai ]]
+🔍 Key Insights
+- Marketing department has the highest attrition (40 employees)
+- Better Opportunity is the most common reason for attrition (25.94%)
+- Human Resources department has the highest employee count (135)
+- Overall attrition rate stands at 26.02%
+- Senior Analyst has the highest average net salary among designations
+- Employee age group 40-49 forms the largest workforce segment
 
-- 
-- 
-- 
 
 📁 Project Files
 
@@ -74,12 +74,6 @@ The complete SQL queries are available in:
 - `hr.sql`
 - `HR.pbix`
 
-🚀 How to Use
-
-1. Download the project files.
-2. Open the SQL file to explore the analysis.
-3. Open the `.pbix` file using Power BI Desktop.
-4. Use the dashboard filters and visuals to explore the insights.
 
 👤 Author
 Ayush Kukreti
