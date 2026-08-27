@@ -38,7 +38,7 @@ The Power BI dashboard is organized across 4 pages:
 - Salary & Performance Analysis – salary trends and performance ratings by department
 - Attendance & Attrition Analysis – attendance patterns and attrition breakdown
 📄 Dashboard Overview & Business Insights For a complete view of all dashboard pages(HR Overview,Workforce & Employee Analysis,Salary & Performance Analysis,Attendance & Attrition Analysis,key insights)
-  [📄 View HR Dashboard](./dashboard_view.pdf)
+  [📄 View HR Dashboard](./hrdahsboardview.pdf)
 
 🧮 SQL Analysis
 SQL was used to perform:
